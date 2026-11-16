@@ -1,0 +1,6094 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wnl-ui\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-07-06 00:00+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, c-format
+msgid "%d added, %d skipped, %d failed"
+msgstr "%d lisätty, %d ohitettu, %d epäonnistui"
+
+#, c-format
+msgid "%d blocked message"
+msgstr "%d estetty viesti"
+
+#, c-format
+msgid "%d blocked messages"
+msgstr "%d estettyä viestiä"
+
+#, c-format
+msgid "%d bytes"
+msgstr "%d tavua"
+
+#, c-format
+msgid "%d connecting"
+msgstr "%d yhdistämässä"
+
+#, c-format
+msgid "%d day"
+msgstr "%d päivä"
+
+#, c-format
+msgid "%d day ago"
+msgstr "%d päivä sitten"
+
+#, c-format
+msgid "%d days"
+msgstr "%d päivää"
+
+#, c-format
+msgid "%d days ago"
+msgstr "%d päivää sitten"
+
+#, c-format
+msgid "%d edit"
+msgstr "%d muokkaus"
+
+#, c-format
+msgid "%d edits"
+msgstr "%d muokkausta"
+
+#, c-format
+msgid "%d emoji"
+msgstr "Emojeja: %d"
+
+#, c-format
+msgid "%d emoji previews couldn't be loaded."
+msgstr "%d emojin esikatselua ei voitu ladata."
+
+#, c-format
+msgid "%d file"
+msgstr "%d tiedosto"
+
+#, c-format
+msgid "%d files"
+msgstr "%d tiedostoa"
+
+#, c-format
+msgid "%d hour"
+msgstr "%d tunti"
+
+#, c-format
+msgid "%d hour ago"
+msgstr "%d tunti sitten"
+
+#, c-format
+msgid "%d hours"
+msgstr "%d tuntia"
+
+#, c-format
+msgid "%d hours ago"
+msgstr "%d tuntia sitten"
+
+#, c-format
+msgid "%d key packages. On this device: %d. On relays: %d."
+msgstr "%d key packagea. Tällä laitteella: %d. Releissä: %d."
+
+#, c-format
+msgid "%d member"
+msgstr "%d jäsen"
+
+#, c-format
+msgid "%d members"
+msgstr "%d jäsentä"
+
+#, c-format
+msgid "%d minute"
+msgstr "%d minuutti"
+
+#, c-format
+msgid "%d minute ago"
+msgstr "%d minuutti sitten"
+
+#, c-format
+msgid "%d minutes"
+msgstr "%d minuuttia"
+
+#, c-format
+msgid "%d minutes ago"
+msgstr "%d minuuttia sitten"
+
+#, c-format
+msgid "%d month ago"
+msgstr "%d kuukausi sitten"
+
+#, c-format
+msgid "%d months ago"
+msgstr "%d kuukautta sitten"
+
+#, c-format
+msgid "%d not connected"
+msgstr "%d ilman yhteyttä"
+
+#, c-format
+msgid "%d of %d"
+msgstr "%d/%d"
+
+#, c-format
+msgid "%d of %d connected"
+msgstr "%d/%d yhdistetty"
+
+#, c-format
+msgid "%d of %d processed"
+msgstr "%d/%d käsitelty"
+
+#, c-format
+msgid "%d of %d relays are up."
+msgstr "%d/%d releestä toiminnassa."
+
+#, c-format
+msgid "%d of %d shared with you"
+msgstr "%d/%d yhteisiä kanssasi"
+
+#, c-format
+msgid "%d people couldn't be added. Ask them to open White Noise, then invite them again."
+msgstr "%d henkilöä ei voitu lisätä. Pyydä heitä avaamaan White Noise ja kutsu heidät sitten uudelleen."
+
+#, c-format
+msgid "%d people will be added to the group."
+msgstr "%d henkilöä lisätään ryhmään."
+
+#, c-format
+msgid "%d person couldn't be added. Ask them to open White Noise, then invite them again."
+msgstr "%d henkilöä ei voitu lisätä. Pyydä häntä avaamaan White Noise ja kutsu hänet sitten uudelleen."
+
+#, c-format
+msgid "%d published, so people can invite you."
+msgstr "%d julkaistu, joten sinut voidaan kutsua."
+
+#, c-format
+msgid "%d replies"
+msgstr "%d vastausta"
+
+#, c-format
+msgid "%d reply"
+msgstr "%d vastaus"
+
+#, c-format
+msgid "%d result"
+msgstr "%d tulos"
+
+#, c-format
+msgid "%d results"
+msgstr "%d tulosta"
+
+#, c-format
+msgid "%d rule"
+msgstr "%d sääntö"
+
+#, c-format
+msgid "%d rules"
+msgstr "%d sääntöä"
+
+#, c-format
+msgid "%d second"
+msgstr "%d sekunti"
+
+#, c-format
+msgid "%d second ago"
+msgstr "%d sekunti sitten"
+
+#, c-format
+msgid "%d seconds"
+msgstr "%d sekuntia"
+
+#, c-format
+msgid "%d seconds ago"
+msgstr "%d sekuntia sitten"
+
+#, c-format
+msgid "%d terminal"
+msgstr "%d pääte"
+
+#, c-format
+msgid "%d terminals"
+msgstr "%d päätettä"
+
+#, c-format
+msgid "%d voters"
+msgstr "%d äänestäjää"
+
+#, c-format
+msgid "%d votes"
+msgstr "%d ääntä"
+
+#, c-format
+msgid "%d waiting"
+msgstr "%d odottaa"
+
+#, c-format
+msgid "%d waiting to connect"
+msgstr "%d odottaa yhteyttä"
+
+#, c-format
+msgid "%d year ago"
+msgstr "%d vuosi sitten"
+
+#, c-format
+msgid "%d years ago"
+msgstr "%d vuotta sitten"
+
+#, c-format
+msgid "%d/%d RELAYS"
+msgstr "RELEET %d/%d"
+
+#, c-format
+msgid "%s added %s"
+msgstr "%s lisäsi käyttäjän %s"
+
+#, c-format
+msgid "%s audit log"
+msgstr "Audit-loki: %s"
+
+#, c-format
+msgid "%s changed the disappearing message timer"
+msgstr "%s muutti katoavien viestien ajastinta"
+
+#, c-format
+msgid "%s changed the group photo"
+msgstr "%s vaihtoi ryhmän kuvan"
+
+#, c-format
+msgid "%s copy"
+msgstr "%s (kopio)"
+
+#, c-format
+msgid "%s disbanded the group"
+msgstr "%s lakkautti ryhmän"
+
+#, c-format
+msgid "%s dismissed %s as admin"
+msgstr "%s poisti käyttäjän %s ylläpitäjistä"
+
+#, c-format
+msgid "%s guide"
+msgstr "Opas: %s"
+
+#, c-format
+msgid "%s is no longer an admin"
+msgstr "%s ei ole enää ylläpitäjä"
+
+#, c-format
+msgid "%s left the group"
+msgstr "%s poistui ryhmästä"
+
+#, c-format
+msgid "%s made %s an admin"
+msgstr "%s teki käyttäjästä %s ylläpitäjän"
+
+#, c-format
+msgid "%s removed %s"
+msgstr "%s poisti käyttäjän %s"
+
+#, c-format
+msgid "%s removed the group name"
+msgstr "%s poisti ryhmän nimen"
+
+#, c-format
+msgid "%s renamed the group to %s"
+msgstr "%s nimesi ryhmän uudelleen: %s"
+
+#, c-format
+msgid "%s set disappearing messages to %s"
+msgstr "%s asetti katoavien viestien ajaksi %s"
+
+#, c-format
+msgid "%s turned off disappearing messages"
+msgstr "%s poisti katoavat viestit käytöstä"
+
+#, c-format
+msgid "%s was added to the group"
+msgstr "%s lisättiin ryhmään"
+
+#, c-format
+msgid "%s was made an admin"
+msgstr "%s tehtiin ylläpitäjäksi"
+
+#, c-format
+msgid "%s was removed from the group"
+msgstr "%s poistettiin ryhmästä"
+
+#, c-format
+msgid "%s will be added to the group."
+msgstr "%s lisätään ryhmään."
+
+#, c-format
+msgid "%s · Click to download."
+msgstr "%s · Lataa napsauttamalla."
+
+#, c-format
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "(no display name)"
+msgstr "(ei näyttönimeä)"
+
+msgid "(none)"
+msgstr "(ei mitään)"
+
+msgid "(nothing loaded yet, click Refresh)"
+msgstr "(mitään ei ole vielä ladattu, napsauta Päivitä)"
+
+msgid "(unknown)"
+msgstr "(tuntematon)"
+
+msgid "(unpublished)"
+msgstr "(julkaisematon)"
+
+#, c-format
+msgid "+%d more"
+msgstr "+%d lisää"
+
+#, c-format
+msgid "1 key package. %s"
+msgstr "1 key package. %s"
+
+msgid "1 vote"
+msgstr "1 ääni"
+
+msgid "1 voter"
+msgstr "1 äänestäjä"
+
+msgid "25 European languages, including English and Italian."
+msgstr "25 eurooppalaista kieltä, mukaan lukien englanti ja italia."
+
+msgid "3D models"
+msgstr "3D-mallit"
+
+msgid "A checked box means you placed the chat by hand. Clear it to let folder rules decide."
+msgstr "Valintamerkki tarkoittaa, että sijoitit keskustelun itse. Poista se, niin kansiosäännöt päättävät."
+
+msgid "A client for private group chat. Messages are sealed with MLS on this device, handed to Nostr relays as opaque blobs, and opened again only inside the group."
+msgstr "Asiakasohjelma yksityisiin ryhmäkeskusteluihin. Viestit sinetöidään MLS:llä tällä laitteella, luovutetaan Nostr-releille läpinäkymättöminä tietoina ja avataan uudelleen vain ryhmän sisällä."
+
+msgid "A display name is required."
+msgstr "Näyttönimi vaaditaan."
+
+msgid "A key package lets people invite you to encrypted chats."
+msgstr "Key packagen avulla muut voivat kutsua sinut salattuihin keskusteluihin."
+
+msgid "A message at this size."
+msgstr "Viesti tässä koossa."
+
+msgid "A terminal is waiting for you."
+msgstr "Pääte odottaa sinua."
+
+msgid "ABOUT"
+msgstr "TIETOJA"
+
+msgid "ACCENTS"
+msgstr "KOROSTUKSET"
+
+#, c-format
+msgid "ACCOUNTS   %d"
+msgstr "TILIT   %d"
+
+msgid "ACTIONS"
+msgstr "TOIMINNOT"
+
+msgid "ACTIVE"
+msgstr "AKTIIVINEN"
+
+msgid "AI agents"
+msgstr "Tekoälyagentit"
+
+msgid "ANIMATION"
+msgstr "ANIMAATIO"
+
+msgid "About"
+msgstr "Tietoja"
+
+msgid "About White Noise"
+msgstr "Tietoja White Noisesta"
+
+#, c-format
+msgid "Accent %s color"
+msgstr "Korostuksen %s väri"
+
+#, c-format
+msgid "Accent %s name"
+msgstr "Korostuksen %s nimi"
+
+msgid "Accent color"
+msgstr "Korostusväri"
+
+msgid "Accept"
+msgstr "Hyväksy"
+
+msgid "Accepting your invitation"
+msgstr "Hyväksytään kutsuasi"
+
+msgid "Account"
+msgstr "Tili"
+
+msgid "Accounts"
+msgstr "Tilit"
+
+#, c-format
+msgid "Action failed: %s"
+msgstr "Toiminto epäonnistui: %s"
+
+msgid "Add"
+msgstr "Lisää"
+
+msgid "Add a question for your poll."
+msgstr "Lisää kyselyllesi kysymys."
+
+msgid "Add account"
+msgstr "Lisää tili"
+
+msgid "Add an option..."
+msgstr "Lisää vaihtoehto..."
+
+msgid "Add another account"
+msgstr "Lisää toinen tili"
+
+msgid "Add at least two options."
+msgstr "Lisää vähintään kaksi vaihtoehtoa."
+
+msgid "Add contact"
+msgstr "Lisää yhteystieto"
+
+msgid "Add member"
+msgstr "Lisää jäsen"
+
+msgid "Add option"
+msgstr "Lisää vaihtoehto"
+
+msgid "Add pack"
+msgstr "Lisää paketti"
+
+msgid "Add reaction"
+msgstr "Lisää reaktio"
+
+msgid "Add relays for linked events"
+msgstr "Lisää releitä linkitetyille tapahtumille"
+
+msgid "Add rule"
+msgstr "Lisää sääntö"
+
+msgid "Add someone by npub, or make a group of your own."
+msgstr "Lisää joku npubin avulla tai luo oma ryhmä."
+
+msgid "Add someone from their profile or paste their npub above. You can also import a contacts CSV or JSON export."
+msgstr "Lisää joku hänen profiilistaan tai liitä hänen npubinsa yllä olevaan kenttään. Voit myös tuoda yhteystiedot CSV- tai JSON-viennistä."
+
+msgid "Add to group"
+msgstr "Lisää ryhmään"
+
+msgid "Added to your stickers"
+msgstr "Lisätty tarroihisi"
+
+msgid "Adding…"
+msgstr "Lisätään…"
+
+msgid "Admin"
+msgstr "Ylläpitäjä"
+
+msgid "Admins can add and remove members and change group details."
+msgstr "Ylläpitäjät voivat lisätä ja poistaa jäseniä ja muuttaa ryhmän tietoja."
+
+msgid "Advanced"
+msgstr "Lisäasetukset"
+
+msgid "Agent connector documentation"
+msgstr "Agentin connector-ohjeet"
+
+msgid "Airmail"
+msgstr "Lentoposti"
+
+msgid "All"
+msgstr "Kaikki"
+
+msgid "All accounts stay connected. Switching only changes which one you're looking at."
+msgstr "Kaikki tilit pysyvät yhdistettyinä. Vaihtaminen muuttaa vain sitä, mitä tiliä katselet."
+
+msgid "All categories"
+msgstr "Kaikki luokat"
+
+msgid "All chats"
+msgstr "Kaikki keskustelut"
+
+msgid "All senders"
+msgstr "Kaikki lähettäjät"
+
+msgid "All types"
+msgstr "Kaikki tyypit"
+
+msgid "Allow and connect"
+msgstr "Salli ja yhdistä"
+
+msgid "Allow the signer permissions to continue."
+msgstr "Jatka sallimalla allekirjoittajan käyttöoikeudet."
+
+msgid "Allow your signer's permissions to keep using this account."
+msgstr "Salli allekirjoittajasi käyttöoikeudet, jotta voit jatkaa tämän tilin käyttöä."
+
+msgid "Allow your signer's permissions to use this account."
+msgstr "Salli allekirjoittajasi käyttöoikeudet, jotta voit käyttää tätä tiliä."
+
+msgid "Always open links to this site"
+msgstr "Avaa aina linkit tälle sivustolle"
+
+msgid "Amber"
+msgstr "Meripihka"
+
+msgid "An empty box derives its value. The window previews as you type."
+msgstr "Tyhjä kenttä johtaa arvonsa muista. Ikkuna näyttää esikatselun kirjoittaessasi."
+
+msgid "Animations are distracting"
+msgstr "Animaatiot häiritsevät"
+
+msgid "Another group change took precedence. Review your group settings."
+msgstr "Toinen ryhmän muutos meni edelle. Tarkista ryhmän asetukset."
+
+msgid "Any attachment"
+msgstr "Mikä tahansa liite"
+
+msgid "Any day"
+msgstr "Mikä tahansa päivä"
+
+msgid "Any sender"
+msgstr "Kuka tahansa lähettäjä"
+
+msgid "Any type"
+msgstr "Mikä tahansa tyyppi"
+
+msgid "Anything you write here stays between you and this device's key."
+msgstr "Kaikki, mitä kirjoitat tähän, pysyy sinun ja tämän laitteen avaimen välillä."
+
+msgid "Appearance"
+msgstr "Ulkoasu"
+
+msgid "Applies to message bodies and the composer."
+msgstr "Koskee viestien tekstiä ja kirjoituskenttää."
+
+msgid "Applies to the picker, reactions and emoji in messages."
+msgstr "Koskee valitsinta, reaktioita ja viestien emojeita."
+
+msgid "Apps"
+msgstr "Sovellukset"
+
+msgid "Apr"
+msgstr "huhtik."
+
+msgid "Arabic (Egypt)"
+msgstr "Arabia (Egypti)"
+
+msgid "Arabic (Saudi Arabia)"
+msgstr "Arabia (Saudi-Arabia)"
+
+msgid "Archive"
+msgstr "Arkistoi"
+
+msgid "Archive this chat?"
+msgstr "Arkistoidaanko tämä keskustelu?"
+
+msgid "Archived chats"
+msgstr "Arkistoidut keskustelut"
+
+msgid "Archives"
+msgstr "Arkistot"
+
+msgid "Arrow keys move. X is A, Z is B, Enter is Start, Shift is Select."
+msgstr "Nuolinäppäimet liikuttavat. X on A, Z on B, Enter on Start, Shift on Select."
+
+msgid "Art deco"
+msgstr "Art deco"
+
+msgid "Ask a question..."
+msgstr "Kysy kysymys..."
+
+msgid "Asking your relays for their key package."
+msgstr "Kysytään releiltäsi hänen key packageaan."
+
+msgid "Attach a file"
+msgstr "Liitä tiedosto"
+
+msgid "Attachment"
+msgstr "Liite"
+
+msgid "Audio"
+msgstr "Ääni"
+
+msgid "Audio message"
+msgstr "Ääniviesti"
+
+msgid "Audit log file deleted."
+msgstr "Audit-lokitiedosto poistettu."
+
+msgid "Audit log files"
+msgstr "Audit-lokitiedostot"
+
+msgid "Audit logs"
+msgstr "Audit-lokit"
+
+msgid "Aug"
+msgstr "elok."
+
+msgid "Author"
+msgstr "Tekijä"
+
+#, c-format
+msgid "Author: %s"
+msgstr "Tekijä: %s"
+
+msgid "Automatic AppImage updates are unavailable with SOCKS5 enabled. Update the AppImage manually."
+msgstr "Automaattiset AppImage-päivitykset eivät ole käytettävissä, kun SOCKS5 on käytössä. Päivitä AppImage käsin."
+
+msgid "Automatic updates are disabled in development builds."
+msgstr "Automaattiset päivitykset eivät ole käytössä kehitysversioissa."
+
+msgid "Automatic updates require the installed macOS app bundle."
+msgstr "Automaattiset päivitykset vaativat asennetun macOS-sovelluspaketin."
+
+msgid "Automatically check for updates"
+msgstr "Tarkista päivitykset automaattisesti"
+
+msgid "Automatically download updates"
+msgstr "Lataa päivitykset automaattisesti"
+
+msgid "Automatically load previews of images and supported websites. Their hosts can see your IP address. Turning this off stops automatic link previews, not attachment downloads."
+msgstr "Lataa automaattisesti kuvien ja tuettujen verkkosivustojen esikatselut. Niiden palvelimet näkevät IP-osoitteesi. Kun tämä on pois käytöstä, linkkien esikatseluja ei ladata automaattisesti, mutta liitteet ladataan silti."
+
+msgid "Available offline"
+msgstr "Käytettävissä offline-tilassa"
+
+msgid "Avatar ring"
+msgstr "Profiilikuvan rengas"
+
+msgid "Avatars"
+msgstr "Profiilikuvat"
+
+msgid "BACKDROP"
+msgstr "TAUSTA"
+
+msgid "BUNKER LINK"
+msgstr "BUNKER-LINKKI"
+
+msgid "Back"
+msgstr "Takaisin"
+
+msgid "Back to account options"
+msgstr "Takaisin tilivaihtoehtoihin"
+
+msgid "Back to chat"
+msgstr "Takaisin keskusteluun"
+
+msgid "Back to chats"
+msgstr "Takaisin keskusteluihin"
+
+msgid "Back to connectors"
+msgstr "Takaisin connectoreihin"
+
+msgid "Back to sets"
+msgstr "Takaisin sarjoihin"
+
+msgid "Back up local data"
+msgstr "Varmuuskopioi paikalliset tiedot"
+
+msgid "Back up your key"
+msgstr "Varmuuskopioi avaimesi"
+
+msgid "Background"
+msgstr "Tausta"
+
+msgid "Background 2"
+msgstr "Tausta 2"
+
+msgid "Backup created."
+msgstr "Varmuuskopio luotu."
+
+#, c-format
+msgid "Backup imported: %d files restored."
+msgstr "Varmuuskopio tuotu: %d tiedostoa palautettu."
+
+msgid "Backups include your settings, drafts, custom emoji, and themes. Your account keys and message history are not included."
+msgstr "Varmuuskopiot sisältävät asetuksesi, luonnokset, omat emojit ja teemat. Tilisi avaimet ja viestihistoria eivät sisälly niihin."
+
+msgid "Base color"
+msgstr "Perusväri"
+
+msgid "Bengali"
+msgstr "Bengali"
+
+msgid "Bevel light"
+msgstr "Viisteen valo"
+
+msgid "Bevel shade"
+msgstr "Viisteen varjo"
+
+msgid "Bevelled surfaces"
+msgstr "Viistetyt pinnat"
+
+msgid "Blinds"
+msgstr "Sälekaihtimet"
+
+msgid "Block"
+msgstr "Estä"
+
+msgid "Block this contact?"
+msgstr "Estetäänkö tämä yhteystieto?"
+
+msgid "Blocked"
+msgstr "Estetty"
+
+msgid "Blocked message"
+msgstr "Estetty viesti"
+
+msgid "Blue"
+msgstr "Sininen"
+
+msgid "Bones"
+msgstr "Luut"
+
+msgid "Bones influence"
+msgstr "Luiden vaikutus"
+
+msgid "Border 2"
+msgstr "Reunus 2"
+
+msgid "Border width"
+msgstr "Reunuksen leveys"
+
+msgid "Bracket labels"
+msgstr "Hakasulkeissa olevat nimikkeet"
+
+msgid "Browse emoji sets"
+msgstr "Selaa emojisarjoja"
+
+msgid "Bubble radius"
+msgstr "Kuplan pyöristys"
+
+msgid "Built with"
+msgstr "Tehty käyttäen"
+
+msgid "Bulgarian"
+msgstr "Bulgaria"
+
+msgid "By rule"
+msgstr "Säännön mukaan"
+
+msgid "CHATS"
+msgstr "KESKUSTELUT"
+
+msgid "COLOR"
+msgstr "VÄRI"
+
+msgid "COMMANDS"
+msgstr "KOMENNOT"
+
+msgid "CONFIRM NEW PASSWORD"
+msgstr "VAHVISTA UUSI SALASANA"
+
+msgid "CONFIRM PASSWORD"
+msgstr "VAHVISTA SALASANA"
+
+msgid "CONNECTING"
+msgstr "YHDISTETÄÄN"
+
+msgid "CONTACTS"
+msgstr "YHTEYSTIEDOT"
+
+msgid "CURRENT PASSWORD"
+msgstr "NYKYINEN SALASANA"
+
+msgid "Cached attachments"
+msgstr "Välimuistissa olevat liitteet"
+
+msgid "Calendar"
+msgstr "Kalenteri"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Cancel connection"
+msgstr "Peruuta yhteys"
+
+msgid "Cancel edit / reply, close panels"
+msgstr "Peruuta muokkaus / vastaus, sulje paneelit"
+
+msgid "Cancel reply"
+msgstr "Peruuta vastaus"
+
+msgid "Cancel translation"
+msgstr "Peruuta käännös"
+
+msgid "Card border"
+msgstr "Kortin reunus"
+
+msgid "Card well"
+msgstr "Kortin syvennys"
+
+msgid "Catalan"
+msgstr "Katalaani"
+
+msgid "Center the conversation"
+msgstr "Keskitä keskustelu"
+
+msgid "Chalk-drawn surfaces"
+msgstr "Liidulla piirretyt pinnat"
+
+msgid "Change disappearing messages?"
+msgstr "Muutetaanko katoavia viestejä?"
+
+msgid "Change password"
+msgstr "Vaihda salasana"
+
+msgid "Change photo"
+msgstr "Vaihda kuva"
+
+msgid "Change picture"
+msgstr "Vaihda kuva"
+
+msgid "Change project avatar"
+msgstr "Vaihda projektin kuva"
+
+msgid "Change rule type"
+msgstr "Vaihda säännön tyyppi"
+
+msgid "Change the date format"
+msgstr "Vaihda päivämäärän muoto"
+
+msgid "Change the interface language"
+msgstr "Vaihda käyttöliittymän kieli"
+
+msgid "Change the message text size"
+msgstr "Muuta viestien tekstikokoa"
+
+msgid "Change the scroll speed"
+msgstr "Muuta vieritysnopeutta"
+
+msgid "Change the theme"
+msgstr "Vaihda teema"
+
+msgid "Change the time format"
+msgstr "Vaihda ajan muoto"
+
+msgid "Change timer"
+msgstr "Muuta ajastinta"
+
+msgid "Change vault password"
+msgstr "Vaihda holvin salasana"
+
+msgid "Change your GM"
+msgstr "Vaihda GM"
+
+msgid "Change your vault password"
+msgstr "Vaihda holvisi salasana"
+
+msgid "Change..."
+msgstr "Muuta..."
+
+msgid "Chat details"
+msgstr "Keskustelun tiedot"
+
+#, c-format
+msgid "Chat list failed: %s"
+msgstr "Keskusteluluettelo epäonnistui: %s"
+
+msgid "Chat options"
+msgstr "Keskustelun valinnat"
+
+msgid "Chat restored."
+msgstr "Keskustelu palautettu."
+
+msgid "Chat settings"
+msgstr "Keskustelun asetukset"
+
+msgid "Chat with AI agents, end-to-end encrypted like any other chat. Each agent runs on a computer or server you control, using its own account."
+msgstr "Keskustele tekoälyagenttien kanssa päästä päähän salattuna kuten missä tahansa muussa keskustelussa. Jokainen agentti toimii omalla tilillään tietokoneella tai palvelimella, jota hallitset."
+
+#, c-format
+msgid "Chat: %s"
+msgstr "Keskustelu: %s"
+
+msgid "Chats"
+msgstr "Keskustelut"
+
+msgid "Chats and Whip projects that match file here automatically. People counts include you. Anything you move by hand stays where you put it."
+msgstr "Säännöt täyttävät keskustelut ja Whip-projektit lajitellaan tänne automaattisesti. Henkilömääriin lasketaan sinut. Kaikki, minkä siirrät käsin, pysyy siellä, minne sen laitoit."
+
+msgid "Chats you archive will appear here."
+msgstr "Arkistoimasi keskustelut näkyvät täällä."
+
+msgid "Check each character against the original and try again."
+msgstr "Vertaa jokaista merkkiä alkuperäiseen ja yritä uudelleen."
+
+msgid "Check every six hours and download signed updates. Restart when you choose."
+msgstr "Tarkista kuuden tunnin välein ja lataa allekirjoitetut päivitykset. Käynnistä uudelleen, kun haluat."
+
+msgid "Check for a key package"
+msgstr "Etsi key packagea"
+
+msgid "Check for a newer version."
+msgstr "Tarkista, onko uudempaa versiota."
+
+msgid "Check now"
+msgstr "Tarkista nyt"
+
+msgid "Check the spelling, or paste their public key."
+msgstr "Tarkista kirjoitusasu tai liitä hänen julkinen avaimensa."
+
+msgid "Check your key package"
+msgstr "Tarkista key packagesi"
+
+msgid "Check your system notifications for the test alert."
+msgstr "Katso testi-ilmoitus järjestelmän ilmoituksista."
+
+msgid "Checking for updates."
+msgstr "Tarkistetaan päivityksiä."
+
+msgid "Checking project folder..."
+msgstr "Tarkistetaan projektikansiota..."
+
+msgid "Checking relays..."
+msgstr "Tarkistetaan releitä..."
+
+msgid "Checking your key with the relays. This takes a few seconds."
+msgstr "Tarkistetaan avaintasi releiltä. Tämä kestää muutaman sekunnin."
+
+msgid "Checking your password and decrypting the vault."
+msgstr "Tarkistetaan salasanaasi ja puretaan holvin salausta."
+
+msgid "Checking..."
+msgstr "Tarkistetaan..."
+
+msgid "Chinese (Simplified)"
+msgstr "Kiina (yksinkertaistettu)"
+
+msgid "Chinese (Traditional)"
+msgstr "Kiina (perinteinen)"
+
+msgid "Chinese, English, Japanese, Korean and Cantonese."
+msgstr "Kiina, englanti, japani, korea ja kantoninkiina."
+
+msgid "Chip background"
+msgstr "Chipin tausta"
+
+msgid "Chip outline"
+msgstr "Chipin ääriviiva"
+
+msgid "Chip text"
+msgstr "Chipin teksti"
+
+msgid "Choose a contacts CSV or JSON export to import."
+msgstr "Valitse tuotava yhteystietojen CSV- tai JSON-vienti."
+
+msgid "Choose a destination for this chat."
+msgstr "Valitse tälle keskustelulle kohde."
+
+msgid "Choose a destination for this project."
+msgstr "Valitse tälle projektille kohde."
+
+msgid "Choose a known sender or enter a public key."
+msgstr "Valitse tunnettu lähettäjä tai anna julkinen avain."
+
+msgid "Choose a location before sending."
+msgstr "Valitse sijainti ennen lähettämistä."
+
+msgid "Choose a project folder to open a terminal."
+msgstr "Valitse projektikansio avataksesi päätteen."
+
+msgid "Choose a project folder."
+msgstr "Valitse projektikansio."
+
+msgid "Choose a sign-in method."
+msgstr "Valitse kirjautumistapa."
+
+msgid "Choose a translation source language"
+msgstr "Valitse käännösten lähdekieli"
+
+msgid "Choose a translation target language"
+msgstr "Valitse käännösten kohdekieli"
+
+msgid "Choose an emoji style"
+msgstr "Valitse emojityyli"
+
+msgid "Choose at most two emoji."
+msgstr "Valitse enintään kaksi emojia."
+
+msgid "Choose how your conversations look and feel."
+msgstr "Valitse, miltä keskustelusi näyttävät ja tuntuvat."
+
+msgid "Choose image"
+msgstr "Valitse kuva"
+
+msgid "Choose one or two emoji. Every member sees the same image."
+msgstr "Valitse yksi tai kaksi emojia. Kaikki jäsenet näkevät saman kuvan."
+
+msgid "Choose one-tap reactions"
+msgstr "Valitse pikareaktiot"
+
+msgid "Choose someone or paste public keys separated by commas."
+msgstr "Valitse joku tai liitä julkisia avaimia pilkuilla erotettuina."
+
+msgid "Choose someone to talk to."
+msgstr "Valitse, kenen kanssa haluat keskustella."
+
+msgid "Choose the crop circle shape"
+msgstr "Valitse viljaympyrän muoto"
+
+msgid "Choose the default avatar shape"
+msgstr "Valitse profiilikuvien oletusmuoto"
+
+msgid "Choose the renderer"
+msgstr "Valitse renderöijä"
+
+msgid "Choose what gets your attention."
+msgstr "Valitse, mistä sinulle ilmoitetaan."
+
+msgid "Choose what you'd like to change."
+msgstr "Valitse, mitä haluat muuttaa."
+
+msgid "Choose when and how White Noise alerts you."
+msgstr "Valitse, milloin ja miten White Noise ilmoittaa sinulle."
+
+msgid "Choose where events open"
+msgstr "Valitse, missä tapahtumat avautuvat"
+
+msgid "Choose where git patches open"
+msgstr "Valitse, missä git-patchit avautuvat"
+
+msgid "Choose where people reach you"
+msgstr "Valitse, mistä sinut tavoittaa"
+
+msgid "Choose where to save the backup."
+msgstr "Valitse, minne varmuuskopio tallennetaan."
+
+msgid "Choose where you publish"
+msgstr "Valitse, minne julkaiset"
+
+msgid "Circle"
+msgstr "Ympyrä"
+
+msgid "Claude Code CLI coding agent"
+msgstr "Claude Code CLI -koodausagentti"
+
+msgid "Clear cache"
+msgstr "Tyhjennä välimuisti"
+
+msgid "Clear cached attachments"
+msgstr "Tyhjennä välimuistissa olevat liitteet"
+
+msgid "Clear effect"
+msgstr "Poista tehoste"
+
+msgid "Clear filters"
+msgstr "Tyhjennä suodattimet"
+
+msgid "Clear search"
+msgstr "Tyhjennä haku"
+
+msgid "Clear to let folder rules decide."
+msgstr "Poista valinta, niin kansiosäännöt päättävät."
+
+msgid "Click a sticker for a larger preview."
+msgstr "Napsauta tarraa nähdäksesi suuremman esikatselun."
+
+msgid "Click to download."
+msgstr "Lataa napsauttamalla."
+
+msgid "Click to edit, drag to reorder."
+msgstr "Muokkaa napsauttamalla, järjestä vetämällä."
+
+msgid "Close"
+msgstr "Sulje"
+
+msgid "Close White Noise"
+msgstr "Sulje White Noise"
+
+msgid "Close pane"
+msgstr "Sulje paneeli"
+
+msgid "Close tab"
+msgstr "Sulje välilehti"
+
+msgid "Close to tray"
+msgstr "Sulje ilmoitusalueelle"
+
+msgid "Closing connections and clearing this session."
+msgstr "Suljetaan yhteydet ja tyhjennetään tämä istunto."
+
+msgid "Closing tab…"
+msgstr "Suljetaan välilehteä…"
+
+msgid "Closing the window hides it. The tray icon shows your unread total and brings it back."
+msgstr "Ikkunan sulkeminen piilottaa sen. Ilmoitusalueen kuvake näyttää lukemattomien kokonaismäärän ja tuo ikkunan takaisin."
+
+msgid "Cloud"
+msgstr "Pilvi"
+
+msgid "Code"
+msgstr "Koodi"
+
+msgid "Code plate"
+msgstr "Koodilaatta"
+
+msgid "Coffee"
+msgstr "Kahvi"
+
+msgid "Collapse messages and event cards after this many lines. Set to 0 to never collapse."
+msgstr "Tiivistä viestit ja tapahtumakortit tämän rivimäärän jälkeen. Valitse 0, jos et halua tiivistää koskaan."
+
+msgid "Collapse the chat list"
+msgstr "Tiivistä keskustelulista"
+
+msgid "Collapse transcription"
+msgstr "Tiivistä litterointi"
+
+msgid "Collecting logs for a bug report"
+msgstr "Lokien kerääminen virheraporttia varten"
+
+msgid "Collector and retention"
+msgstr "Keräys ja säilytys"
+
+msgid "Command palette"
+msgstr "Komentopaletti"
+
+msgid "Comment"
+msgstr "Kommentti"
+
+msgid "Config"
+msgstr "Määritykset"
+
+msgid "Configure a SOCKS5 proxy"
+msgstr "Määritä SOCKS5-välityspalvelin"
+
+msgid "Confirm clear"
+msgstr "Vahvista tyhjennys"
+
+msgid "Confirm delete"
+msgstr "Vahvista poisto"
+
+msgid "Confirm forget all"
+msgstr "Vahvista kaiken unohtaminen"
+
+msgid "Confirm import"
+msgstr "Vahvista tuonti"
+
+msgid "Confirm reveal"
+msgstr "Vahvista näyttäminen"
+
+msgid "Connect an AI agent"
+msgstr "Yhdistä tekoälyagentti"
+
+msgid "Connect an AI agent using your public key and a setup prompt."
+msgstr "Yhdistä tekoälyagentti julkisella avaimellasi ja asennuskehotteella."
+
+msgid "Connect an agent you run and trust."
+msgstr "Yhdistä agentti, jota käytät ja johon luotat."
+
+msgid "Connect to relays"
+msgstr "Yhdistä releisiin"
+
+msgid "Connect with a bunker link"
+msgstr "Yhdistä bunker-linkillä"
+
+msgid "Connect with the relays you choose."
+msgstr "Yhdistä valitsemiesi releiden kautta."
+
+msgid "Connect your remote signer"
+msgstr "Yhdistä etäallekirjoittajasi"
+
+msgid "Connected to relays"
+msgstr "Yhdistetty releisiin"
+
+msgid "Connecting to relays"
+msgstr "Yhdistetään releisiin"
+
+msgid "Connecting to your signer"
+msgstr "Yhdistetään allekirjoittajaasi"
+
+msgid "Connecting your remote signer. Approve the connection there before using this account."
+msgstr "Etäallekirjoittajaasi yhdistetään. Hyväksy yhteys siellä ennen kuin käytät tätä tiliä."
+
+msgid "Connection cancelled."
+msgstr "Yhteys peruttiin."
+
+msgid "Connection settings (SOCKS5 proxy)"
+msgstr "Yhteysasetukset (SOCKS5-välityspalvelin)"
+
+msgid "Connector guide"
+msgstr "Connector-opas"
+
+msgid "Contact"
+msgstr "Yhteystieto"
+
+msgid "Contact added."
+msgstr "Yhteystieto lisätty."
+
+msgid "Contact list collapsed"
+msgstr "Yhteystietolista tiivistetty"
+
+#, c-format
+msgid "Contacts imported: %d added, %d skipped, %d failed."
+msgstr "Yhteystiedot tuotu: %d lisätty, %d ohitettu, %d epäonnistui."
+
+msgid "Contacts only"
+msgstr "Vain yhteystiedot"
+
+msgid "Continue"
+msgstr "Jatka"
+
+msgid "Continue to account setup"
+msgstr "Jatka tilin käyttöönottoon"
+
+msgid "Control background"
+msgstr "Säätimien tausta"
+
+msgid "Conversation preview"
+msgstr "Keskustelun esikatselu"
+
+msgid "Conversations"
+msgstr "Keskustelut"
+
+msgid "Copied"
+msgstr "Kopioitu"
+
+#, c-format
+msgid "Copied %s."
+msgstr "%s kopioitu."
+
+msgid "Copy"
+msgstr "Kopioi"
+
+msgid "Copy JSON"
+msgstr "Kopioi JSON"
+
+msgid "Copy coordinates"
+msgstr "Kopioi koordinaatit"
+
+msgid "Copy error"
+msgstr "Kopioi virhe"
+
+msgid "Copy group id"
+msgstr "Kopioi ryhmän tunnus"
+
+msgid "Copy image"
+msgstr "Kopioi kuva"
+
+msgid "Copy info hash"
+msgstr "Kopioi info hash"
+
+msgid "Copy link"
+msgstr "Kopioi linkki"
+
+msgid "Copy magnet link"
+msgstr "Kopioi magnet-linkki"
+
+msgid "Copy npub"
+msgstr "Kopioi npub"
+
+msgid "Copy pairing link"
+msgstr "Kopioi parituslinkki"
+
+msgid "Copy prompt"
+msgstr "Kopioi kehote"
+
+msgid "Copy public key"
+msgstr "Kopioi julkinen avain"
+
+msgid "Copy text"
+msgstr "Kopioi teksti"
+
+msgid "Copy this link and open it in your browser."
+msgstr "Kopioi tämä linkki ja avaa se selaimessasi."
+
+msgid "Copy your public key"
+msgstr "Kopioi julkinen avaimesi"
+
+msgid "Corner scale"
+msgstr "Kulmien skaalaus"
+
+#, c-format
+msgid "Couldn't add record %d. %s Check your relay settings and import again."
+msgstr "Tietuetta %d ei voitu lisätä. %s Tarkista releasetuksesi ja tuo uudelleen."
+
+msgid "Couldn't add that relay. Double-check the address and try again."
+msgstr "Relettä ei voitu lisätä. Tarkista osoite ja yritä uudelleen."
+
+msgid "Couldn't add the pack. Please try again."
+msgstr "Pakettia ei voitu lisätä. Yritä uudelleen."
+
+msgid "Couldn't add the relay. Enter a ws:// or wss:// URL with a host, such as wss://relay.example.com."
+msgstr "Relettä ei voitu lisätä. Anna ws://- tai wss://-osoite, jossa on palvelin, esimerkiksi wss://relay.example.com."
+
+#, c-format
+msgid "Couldn't archive. %s"
+msgstr "Arkistointi epäonnistui. %s"
+
+msgid "Couldn't cache your transcription. Please try again."
+msgstr "Litterointia ei voitu tallentaa välimuistiin. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't change audit logs. %s"
+msgstr "Audit-lokeja ei voitu muuttaa. %s"
+
+msgid "Couldn't change diagnostics sharing. Please try again."
+msgstr "Diagnostiikan jakamista ei voitu muuttaa. Yritä uudelleen."
+
+msgid "Couldn't change disappearing messages. Please try again."
+msgstr "Katoavia viestejä ei voitu muuttaa. Yritä uudelleen."
+
+msgid "Couldn't change the password. Please try again."
+msgstr "Salasanaa ei voitu vaihtaa. Yritä uudelleen."
+
+msgid "Couldn't check for updates. Please try again."
+msgstr "Päivityksiä ei voitu tarkistaa. Yritä uudelleen."
+
+msgid "Couldn't check the project folder. Please try again."
+msgstr "Projektikansiota ei voitu tarkistaa. Yritä uudelleen."
+
+msgid "Couldn't choose a folder. Close your open file picker and try again."
+msgstr "Kansiota ei voitu valita. Sulje avoinna oleva tiedostovalitsin ja yritä uudelleen."
+
+msgid "Couldn't choose a photo. Close your open file picker and try again."
+msgstr "Kuvaa ei voitu valita. Sulje avoinna oleva tiedostovalitsin ja yritä uudelleen."
+
+msgid "Couldn't close the tab. Please try again."
+msgstr "Välilehteä ei voitu sulkea. Yritä uudelleen."
+
+msgid "Couldn't complete the signer request. Please try again."
+msgstr "Allekirjoittajan pyyntöä ei voitu suorittaa. Yritä uudelleen."
+
+msgid "Couldn't complete the signer request. Use a signer that supports this operation."
+msgstr "Allekirjoittajan pyyntöä ei voitu suorittaa. Käytä allekirjoittajaa, joka tukee tätä toimintoa."
+
+msgid "Couldn't complete your account action. Please try again."
+msgstr "Tilitoimintoa ei voitu suorittaa. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't complete your account action. Please try again. (%s)"
+msgstr "Tilitoimintoa ei voitu suorittaa. Yritä uudelleen. (%s)"
+
+msgid "Couldn't configure the proxy. Please try again."
+msgstr "Välityspalvelinta ei voitu määrittää. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't copy %s. Please try again."
+msgstr "Kohdetta %s ei voitu kopioida. Yritä uudelleen."
+
+msgid "Couldn't copy the image to the clipboard. Please try again."
+msgstr "Kuvaa ei voitu kopioida leikepöydälle. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't create an identity. %s"
+msgstr "Identiteettiä ei voitu luoda. %s"
+
+msgid "Couldn't create the backup. Please try again."
+msgstr "Varmuuskopiota ei voitu luoda. Yritä uudelleen."
+
+msgid "Couldn't create the chat. No one you picked has a key package White Noise can use. Ask them to open White Noise, then try again."
+msgstr "Keskustelua ei voitu luoda. Kenelläkään valitsemistasi henkilöistä ei ole key packagea, jota White Noise voi käyttää. Pyydä heitä avaamaan White Noise ja yritä sitten uudelleen."
+
+msgid "Couldn't create the group. Enter a name and try again."
+msgstr "Ryhmää ei voitu luoda. Anna nimi ja yritä uudelleen."
+
+msgid "Couldn't create the project. Please try again."
+msgstr "Projektia ei voitu luoda. Yritä uudelleen."
+
+msgid "Couldn't create the tab. Please try again."
+msgstr "Välilehteä ei voitu luoda. Yritä uudelleen."
+
+msgid "Couldn't create the vault. Please try again."
+msgstr "Holvia ei voitu luoda. Yritä uudelleen."
+
+msgid "Couldn't crop the picture. Please try again."
+msgstr "Kuvaa ei voitu rajata. Yritä uudelleen."
+
+msgid "Couldn't decode the image. Choose a PNG or JPEG."
+msgstr "Kuvaa ei voitu purkaa. Valitse PNG- tai JPEG-kuva."
+
+msgid "Couldn't decode this audio. Try another audio file."
+msgstr "Ääntä ei voitu purkaa. Kokeile toista äänitiedostoa."
+
+#, c-format
+msgid "Couldn't delete %s. Please try again."
+msgstr "Kohdetta %s ei voitu poistaa. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't delete the audit log file. %s"
+msgstr "Audit-lokitiedostoa ei voitu poistaa. %s"
+
+msgid "Couldn't download speech files. Please try again."
+msgstr "Puhetiedostoja ei voitu ladata. Yritä uudelleen."
+
+msgid "Couldn't download the speech model. Check your connection and available disk space, then try again."
+msgstr "Puhemallia ei voitu ladata. Tarkista yhteys ja vapaa levytila ja yritä sitten uudelleen."
+
+msgid "Couldn't download the translation model. Check your connection and available disk space, then try again."
+msgstr "Käännösmallia ei voitu ladata. Tarkista yhteys ja vapaa levytila ja yritä sitten uudelleen."
+
+msgid "Couldn't export contacts. Please try again."
+msgstr "Yhteystietoja ei voitu viedä. Yritä uudelleen."
+
+msgid "Couldn't export the chat. Please try again."
+msgstr "Keskustelua ei voitu viedä. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't export the key. %s"
+msgstr "Avainta ei voitu viedä. %s"
+
+msgid "Couldn't find your account on the relays. Check your relay settings and try again."
+msgstr "Tiliäsi ei löytynyt releiltä. Tarkista releasetuksesi ja yritä uudelleen."
+
+msgid "Couldn't find your home folder. Enter an absolute project folder path."
+msgstr "Kotikansiotasi ei löytynyt. Anna projektikansion absoluuttinen polku."
+
+msgid "Couldn't finish dictation. Please try again."
+msgstr "Sanelua ei voitu viimeistellä. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't forward to %s. Open the chat to retry."
+msgstr "Välittäminen kohteeseen %s epäonnistui. Yritä uudelleen avaamalla keskustelu."
+
+msgid "Couldn't forward. Please try again."
+msgstr "Välittäminen epäonnistui. Yritä uudelleen."
+
+msgid "Couldn't get your location. Check your device's location permissions and try again."
+msgstr "Sijaintiasi ei saatu. Tarkista laitteesi sijaintiluvat ja yritä uudelleen."
+
+msgid "Couldn't get your location. Check your device's location permissions or pick a point on the map."
+msgstr "Sijaintiasi ei saatu. Tarkista laitteesi sijaintiluvat tai valitse kohta kartalta."
+
+msgid "Couldn't hear any speech. Speak clearly and try again."
+msgstr "Puhetta ei kuulunut. Puhu selkeästi ja yritä uudelleen."
+
+msgid "Couldn't identify a supported language. Choose the source language in translation settings and try again."
+msgstr "Tuettua kieltä ei tunnistettu. Valitse lähdekieli käännösasetuksista ja yritä uudelleen."
+
+msgid "Couldn't import contacts. Choose a JSON array of contact records."
+msgstr "Yhteystietoja ei voitu tuoda. Valitse JSON-taulukko yhteystietotietueista."
+
+msgid "Couldn't import contacts. Choose a contacts CSV or JSON export."
+msgstr "Yhteystietoja ei voitu tuoda. Valitse yhteystietojen CSV- tai JSON-vienti."
+
+msgid "Couldn't import contacts. Choose a valid contacts JSON export."
+msgstr "Yhteystietoja ei voitu tuoda. Valitse kelvollinen yhteystietojen JSON-vienti."
+
+#, c-format
+msgid "Couldn't import contacts. Fix CSV record %d: use four fields and double quotes inside quoted fields."
+msgstr "Yhteystietoja ei voitu tuoda. Korjaa CSV-tietue %d: käytä neljää kenttää ja lainausmerkeillä rajattujen kenttien sisällä kaksinkertaisia lainausmerkkejä."
+
+#, c-format
+msgid "Couldn't import contacts. Fix JSON record %d: name, npub and nickname must be strings, and blocked must be true or false."
+msgstr "Yhteystietoja ei voitu tuoda. Korjaa JSON-tietue %d: kenttien name, npub ja nickname on oltava merkkijonoja, ja kentän blocked on oltava true tai false."
+
+#, c-format
+msgid "Couldn't import contacts. Set blocked to true or false in CSV record %d."
+msgstr "Yhteystietoja ei voitu tuoda. Aseta blocked arvoon true tai false CSV-tietueessa %d."
+
+msgid "Couldn't import contacts. Use the CSV header name,npub,nickname,blocked."
+msgstr "Yhteystietoja ei voitu tuoda. Käytä CSV-otsikkoriviä name,npub,nickname,blocked."
+
+msgid "Couldn't import the sticker. Choose an image under 4 MiB."
+msgstr "Tarraa ei voitu tuoda. Valitse alle 4 MiB:n kuva."
+
+msgid "Couldn't invite the member. Enter a public key or verified address and try again."
+msgstr "Jäsentä ei voitu kutsua. Anna julkinen avain tai vahvistettu osoite ja yritä uudelleen."
+
+msgid "Couldn't invite them. They have no key package White Noise can use. Ask them to open White Noise, then try again."
+msgstr "Henkilöä ei voitu kutsua. Hänellä ei ole key packagea, jota White Noise voi käyttää. Pyydä häntä avaamaan White Noise ja yritä sitten uudelleen."
+
+#, c-format
+msgid "Couldn't keep %s running. Please try again."
+msgstr "Kohdetta %s ei voitu pitää käynnissä. Yritä uudelleen."
+
+msgid "Couldn't load GIFs. Please try again."
+msgstr "GIFejä ei voitu ladata. Yritä uudelleen."
+
+msgid "Couldn't load attachment. Click to retry."
+msgstr "Liitettä ei voitu ladata. Yritä uudelleen napsauttamalla."
+
+msgid "Couldn't load edit history. Please try again."
+msgstr "Muokkaushistoriaa ei voitu ladata. Yritä uudelleen."
+
+msgid "Couldn't load files. Please try again."
+msgstr "Tiedostoja ei voitu ladata. Yritä uudelleen."
+
+msgid "Couldn't load group members. Please try again."
+msgstr "Ryhmän jäseniä ei voitu ladata. Yritä uudelleen."
+
+msgid "Couldn't load image. Click to retry."
+msgstr "Kuvaa ei voitu ladata. Yritä uudelleen napsauttamalla."
+
+msgid "Couldn't load messages. Please try again."
+msgstr "Viestejä ei voitu ladata. Yritä uudelleen."
+
+msgid "Couldn't load proxy credentials. Enter them again and save."
+msgstr "Välityspalvelimen tunnistetietoja ei voitu ladata. Anna ne uudelleen ja tallenna."
+
+msgid "Couldn't load the map. Please try again."
+msgstr "Karttaa ei voitu ladata. Yritä uudelleen."
+
+msgid "Couldn't load the pack. Check your relay settings and try again."
+msgstr "Pakettia ei voitu ladata. Tarkista releasetuksesi ja yritä uudelleen."
+
+msgid "Couldn't load the sticker. Please try again."
+msgstr "Tarraa ei voitu ladata. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't load the timeline. %s"
+msgstr "Aikajanaa ei voitu ladata. %s"
+
+msgid "Couldn't load the updater. Please try again."
+msgstr "Päivittäjää ei voitu ladata. Yritä uudelleen."
+
+msgid "Couldn't load this event. Check your relay settings and try again."
+msgstr "Tätä tapahtumaa ei voitu ladata. Tarkista releasetuksesi ja yritä uudelleen."
+
+msgid "Couldn't load timings. Please try again."
+msgstr "Ajoituksia ei voitu ladata. Yritä uudelleen."
+
+msgid "Couldn't load your GIFs. Please try again."
+msgstr "GIFejäsi ei voitu ladata. Yritä uudelleen."
+
+msgid "Couldn't load your contacts. Please try again."
+msgstr "Yhteystietojasi ei voitu ladata. Yritä uudelleen."
+
+msgid "Couldn't load your stickers. Please try again."
+msgstr "Tarrojasi ei voitu ladata. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't log in. %s"
+msgstr "Kirjautuminen epäonnistui. %s"
+
+msgid "Couldn't look up that NIP-05 address. Double-check it and try again."
+msgstr "NIP-05-osoitetta ei voitu hakea. Tarkista se ja yritä uudelleen."
+
+#, c-format
+msgid "Couldn't mark the chat read. %s"
+msgstr "Keskustelua ei voitu merkitä luetuksi. %s"
+
+msgid "Couldn't mark the chat read. Please try again."
+msgstr "Keskustelua ei voitu merkitä luetuksi. Yritä uudelleen."
+
+msgid "Couldn't normalize the project folder. Check the path and try again."
+msgstr "Projektikansion polkua ei voitu normalisoida. Tarkista polku ja yritä uudelleen."
+
+#, c-format
+msgid "Couldn't open %s. Please try again."
+msgstr "Kohdetta %s ei voitu avata. Yritä uudelleen."
+
+msgid "Couldn't open Whip. Please try again."
+msgstr "Whipiä ei voitu avata. Yritä uudelleen."
+
+msgid "Couldn't open the backup. Double-check the password and try again."
+msgstr "Varmuuskopiota ei voitu avata. Tarkista salasana ja yritä uudelleen."
+
+msgid "Couldn't open the microphone. Please try again."
+msgstr "Mikrofonia ei voitu avata. Yritä uudelleen."
+
+msgid "Couldn't open the project folder. Check that it exists and you have permission to access it."
+msgstr "Projektikansiota ei voitu avata. Tarkista, että se on olemassa ja että sinulla on lupa käyttää sitä."
+
+msgid "Couldn't open the restored chat. Please try again."
+msgstr "Palautettua keskustelua ei voitu avata. Yritä uudelleen."
+
+msgid "Couldn't play speech. Check your audio output and try again."
+msgstr "Puhetta ei voitu toistaa. Tarkista äänen ulostulo ja yritä uudelleen."
+
+msgid "Couldn't play video. Click to retry."
+msgstr "Videota ei voitu toistaa. Yritä uudelleen napsauttamalla."
+
+msgid "Couldn't preview the picture. Please try again."
+msgstr "Kuvaa ei voitu esikatsella. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't publish the photo. %s"
+msgstr "Kuvaa ei voitu julkaista. %s"
+
+#, c-format
+msgid "Couldn't publish the picture. %s"
+msgstr "Kuvaa ei voitu julkaista. %s"
+
+#, c-format
+msgid "Couldn't publish your name. %s"
+msgstr "Nimeäsi ei voitu julkaista. %s"
+
+msgid "Couldn't reach your signer. Please try again."
+msgstr "Allekirjoittajaasi ei tavoitettu. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't read %s."
+msgstr "Kohdetta %s ei voitu lukea."
+
+#, c-format
+msgid "Couldn't read %s. Please try again."
+msgstr "Kohdetta %s ei voitu lukea. Yritä uudelleen."
+
+msgid "Couldn't read that pubkey. Double-check it and try again."
+msgstr "Julkista avainta ei voitu lukea. Tarkista se ja yritä uudelleen."
+
+msgid "Couldn't read the backup file. Please try again."
+msgstr "Varmuuskopiotiedostoa ei voitu lukea. Yritä uudelleen."
+
+msgid "Couldn't read the backup. Please try again."
+msgstr "Varmuuskopiota ei voitu lukea. Yritä uudelleen."
+
+msgid "Couldn't read the image. Please try again."
+msgstr "Kuvaa ei voitu lukea. Yritä uudelleen."
+
+msgid "Couldn't read the project photo. Please try again."
+msgstr "Projektin kuvaa ei voitu lukea. Yritä uudelleen."
+
+msgid "Couldn't read the signer permissions. Please try again."
+msgstr "Allekirjoittajan käyttöoikeuksia ei voitu lukea. Yritä uudelleen."
+
+msgid "Couldn't read the vault file. Please try again."
+msgstr "Holvitiedostoa ei voitu lukea. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't read their key packages. %s"
+msgstr "Käyttäjän key packageja ei voitu lukea. %s"
+
+msgid "Couldn't read this message aloud. Choose a shorter text message."
+msgstr "Tätä viestiä ei voitu lukea ääneen. Valitse lyhyempi tekstiviesti."
+
+msgid "Couldn't read this message aloud. Please try again."
+msgstr "Tätä viestiä ei voitu lukea ääneen. Yritä uudelleen."
+
+msgid "Couldn't read your contacts file. Check the file permissions and try again."
+msgstr "Yhteystietotiedostoasi ei voitu lukea. Tarkista tiedoston käyttöoikeudet ja yritä uudelleen."
+
+msgid "Couldn't read your existing contacts. Please try again."
+msgstr "Nykyisiä yhteystietojasi ei voitu lukea. Yritä uudelleen."
+
+msgid "Couldn't remove the GIF. Please try again."
+msgstr "GIFiä ei voitu poistaa. Yritä uudelleen."
+
+msgid "Couldn't remove the pack. Please try again."
+msgstr "Pakettia ei voitu poistaa. Yritä uudelleen."
+
+msgid "Couldn't remove the saved file. Please try again."
+msgstr "Tallennettua tiedostoa ei voitu poistaa. Yritä uudelleen."
+
+msgid "Couldn't rename the group. Enter a name and try again."
+msgstr "Ryhmää ei voitu nimetä uudelleen. Anna nimi ja yritä uudelleen."
+
+msgid "Couldn't render that emoji. Choose another one."
+msgstr "Emojia ei voitu piirtää. Valitse toinen."
+
+msgid "Couldn't render the QR code. Please try again."
+msgstr "QR-koodia ei voitu piirtää. Yritä uudelleen."
+
+msgid "Couldn't reveal your secret key. Please try again."
+msgstr "Salaista avaintasi ei voitu näyttää. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't save %s. Please try again."
+msgstr "Kohdetta %s ei voitu tallentaa. Yritä uudelleen."
+
+msgid "Couldn't save proxy credentials. Please try again."
+msgstr "Välityspalvelimen tunnistetietoja ei voitu tallentaa. Yritä uudelleen."
+
+msgid "Couldn't save the GIF. Please try again."
+msgstr "GIFiä ei voitu tallentaa. Yritä uudelleen."
+
+msgid "Couldn't save the edit. Please try again."
+msgstr "Muokkausta ei voitu tallentaa. Yritä uudelleen."
+
+msgid "Couldn't save the project photo. Please try again."
+msgstr "Projektin kuvaa ei voitu tallentaa. Yritä uudelleen."
+
+msgid "Couldn't save the sticker. Wait for its image to load and try again."
+msgstr "Tarraa ei voitu tallentaa. Odota, että sen kuva latautuu, ja yritä uudelleen."
+
+msgid "Couldn't save the theme. Check the name and colors and try again."
+msgstr "Teemaa ei voitu tallentaa. Tarkista nimi ja värit ja yritä uudelleen."
+
+msgid "Couldn't save your emoji. Include at least one ASCII letter, digit, underscore, or hyphen in the name."
+msgstr "Emojiasi ei voitu tallentaa. Lisää nimeen vähintään yksi ASCII-kirjain, numero, alaviiva tai yhdysmerkki."
+
+msgid "Couldn't save your emoji. Please try again."
+msgstr "Emojiasi ei voitu tallentaa. Yritä uudelleen."
+
+msgid "Couldn't save your signer session in the encrypted vault. Please try again."
+msgstr "Allekirjoittajan istuntoa ei voitu tallentaa salattuun holviin. Yritä uudelleen."
+
+msgid "Couldn't save your stickers. Please try again."
+msgstr "Tarrojasi ei voitu tallentaa. Yritä uudelleen."
+
+msgid "Couldn't search GIFs. Please try again."
+msgstr "GIFejä ei voitu hakea. Yritä uudelleen."
+
+msgid "Couldn't search messages. Please try again."
+msgstr "Viestejä ei voitu hakea. Yritä uudelleen."
+
+msgid "Couldn't search the network. Please try again."
+msgstr "Verkosta ei voitu hakea. Yritä uudelleen."
+
+msgid "Couldn't search. Please try again."
+msgstr "Haku epäonnistui. Yritä uudelleen."
+
+msgid "Couldn't send the notification. Please try again."
+msgstr "Ilmoitusta ei voitu lähettää. Yritä uudelleen."
+
+msgid "Couldn't send the signer request. Wait a moment and try again."
+msgstr "Pyyntöä allekirjoittajalle ei voitu lähettää. Odota hetki ja yritä uudelleen."
+
+msgid "Couldn't send the sticker. Switch back to your account and try again."
+msgstr "Tarraa ei voitu lähettää. Vaihda takaisin tiliisi ja yritä uudelleen."
+
+msgid "Couldn't serialize the key packages. Please try again."
+msgstr "Key packageja ei voitu sarjallistaa. Yritä uudelleen."
+
+msgid "Couldn't serialize the snapshot. Please try again."
+msgstr "Tilannevedosta ei voitu sarjallistaa. Yritä uudelleen."
+
+msgid "Couldn't share the theme. Please try again."
+msgstr "Teemaa ei voitu jakaa. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't share the theme. Please try again. %s"
+msgstr "Teemaa ei voitu jakaa. Yritä uudelleen. %s"
+
+msgid "Couldn't show a notification. Check your system notification settings and try again."
+msgstr "Ilmoitusta ei voitu näyttää. Tarkista järjestelmän ilmoitusasetukset ja yritä uudelleen."
+
+#, c-format
+msgid "Couldn't start %s. Its cartridge type isn't supported."
+msgstr "Peliä %s ei voitu käynnistää. Sen kasettityyppiä ei tueta."
+
+msgid "Couldn't start reading aloud. Please try again."
+msgstr "Ääneen lukemista ei voitu aloittaa. Yritä uudelleen."
+
+msgid "Couldn't start the AppImage updater. Please try again."
+msgstr "AppImage-päivittäjää ei voitu käynnistää. Yritä uudelleen."
+
+msgid "Couldn't start the updater. Please try again."
+msgstr "Päivittäjää ei voitu käynnistää. Yritä uudelleen."
+
+msgid "Couldn't start transcription. Please try again."
+msgstr "Litterointia ei voitu aloittaa. Yritä uudelleen."
+
+msgid "Couldn't start translation. Reinstall White Noise and try again."
+msgstr "Kääntämistä ei voitu aloittaa. Asenna White Noise uudelleen ja yritä sitten uudelleen."
+
+msgid "Couldn't sync your sticker packs. Check your relay settings and try again."
+msgstr "Tarrapakettejasi ei voitu synkronoida. Tarkista releasetuksesi ja yritä uudelleen."
+
+msgid "Couldn't transcribe this audio. Choose a recording under 10 minutes."
+msgstr "Tätä ääntä ei voitu litteroida. Valitse alle 10 minuutin tallenne."
+
+msgid "Couldn't transcribe this audio. Choose an audio file under 100 MB."
+msgstr "Tätä ääntä ei voitu litteroida. Valitse alle 100 MB:n äänitiedosto."
+
+msgid "Couldn't transcribe your speech. Please try again."
+msgstr "Puhettasi ei voitu litteroida. Yritä uudelleen."
+
+msgid "Couldn't translate this message. Choose a shorter text message."
+msgstr "Tätä viestiä ei voitu kääntää. Valitse lyhyempi tekstiviesti."
+
+msgid "Couldn't translate this message. Please try again."
+msgstr "Tätä viestiä ei voitu kääntää. Yritä uudelleen."
+
+#, c-format
+msgid "Couldn't unarchive. %s"
+msgstr "Arkistoinnin poisto epäonnistui. %s"
+
+msgid "Couldn't unlock the vault. Double-check the password and try again."
+msgstr "Holvin lukitusta ei voitu avata. Tarkista salasana ja yritä uudelleen."
+
+#, c-format
+msgid "Couldn't upload the picture. %s"
+msgstr "Kuvaa ei voitu lähettää. %s"
+
+msgid "Couldn't use that file. Choose a PNG or JPEG."
+msgstr "Tiedostoa ei voitu käyttää. Valitse PNG- tai JPEG-kuva."
+
+msgid "Couldn't use that theme. It isn't a theme this version reads."
+msgstr "Teemaa ei voitu käyttää. Tämä versio ei osaa lukea sitä."
+
+msgid "Couldn't use the picture. Wait a moment and try again."
+msgstr "Kuvaa ei voitu käyttää. Odota hetki ja yritä uudelleen."
+
+msgid "Couldn't use the sticker. Choose a static PNG, WebP or JPEG up to 4096 pixels."
+msgstr "Tarraa ei voitu käyttää. Valitse liikkumaton PNG-, WebP- tai JPEG-kuva, enintään 4096 pikseliä."
+
+msgid "Couldn't use this Lightning address. Double-check it and try again."
+msgstr "Tätä Lightning-osoitetta ei voitu käyttää. Tarkista se ja yritä uudelleen."
+
+msgid "Couldn't use this Nostr address. Double-check it and try again."
+msgstr "Tätä Nostr-osoitetta ei voitu käyttää. Tarkista se ja yritä uudelleen."
+
+msgid "Couldn't verify the update. Please try again."
+msgstr "Päivitystä ei voitu vahvistaa. Yritä uudelleen."
+
+msgid "Couldn't verify your signer. Reconnect to the intended signer."
+msgstr "Allekirjoittajaasi ei voitu vahvistaa. Yhdistä uudelleen oikeaan allekirjoittajaan."
+
+msgid "Create"
+msgstr "Luo"
+
+msgid "Create a poll"
+msgstr "Luo kysely"
+
+msgid "Create backup"
+msgstr "Luo varmuuskopio"
+
+msgid "Create backup..."
+msgstr "Luo varmuuskopio..."
+
+msgid "Create folder"
+msgstr "Luo kansio"
+
+msgid "Create from emoji"
+msgstr "Luo emojista"
+
+msgid "Create group"
+msgstr "Luo ryhmä"
+
+msgid "Create or use an account"
+msgstr "Luo tili tai käytä olemassa olevaa"
+
+msgid "Create pairing link"
+msgstr "Luo parituslinkki"
+
+msgid "Create poll"
+msgstr "Luo kysely"
+
+msgid "Created"
+msgstr "Luotu"
+
+msgid "Created by"
+msgstr "Luonut"
+
+msgid "Creates a NIP-49 key encrypted with a password, safe to store or move to another client."
+msgstr "Luo salasanalla salatun NIP-49-avaimen, jonka voi turvallisesti tallentaa tai siirtää toiseen asiakasohjelmaan."
+
+msgid "Creating project…"
+msgstr "Luodaan projektia…"
+
+msgid "Creating tab…"
+msgstr "Luodaan välilehteä…"
+
+msgid "Creating your chat"
+msgstr "Luodaan keskusteluasi"
+
+msgid "Croatian"
+msgstr "Kroatia"
+
+msgid "Crop"
+msgstr "Rajaa"
+
+msgid "Crop circle shape"
+msgstr "Viljaympyrämuoto"
+
+msgid "Ctrl + + to zoom in, Ctrl + - to zoom out, Ctrl + 0 to reset."
+msgstr "Ctrl + + lähentää, Ctrl + - loitontaa, Ctrl + 0 palauttaa."
+
+msgid "Current"
+msgstr "Nykyinen"
+
+msgid "Custom"
+msgstr "Mukautettu"
+
+msgid "Custom color"
+msgstr "Oma väri"
+
+msgid "Custom emoji"
+msgstr "Mukautettu emoji"
+
+msgid "Cyan"
+msgstr "Syaani"
+
+msgid "Czech"
+msgstr "Tšekki"
+
+msgid "DEPTH"
+msgstr "SYVYYS"
+
+msgid "DETAILS"
+msgstr "TIEDOT"
+
+msgid "DEVELOPER TOOLS"
+msgstr "KEHITTÄJÄTYÖKALUT"
+
+msgid "DISPLAY NAME"
+msgstr "NÄYTTÖNIMI"
+
+msgid "Danger"
+msgstr "Vaara"
+
+msgid "Danish"
+msgstr "Tanska"
+
+msgid "Dark"
+msgstr "Tumma"
+
+msgid "Data folder"
+msgstr "Datakansio"
+
+msgid "Date format"
+msgstr "Päivämäärän muoto"
+
+msgid "Debug"
+msgstr "Virheenjäljitys"
+
+msgid "Dec"
+msgstr "jouluk."
+
+msgid "Decline"
+msgstr "Hylkää"
+
+msgid "Decline this invitation?"
+msgstr "Hylätäänkö tämä kutsu?"
+
+msgid "Declining your invitation"
+msgstr "Hylätään kutsuasi"
+
+msgid "Decode own"
+msgstr "Pura omat"
+
+msgid "Decrypt with NIP-44"
+msgstr "Pura salaus NIP-44:llä"
+
+msgid "Decrypting..."
+msgstr "Puretaan salausta..."
+
+msgid "Default"
+msgstr "Oletus"
+
+msgid "Default avatar shape"
+msgstr "Profiilikuvan oletusmuoto"
+
+msgid "Default stack"
+msgstr "Oletusfontit"
+
+msgid "Delete"
+msgstr "Poista"
+
+msgid "Delete for everyone"
+msgstr "Poista kaikilta"
+
+msgid "Delete for me"
+msgstr "Poista minulta"
+
+msgid "Delete this folder?"
+msgstr "Poistetaanko tämä kansio?"
+
+msgid "Delete this message for you?"
+msgstr "Poistetaanko tämä viesti sinulta?"
+
+msgid "Delete this message?"
+msgstr "Poistetaanko tämä viesti?"
+
+msgid "Delete this theme?"
+msgstr "Poistetaanko tämä teema?"
+
+msgid "Delete this vault"
+msgstr "Poista tämä holvi"
+
+msgid "Deleted. Recording continues in a fresh file."
+msgstr "Poistettu. Tallennus jatkuu uuteen tiedostoon."
+
+msgid "Deleting the file being recorded rotates it. Recording continues in a fresh file."
+msgstr "Tallennettavana olevan tiedoston poistaminen vaihtaa tiedoston. Tallennus jatkuu uuteen tiedostoon."
+
+msgid "Demote"
+msgstr "Alenna"
+
+msgid "Deriving an encryption key from your password."
+msgstr "Johdetaan salausavainta salasanastasi."
+
+msgid "Describe the group"
+msgstr "Kuvaile ryhmää"
+
+msgid "Design"
+msgstr "Ulkoasu"
+
+msgid "Desktop notifications"
+msgstr "Työpöytäilmoitukset"
+
+msgid "Detect automatically"
+msgstr "Tunnista automaattisesti"
+
+msgid "Developer"
+msgstr "Kehittäjä"
+
+msgid "Developer mode"
+msgstr "Kehittäjätila"
+
+msgid "Developer mode off"
+msgstr "Kehittäjätila pois"
+
+msgid "Developer mode on"
+msgstr "Kehittäjätila päällä"
+
+msgid "Device vault"
+msgstr "Laitteen holvi"
+
+msgid "Diagnostics includes a random installation identifier until you turn sharing off, app and device details, and relay labels. The collector receives your IP address. Message contents and account or group identifiers are excluded. Turning sharing off stops future uploads; already sent data cannot be recalled. Audit logs are separate."
+msgstr "Diagnostiikka sisältää satunnaisen asennustunnisteen siihen asti, kunnes poistat jakamisen käytöstä, sovelluksen ja laitteen tiedot sekä releiden nimet. Keräyspalvelin saa IP-osoitteesi. Viestien sisältö sekä tilien ja ryhmien tunnisteet jätetään pois. Jakamisen poistaminen käytöstä lopettaa tulevat lähetykset, mutta jo lähetettyjä tietoja ei voi perua. Audit-lokit ovat erillisiä."
+
+msgid "Diagnostics is sent to the operator of otlp.ipf.dev unless you configured another collector. Its retention policy has not been verified here. Usage event export is not configured."
+msgstr "Diagnostiikka lähetetään palvelun otlp.ipf.dev ylläpitäjälle, ellet ole määrittänyt toista keräyspalvelinta. Sen säilytyskäytäntöä ei ole tarkistettu tässä. Käyttötapahtumien vientiä ei ole määritetty."
+
+msgid "Dictate"
+msgstr "Sanele"
+
+msgid "Dictate and listen on this device."
+msgstr "Sanele ja kuuntele tällä laitteella."
+
+msgid "Dictate drafts and transcribe audio messages on your device."
+msgstr "Sanele luonnoksia ja litteroi ääniviestejä laitteellasi."
+
+msgid "Dictate messages and listen to them aloud."
+msgstr "Sanele viestejä ja kuuntele ne ääneen luettuina."
+
+msgid "Dictate your messages"
+msgstr "Sanele viestisi"
+
+msgid "Dictation"
+msgstr "Sanelu"
+
+msgid "Dictation doesn't work"
+msgstr "Sanelu ei toimi"
+
+#, c-format
+msgid "Difficulty: %d/5"
+msgstr "Vaikeus: %d/5"
+
+msgid "Disappearing messages"
+msgstr "Katoavat viestit"
+
+#, c-format
+msgid "Disappearing messages were set to %s"
+msgstr "Katoavien viestien ajaksi asetettiin %s"
+
+msgid "Disappearing messages were turned off"
+msgstr "Katoavat viestit poistettiin käytöstä"
+
+msgid "Discard"
+msgstr "Hylkää"
+
+msgid "Discard profile changes?"
+msgstr "Hylätäänkö profiilimuutokset?"
+
+msgid "Discard your theme changes?"
+msgstr "Hylätäänkö teemaan tehdyt muutokset?"
+
+msgid "Discover"
+msgstr "Löydä"
+
+msgid "Divider"
+msgstr "Erotin"
+
+msgid "Dock to chat"
+msgstr "Telakoi keskusteluun"
+
+msgid "Documents"
+msgstr "Dokumentit"
+
+msgid "Done"
+msgstr "Valmis"
+
+msgid "Done."
+msgstr "Valmis."
+
+msgid "Downloaded"
+msgstr "Ladattu"
+
+msgid "Downloading an update."
+msgstr "Ladataan päivitystä."
+
+#, c-format
+msgid "Downloading language detector: %d%%"
+msgstr "Ladataan kielentunnistinta: %d %%"
+
+msgid "Downloading speech model..."
+msgstr "Ladataan puhemallia..."
+
+msgid "Downloading translation model..."
+msgstr "Ladataan käännösmallia..."
+
+#, c-format
+msgid "Downloading translation model: %d%%"
+msgstr "Ladataan käännösmallia: %d %%"
+
+#, c-format
+msgid "Downloading: %d%%"
+msgstr "Ladataan: %d %%"
+
+msgid "Downloads"
+msgstr "Lataukset"
+
+msgid "Drag a chat onto a folder to keep it there, or drag a folder to reorder it."
+msgstr "Vedä keskustelu kansioon pitääksesi sen siellä, tai vedä kansiota muuttaaksesi järjestystä."
+
+msgid "Drag a folder to reorder it. Your chats appear here once you have some."
+msgstr "Vedä kansiota muuttaaksesi järjestystä. Keskustelusi näkyvät täällä, kun sinulla on niitä."
+
+msgid "Drag inside to move. Drag a corner to resize."
+msgstr "Siirrä vetämällä sisältä. Muuta kokoa vetämällä kulmasta."
+
+msgid "Drag the map to place the pin, or use your current location."
+msgstr "Aseta nasta vetämällä karttaa tai käytä nykyistä sijaintiasi."
+
+msgid "Drop files to attach"
+msgstr "Liitä tiedostot pudottamalla ne tähän"
+
+msgid "Drop here"
+msgstr "Pudota tähän"
+
+msgid "Dust"
+msgstr "Pöly"
+
+msgid "Dutch"
+msgstr "Hollanti"
+
+msgid "EDIT PROFILE"
+msgstr "MUOKKAA PROFIILIA"
+
+msgid "EDITING · BROADCAST TO RELAYS ON PUBLISH"
+msgstr "MUOKATAAN · LÄHETETÄÄN RELEILLE JULKAISTAESSA"
+
+msgid "EMOJI GROUP IMAGE"
+msgstr "EMOJIRYHMÄN KUVA"
+
+msgid "ENCRYPTED KEY (NCRYPTSEC)"
+msgstr "SALATTU AVAIN (NCRYPTSEC)"
+
+msgid "ENCRYPTION REVISION"
+msgstr "SALAUKSEN VERSIO"
+
+msgid "Edit"
+msgstr "Muokkaa"
+
+#, c-format
+msgid "Edit %d"
+msgstr "Muokkaa: %d"
+
+msgid "Edit folder"
+msgstr "Muokkaa kansiota"
+
+msgid "Edit history"
+msgstr "Muokkaushistoria"
+
+msgid "Edit message"
+msgstr "Muokkaa viestiä"
+
+msgid "Edit profile"
+msgstr "Muokkaa profiilia"
+
+msgid "Edit project"
+msgstr "Muokkaa projektia"
+
+msgid "Edit theme"
+msgstr "Muokkaa teemaa"
+
+msgid "Edit your last message (empty composer)"
+msgstr "Muokkaa viimeisintä viestiäsi (tyhjä kirjoituskenttä)"
+
+msgid "Editing message"
+msgstr "Muokataan viestiä"
+
+#, c-format
+msgid "Editor: %s"
+msgstr "Muokkaaja: %s"
+
+msgid "Elevated"
+msgstr "Korotettu"
+
+msgid "Elevated border"
+msgstr "Korotetun reunus"
+
+msgid "Email"
+msgstr "Sähköposti"
+
+msgid "Emission"
+msgstr "Emissio"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Emoji style"
+msgstr "Emojityyli"
+
+msgid "Enable local translation"
+msgstr "Ota paikallinen kääntäminen käyttöön"
+
+msgid "Encrypt with NIP-44"
+msgstr "Salaa NIP-44:llä"
+
+msgid "Encrypted key copied"
+msgstr "Salattu avain kopioitu"
+
+msgid "End day (inclusive)"
+msgstr "Viimeinen päivä (mukaan lukien)"
+
+msgid "End-to-end encrypted"
+msgstr "Päästä päähän salattu"
+
+msgid "English"
+msgstr "English"
+
+msgid "Enter a color as #RRGGBB."
+msgstr "Anna väri muodossa #RRGGBB."
+
+msgid "Enter a display name."
+msgstr "Anna näyttönimi."
+
+msgid "Enter a folder name."
+msgstr "Anna kansion nimi."
+
+msgid "Enter a number of people."
+msgstr "Anna henkilömäärä."
+
+msgid "Enter a numeric IPv4 or bracketed IPv6 address with a port from 1 to 65535."
+msgstr "Anna numeerinen IPv4-osoite tai hakasulkeissa oleva IPv6-osoite ja portti väliltä 1–65535."
+
+msgid "Enter a password"
+msgstr "Anna salasana"
+
+msgid "Enter a password to encrypt your backup."
+msgstr "Anna salasana varmuuskopion salaamiseksi."
+
+msgid "Enter a project name."
+msgstr "Anna projektin nimi."
+
+msgid "Enter a relay URL (wss://…)"
+msgstr "Anna releen URL-osoite (wss://…)"
+
+msgid "Enter a relay URL before adding it."
+msgstr "Anna releen URL-osoite ennen sen lisäämistä."
+
+msgid "Enter a sticker name of 1 to 64 characters."
+msgstr "Anna tarralle 1–64 merkin nimi."
+
+msgid "Enter a username and password, each up to 255 characters."
+msgstr "Anna käyttäjänimi ja salasana, kumpikin enintään 255 merkkiä."
+
+msgid "Enter a valid pack link or address."
+msgstr "Anna kelvollinen paketin linkki tai osoite."
+
+msgid "Enter an absolute project folder path, or a path starting with ~/."
+msgstr "Anna projektikansion absoluuttinen polku tai polku, joka alkaa ~/."
+
+msgid "Enter at least 2 people. Counts include you."
+msgstr "Anna vähintään 2 henkilöä. Määrään lasketaan myös sinut."
+
+#, c-format
+msgid "Enter dates like %s, with the start on or before the end."
+msgstr "Anna päivämäärät muodossa %s niin, että alku on sama tai ennen loppua."
+
+msgid "Enter moves to the next field, Escape cancels."
+msgstr "Enter siirtää seuraavaan kenttään, Escape peruuttaa."
+
+msgid "Enter the backup password."
+msgstr "Anna varmuuskopion salasana."
+
+msgid "Enter the member as an npub and try again."
+msgstr "Anna jäsen npub-muodossa ja yritä uudelleen."
+
+msgid "Enter the number of people as a whole number and try again."
+msgstr "Anna henkilömäärä kokonaislukuna ja yritä uudelleen."
+
+msgid "Enter the password this backup was created with. The settings, drafts, custom emoji, and themes on this device will be replaced."
+msgstr "Anna salasana, jolla tämä varmuuskopio luotiin. Tämän laitteen asetukset, luonnokset, omat emojit ja teemat korvataan."
+
+msgid "Enter to save. Shift+Enter for a new line."
+msgstr "Enter tallentaa. Vaihto+Enter lisää rivinvaihdon."
+
+msgid "Enter to send. Shift+Enter for a new line."
+msgstr "Enter lähettää. Vaihto+Enter lisää rivinvaihdon."
+
+msgid "Enter your bunker link to continue."
+msgstr "Jatka antamalla bunker-linkkisi."
+
+msgid "Enter your nsec to continue."
+msgstr "Jatka antamalla nsec-avaimesi."
+
+msgid "Enter your password to unlock the vault on this device."
+msgstr "Avaa holvin lukitus tällä laitteella antamalla salasanasi."
+
+msgid "Erase avatar reveal"
+msgstr "Pyyhi profiilikuva paljastaen"
+
+msgid "Error copied"
+msgstr "Virhe kopioitu"
+
+msgid "Estonian"
+msgstr "Viro"
+
+msgid "Event fetch relays"
+msgstr "Tapahtumien hakureleet"
+
+msgid "Event id"
+msgstr "Tapahtuman tunnus"
+
+msgid "Everyone in the group sees the new name."
+msgstr "Kaikki ryhmän jäsenet näkevät uuden nimen."
+
+msgid "Existing shortcodes are never replaced."
+msgstr "Olemassa olevia lyhytkoodeja ei koskaan korvata."
+
+msgid "Exit fullscreen"
+msgstr "Poistu koko näytöstä"
+
+msgid "Expand the chat list"
+msgstr "Laajenna keskustelulista"
+
+msgid "Export"
+msgstr "Vie"
+
+msgid "Export CSV"
+msgstr "Vie CSV"
+
+msgid "Export JSON"
+msgstr "Vie JSON"
+
+msgid "Export as HTML"
+msgstr "Vie HTML-muodossa"
+
+msgid "Export as Markdown"
+msgstr "Vie Markdown-muodossa"
+
+msgid "Export chat"
+msgstr "Vie keskustelu"
+
+msgid "Export encrypted key (ncryptsec)"
+msgstr "Vie salattu avain (ncryptsec)"
+
+msgid "Export key"
+msgstr "Vie avain"
+
+msgid "Export key first"
+msgstr "Vie avain ensin"
+
+msgid "External browsers and other apps do not use this setting."
+msgstr "Ulkoiset selaimet ja muut sovellukset eivät käytä tätä asetusta."
+
+msgid "External browsers, other apps, and Windows app updates do not use this setting."
+msgstr "Ulkoiset selaimet, muut sovellukset ja Windows-sovelluspäivitykset eivät käytä tätä asetusta."
+
+msgid "FILES"
+msgstr "TIEDOSTOT"
+
+msgid "Failed"
+msgstr "Epäonnistui"
+
+msgid "Family"
+msgstr "Perhe"
+
+msgid "Fast motion"
+msgstr "Nopea liike"
+
+msgid "Favorites"
+msgstr "Suosikit"
+
+msgid "Feb"
+msgstr "helmik."
+
+msgid "Female voice. Supports all reading languages."
+msgstr "Naisääni. Tukee kaikkia lukukieliä."
+
+msgid "Fewer than"
+msgstr "Vähemmän kuin"
+
+msgid "Field"
+msgstr "Kenttä"
+
+msgid "Field border"
+msgstr "Kentän reunus"
+
+msgid "Field hover"
+msgstr "Kenttä osoitettaessa"
+
+msgid "Files"
+msgstr "Tiedostot"
+
+msgid "Files shared in this chat will appear here."
+msgstr "Tässä keskustelussa jaetut tiedostot näkyvät täällä."
+
+msgid "Filipino"
+msgstr "Filipino"
+
+msgid "Filter chats"
+msgstr "Suodata keskusteluja"
+
+msgid "Filter unread chats"
+msgstr "Suodata lukemattomat keskustelut"
+
+msgid "Filters"
+msgstr "Suodattimet"
+
+msgid "Final render"
+msgstr "Lopullinen renderöinti"
+
+msgid "Find a setting..."
+msgstr "Etsi asetusta..."
+
+msgid "Finish dictation"
+msgstr "Lopeta sanelu"
+
+msgid "Finishing the cancelled connection."
+msgstr "Viimeistellään peruttua yhteyttä."
+
+msgid "Finnish"
+msgstr "Suomi"
+
+msgid "Fit"
+msgstr "Sovita"
+
+msgid "Fitness"
+msgstr "Kuntoilu"
+
+msgid "Flag"
+msgstr "Lippu"
+
+msgid "Flat"
+msgstr "Tasainen"
+
+msgid "Float"
+msgstr "Kelluva"
+
+msgid "Focus glow"
+msgstr "Kohdistuksen hehku"
+
+msgid "Focus glow radius"
+msgstr "Kohdistuksen hehkun säde"
+
+msgid "Folder"
+msgstr "Kansio"
+
+msgid "Folder name"
+msgstr "Kansion nimi"
+
+msgid "Folder names must be unique. Choose a different name."
+msgstr "Kansioiden nimien on oltava yksilöllisiä. Valitse toinen nimi."
+
+msgid "Folder options"
+msgstr "Kansion valinnat"
+
+msgid "Folders"
+msgstr "Kansiot"
+
+msgid "Follow folder rules"
+msgstr "Noudata kansion sääntöjä"
+
+msgid "Font"
+msgstr "Fontti"
+
+msgid "Font scale"
+msgstr "Fonttikoko"
+
+msgid "Fonts"
+msgstr "Fontit"
+
+msgid "Food"
+msgstr "Ruoka"
+
+msgid "Forget all"
+msgstr "Unohda kaikki"
+
+msgid "Forgot your password?"
+msgstr "Unohditko salasanasi?"
+
+msgid "Forward"
+msgstr "Välitä"
+
+msgid "Forward to"
+msgstr "Välitä keskusteluun"
+
+#, c-format
+msgid "Forwarded to %s"
+msgstr "Välitetty: %s"
+
+#, c-format
+msgid "Forwarded to %s."
+msgstr "Välitetty: %s."
+
+#, c-format
+msgid "Forwarding to %s…"
+msgstr "Välitetään: %s…"
+
+msgid "French (Canada)"
+msgstr "Ranska (Kanada)"
+
+msgid "French (France)"
+msgstr "Ranska (Ranska)"
+
+msgid "Friday"
+msgstr "Perjantai"
+
+msgid "From emoji"
+msgstr "Emojista"
+
+msgid "From file"
+msgstr "Tiedostosta"
+
+#, c-format
+msgid "From: %s"
+msgstr "Lähettäjä: %s"
+
+msgid "Fullscreen"
+msgstr "Koko näyttö"
+
+msgid "GEOCACHE"
+msgstr "GEOKÄTKÖ"
+
+msgid "GIF search is provided by GifSnap. What you type in the GIF search box and your IP address are sent to GifSnap to find GIFs, and GIF previews load from its servers."
+msgstr "GIF-haun tarjoaa GifSnap. GIF-hakukenttään kirjoittamasi teksti ja IP-osoitteesi lähetetään GifSnapille GIFien hakemista varten, ja GIFien esikatselut ladataan sen palvelimilta."
+
+msgid "GIFs"
+msgstr "GIFit"
+
+msgid "GM button"
+msgstr "GM-painike"
+
+msgid "GROUP ID"
+msgstr "RYHMÄN TUNNUS"
+
+msgid "GROUPS IN COMMON"
+msgstr "YHTEISET RYHMÄT"
+
+msgid "Games"
+msgstr "Pelit"
+
+msgid "Gemma prohibited use policy"
+msgstr "Gemman kiellettyjen käyttötapojen käytäntö"
+
+msgid "Gemma terms"
+msgstr "Gemman käyttöehdot"
+
+msgid "General"
+msgstr "Yleiset"
+
+msgid "Generate a new key"
+msgstr "Luo uusi avain"
+
+msgid "Generating your key"
+msgstr "Luodaan avaintasi"
+
+msgid "German"
+msgstr "Saksa"
+
+msgid "Get an alert when a message arrives in a chat you're not viewing."
+msgstr "Saat ilmoituksen, kun viesti saapuu keskusteluun, jota et ole katsomassa."
+
+msgid "Get message notifications"
+msgstr "Vastaanota viesti-ilmoitukset"
+
+msgid "Get started"
+msgstr "Aloita"
+
+msgid "Gift"
+msgstr "Lahja"
+
+msgid "Give your group a name and a photo."
+msgstr "Anna ryhmällesi nimi ja kuva."
+
+msgid "Go to archive"
+msgstr "Siirry arkistoon"
+
+msgid "Go to chats"
+msgstr "Siirry keskusteluihin"
+
+msgid "Go to people"
+msgstr "Siirry henkilöihin"
+
+msgid "Go to settings"
+msgstr "Siirry asetuksiin"
+
+msgid "Go to your profile"
+msgstr "Siirry profiiliisi"
+
+msgid "Graphics"
+msgstr "Grafiikka"
+
+msgid "Gray"
+msgstr "Harmaa"
+
+msgid "Greek"
+msgstr "Kreikka"
+
+msgid "Green"
+msgstr "Vihreä"
+
+msgid "Group action unavailable."
+msgstr "Ryhmätoiminto ei ole käytettävissä."
+
+msgid "Group chats by folder"
+msgstr "Ryhmittele keskustelut kansioittain"
+
+msgid "Group id copied"
+msgstr "Ryhmän tunnus kopioitu"
+
+msgid "Group name"
+msgstr "Ryhmän nimi"
+
+msgid "Group settings"
+msgstr "Ryhmän asetukset"
+
+msgid "Grouped sorts your chats into folders, and you have none yet."
+msgstr "Ryhmitelty-näkymä lajittelee keskustelusi kansioihin, eikä sinulla ole vielä yhtään kansiota."
+
+msgid "Groups"
+msgstr "Ryhmät"
+
+msgid "Groups you join will appear here."
+msgstr "Ryhmät, joihin liityt, näkyvät täällä."
+
+msgid "Gujarati"
+msgstr "Gudžarati"
+
+msgid "Hand-drawn filter"
+msgstr "Käsin piirretty -suodatin"
+
+msgid "Hard shadows"
+msgstr "Terävät varjot"
+
+msgid "Has a draft"
+msgstr "On luonnos"
+
+msgid "Has member"
+msgstr "Sisältää jäsenen"
+
+msgid "Has unread messages"
+msgstr "On lukemattomia viestejä"
+
+msgid "Have messages read aloud"
+msgstr "Kuuntele viestit ääneen luettuina"
+
+msgid "Hebrew"
+msgstr "Heprea"
+
+msgid "Help"
+msgstr "Ohje"
+
+msgid "Hidden"
+msgstr "Piilotettu"
+
+msgid "Hide"
+msgstr "Piilota"
+
+msgid "Hide emoji sets"
+msgstr "Piilota emojisarjat"
+
+msgid "Hide hidden message"
+msgstr "Piilota piilotettu viesti"
+
+msgid "Hide passwords"
+msgstr "Piilota salasanat"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Home"
+msgstr "Koti"
+
+msgid "Hover"
+msgstr "Osoitettaessa"
+
+msgid "Hover ms"
+msgstr "Osoitus ms"
+
+msgid "How far the mouse wheel moves the view."
+msgstr "Kuinka paljon hiiren rulla siirtää näkymää."
+
+msgid "Hungarian"
+msgstr "Unkari"
+
+msgid "I did. Very important marmot business."
+msgstr "Kyllä vain. Tosi tärkeitä murmelihommia."
+
+msgid "I packed snacks for the expedition. 🥕"
+msgstr "Pakkasin eväitä retkelle. 🥕"
+
+msgid "ICON"
+msgstr "KUVAKE"
+
+msgid "IDENTITY"
+msgstr "IDENTITEETTI"
+
+msgid "INSPECT SOMEONE ELSE'S"
+msgstr "TARKASTA TOISEN KÄYTTÄJÄN"
+
+msgid "INVITE"
+msgstr "KUTSU"
+
+msgid "ISSUE"
+msgstr "ISSUE"
+
+msgid "Icelandic"
+msgstr "Islanti"
+
+msgid "Ideas"
+msgstr "Ideat"
+
+msgid "Identity"
+msgstr "Identiteetti"
+
+msgid "Image didn't load. Click to retry."
+msgstr "Kuva ei latautunut. Yritä uudelleen napsauttamalla."
+
+msgid "Images"
+msgstr "Kuvat"
+
+msgid "Images and files kept on this device so they don't download twice, sealed with your vault key."
+msgstr "Tälle laitteelle säilytetyt kuvat ja tiedostot, jotta niitä ei ladata kahdesti. Ne on suojattu holviavaimellasi."
+
+#, c-format
+msgid "Images processed: %d of %d"
+msgstr "Kuvia käsitelty: %d/%d"
+
+#, c-format
+msgid "Import :%s:"
+msgstr "Tuo :%s:"
+
+msgid "Import a backup"
+msgstr "Tuo varmuuskopio"
+
+msgid "Import a key"
+msgstr "Tuo avain"
+
+msgid "Import a secret key (nsec)"
+msgstr "Tuo salainen avain (nsec)"
+
+msgid "Import an image to make your first sticker."
+msgstr "Tee ensimmäinen tarrasi tuomalla kuva."
+
+msgid "Import backup"
+msgstr "Tuo varmuuskopio"
+
+msgid "Import contacts"
+msgstr "Tuo yhteystietoja"
+
+msgid "Import image"
+msgstr "Tuo kuva"
+
+msgid "Import set"
+msgstr "Tuo sarja"
+
+msgid "Import..."
+msgstr "Tuo..."
+
+#, c-format
+msgid "Imported %d emoji; skipped %d existing shortcodes; failed %d."
+msgstr "Tuotiin %d emojia, ohitettiin %d olemassa olevaa lyhytkoodia, epäonnistui %d."
+
+#, c-format
+msgid "Importing contacts: %d of %d"
+msgstr "Tuodaan yhteystietoja: %d/%d"
+
+msgid "Importing emoji..."
+msgstr "Tuodaan emojeja..."
+
+#, c-format
+msgid "In use: %s."
+msgstr "Käytössä: %s."
+
+msgid "Incoming messages"
+msgstr "Saapuvat viestit"
+
+msgid "Indonesian"
+msgstr "Indonesia"
+
+msgid "Info hash"
+msgstr "Info hash"
+
+msgid "Info hash copied"
+msgstr "Info hash kopioitu"
+
+msgid "Insert a new line"
+msgstr "Lisää rivinvaihto"
+
+msgid "Inspect"
+msgstr "Tarkasta"
+
+msgid "Inspect MLS key packages."
+msgstr "Tarkasta MLS-key packageja."
+
+msgid "Inspect application state and events."
+msgstr "Tarkasta sovelluksen tilaa ja tapahtumia."
+
+msgid "Inspect key packages"
+msgstr "Tarkasta key packageja"
+
+msgid "Inspect published MLS key packages."
+msgstr "Tarkasta julkaistuja MLS-key packageja."
+
+msgid "Inspect the current session"
+msgstr "Tarkasta nykyinen istunto"
+
+msgid "Inspect the current session."
+msgstr "Tarkasta nykyinen istunto."
+
+msgid "Install and verify"
+msgstr "Asenna ja tarkista"
+
+msgid "Install scripts, health checks, and troubleshooting."
+msgstr "Asennusskriptit, kuntotarkistukset ja vianmääritys."
+
+msgid "Interface"
+msgstr "Käyttöliittymä"
+
+msgid "Interface language"
+msgstr "Käyttöliittymän kieli"
+
+#, c-format
+msgid "Interface language (%s)"
+msgstr "Käyttöliittymän kieli (%s)"
+
+msgid "Interface language (English)"
+msgstr "Käyttöliittymän kieli (English)"
+
+msgid "Interface sounds"
+msgstr "Käyttöliittymän äänet"
+
+msgid "Interface zoom"
+msgstr "Käyttöliittymän zoomaus"
+
+msgid "Invalid Nostr reference"
+msgstr "Virheellinen Nostr-viittaus"
+
+msgid "Invalid attachment."
+msgstr "Virheellinen liite."
+
+msgid "Invalidates the current package and uploads a fresh one to your relays."
+msgstr "Mitätöi nykyisen paketin ja lähettää uuden releillesi."
+
+msgid "Invert selected text"
+msgstr "Käänteiset värit valitulle tekstille"
+
+msgid "Invite"
+msgstr "Kutsu"
+
+msgid "Is Whip"
+msgstr "On Whip"
+
+msgid "It disappears for everyone in the chat. This can't be undone."
+msgstr "Se katoaa kaikilta keskustelun jäseniltä. Tätä ei voi kumota."
+
+msgid "It stays for everyone else. You won't see it on this device again."
+msgstr "Se säilyy kaikilla muilla. Et näe sitä enää tällä laitteella."
+
+msgid "Italian"
+msgstr "Italia"
+
+msgid "Its file is removed from this device. Themes shared into a chat stay there."
+msgstr "Sen tiedosto poistetaan tältä laitteelta. Keskusteluihin jaetut teemat säilyvät niissä."
+
+msgid "Its keys and chats are deleted from this device. It stays a member of its groups for everyone else. This can't be undone."
+msgstr "Sen avaimet ja keskustelut poistetaan tältä laitteelta. Muiden näkökulmasta se pysyy ryhmiensä jäsenenä. Tätä ei voi kumota."
+
+msgid "Its keys stay in the vault on this device. You can sign in again from the accounts screen."
+msgstr "Sen avaimet säilyvät tämän laitteen holvissa. Voit kirjautua uudelleen tilinäkymästä."
+
+msgid "Jan"
+msgstr "tammik."
+
+msgid "Japanese"
+msgstr "Japani"
+
+msgid "Jitsi Meet call"
+msgstr "Jitsi Meet -puhelu"
+
+#, c-format
+msgid "Join in %s"
+msgstr "Liity sovelluksessa %s"
+
+msgid "Join in browser"
+msgstr "Liity selaimessa"
+
+msgid "Jul"
+msgstr "heinäk."
+
+msgid "Jun"
+msgstr "kesäk."
+
+msgid "KEY PACKAGE"
+msgstr "KEY PACKAGE"
+
+msgid "KEY PACKAGES"
+msgstr "KEY PACKAGET"
+
+#, c-format
+msgid "KIND %d"
+msgstr "TYYPPI %d"
+
+msgid "KP inspector"
+msgstr "KP-tarkastin"
+
+msgid "Kannada"
+msgstr "Kannada"
+
+msgid "Keep the open conversation on a comfortable reading measure instead of filling the width."
+msgstr "Pidä avoin keskustelu mukavan lukuleveyden levyisenä sen sijaan, että se täyttäisi koko leveyden."
+
+msgid "Keep this vault"
+msgstr "Säilytä tämä holvi"
+
+msgid "Keep your chat list focused without deleting conversations."
+msgstr "Pidä keskustelulista selkeänä poistamatta keskusteluja."
+
+msgid "Keep your conversations in order."
+msgstr "Pidä keskustelusi järjestyksessä."
+
+msgid "Keep your signer open. Approve the connection and requested signatures there."
+msgstr "Pidä allekirjoittajasi auki. Hyväksy siellä yhteys ja pyydetyt allekirjoitukset."
+
+msgid "Key package published"
+msgstr "Key package julkaistu"
+
+#, c-format
+msgid "Key package published and found on %d relays."
+msgstr "Key package julkaistu, ja se löytyi %d releeltä."
+
+msgid "Key package ref"
+msgstr "Key package -viite"
+
+msgid "Key packages"
+msgstr "Key packaget"
+
+msgid "Key packages let people invite you. Refresh checks the app's default relays for published copies."
+msgstr "Key packagejen avulla sinut voi kutsua. Päivitys tarkistaa julkaistut kopiot sovelluksen oletusreleiltä."
+
+msgid "Keyboard shortcuts"
+msgstr "Pikanäppäimet"
+
+msgid "Keys"
+msgstr "Avaimet"
+
+msgid "Keys & identity"
+msgstr "Avaimet ja identiteetti"
+
+msgid "Known senders"
+msgstr "Tunnetut lähettäjät"
+
+msgid "Korean"
+msgstr "Korea"
+
+msgid "LIGHTNING"
+msgstr "LIGHTNING"
+
+msgid "LINES"
+msgstr "VIIVAT"
+
+msgid "LOADED MESSAGES"
+msgstr "LADATUT VIESTIT"
+
+msgid "LOCATION"
+msgstr "SIJAINTI"
+
+msgid "Language"
+msgstr "Kieli"
+
+msgid "Language, startup, and everyday preferences."
+msgstr "Kieli, käynnistys ja arjen asetukset."
+
+msgid "Large"
+msgstr "Suuri"
+
+msgid "Last backup"
+msgstr "Viimeisin varmuuskopio"
+
+msgid "Later"
+msgstr "Myöhemmin"
+
+msgid "Latvian"
+msgstr "Latvia"
+
+msgid "Launch at login"
+msgstr "Käynnistä kirjautuessa"
+
+msgid "Layout"
+msgstr "Asettelu"
+
+msgid "Learn about White Noise."
+msgstr "Lue lisää White Noisesta."
+
+msgid "Leave"
+msgstr "Poistu"
+
+msgid "Leave chat"
+msgstr "Poistu keskustelusta"
+
+msgid "Leave empty unless you have one"
+msgstr "Jätä tyhjäksi, jos sinulla ei ole"
+
+msgid "Leave group"
+msgstr "Poistu ryhmästä"
+
+msgid "Leave this chat?"
+msgstr "Poistutaanko tästä keskustelusta?"
+
+msgid "Leave this group?"
+msgstr "Poistutaanko tästä ryhmästä?"
+
+msgid "Leaving your group"
+msgstr "Poistutaan ryhmästäsi"
+
+msgid "Light"
+msgstr "Vaalea"
+
+msgid "Lightning"
+msgstr "Lightning"
+
+msgid "Lime"
+msgstr "Limetti"
+
+msgid "Link copied"
+msgstr "Linkki kopioitu"
+
+msgid "Link previews"
+msgstr "Linkkien esikatselut"
+
+msgid "Linked events"
+msgstr "Linkitetyt tapahtumat"
+
+msgid "Links"
+msgstr "Linkit"
+
+msgid "Links to these exact sites open without confirmation."
+msgstr "Linkit juuri näille sivustoille avautuvat ilman vahvistusta."
+
+msgid "Listening... Finish when you're done (30 seconds maximum)."
+msgstr "Kuunnellaan... Lopeta, kun olet valmis (enintään 30 sekuntia)."
+
+msgid "Lithuanian"
+msgstr "Liettua"
+
+msgid "Loading emoji previews..."
+msgstr "Ladataan emojien esikatseluja..."
+
+msgid "Loading emoji sets..."
+msgstr "Ladataan emojisarjoja..."
+
+msgid "Loading full resolution…"
+msgstr "Ladataan täyttä tarkkuutta…"
+
+msgid "Loading map"
+msgstr "Ladataan karttaa"
+
+msgid "Loading messages for export..."
+msgstr "Ladataan viestejä vientiä varten..."
+
+msgid "Loading messages…"
+msgstr "Ladataan viestejä…"
+
+msgid "Loading your accounts"
+msgstr "Ladataan tilejäsi"
+
+msgid "Loading your archived chats"
+msgstr "Ladataan arkistoituja keskustelujasi"
+
+msgid "Loading your contacts"
+msgstr "Ladataan yhteystietojasi"
+
+msgid "Loading your key packages"
+msgstr "Ladataan key packagejasi"
+
+msgid "Loading your sticker packs…"
+msgstr "Ladataan tarrapakettejasi…"
+
+msgid "Loading..."
+msgstr "Ladataan..."
+
+msgid "Loading…"
+msgstr "Ladataan…"
+
+msgid "Local data & backups"
+msgstr "Paikalliset tiedot ja varmuuskopiot"
+
+msgid "Local files, cached media, and encrypted backups."
+msgstr "Paikalliset tiedostot, välimuistissa oleva media ja salatut varmuuskopiot."
+
+msgid "Location"
+msgstr "Sijainti"
+
+msgid "Location maps"
+msgstr "Sijaintikartat"
+
+msgid "Location unknown."
+msgstr "Sijainti tuntematon."
+
+msgid "Lock now"
+msgstr "Lukitse nyt"
+
+msgid "Locking…"
+msgstr "Lukitaan…"
+
+msgid "Look up"
+msgstr "Hae"
+
+msgid "Looking up the pack…"
+msgstr "Haetaan pakettia…"
+
+msgid "Looking up..."
+msgstr "Haetaan..."
+
+msgid "MANUAL SETUP"
+msgstr "MANUAALINEN KÄYTTÖÖNOTTO"
+
+msgid "MATERIAL CHANNELS"
+msgstr "MATERIAALIKANAVAT"
+
+msgid "MEDIA"
+msgstr "MEDIA"
+
+msgid "MENTIONS"
+msgstr "MAININNAT"
+
+msgid "METRICS"
+msgstr "MITTARIT"
+
+msgid "Magnet link copied"
+msgstr "Magnet-linkki kopioitu"
+
+msgid "Make White Noise work your way."
+msgstr "Muokkaa White Noisesta itsellesi sopiva."
+
+msgid "Make everything larger or smaller."
+msgstr "Suurenna tai pienennä kaikkea."
+
+msgid "Make this member an admin?"
+msgstr "Tehdäänkö tästä jäsenestä ylläpitäjä?"
+
+msgid "Malayalam"
+msgstr "Malajalam"
+
+msgid "Male voice. Supports all reading languages."
+msgstr "Miesääni. Tukee kaikkia lukukieliä."
+
+msgid "Manage"
+msgstr "Hallitse"
+
+msgid "Manage connections and published relay lists."
+msgstr "Hallitse yhteyksiä ja julkaistuja relelistoja."
+
+msgid "Manage contacts"
+msgstr "Hallitse yhteystietoja"
+
+msgid "Manage local files and encrypted backups."
+msgstr "Hallitse paikallisia tiedostoja ja salattuja varmuuskopioita."
+
+msgid "Mar"
+msgstr "maalisk."
+
+msgid "Marathi"
+msgstr "Marathi"
+
+msgid "Mark read"
+msgstr "Merkitse luetuksi"
+
+msgid "Mark unread"
+msgstr "Merkitse lukemattomaksi"
+
+msgid "Marmot"
+msgstr "Marmot"
+
+msgid "Marmot meadow"
+msgstr "Murmeliniitty"
+
+msgid "Match all rules"
+msgstr "Täytä kaikki säännöt"
+
+msgid "Match any rule"
+msgstr "Täytä mikä tahansa sääntö"
+
+msgid "Maximize pane"
+msgstr "Suurenna ruutu"
+
+msgid "May"
+msgstr "toukok."
+
+msgid "Media backdrop"
+msgstr "Median tausta"
+
+msgid "Media cache"
+msgstr "Mediavälimuisti"
+
+msgid "Media cache cleared."
+msgstr "Median välimuisti tyhjennetty."
+
+msgid "Media highlight"
+msgstr "Median korostus"
+
+msgid "Members"
+msgstr "Jäsenet"
+
+msgid "Mentions"
+msgstr "Maininnat"
+
+msgid "Message"
+msgstr "Viesti"
+
+msgid "Message copied"
+msgstr "Viesti kopioitu"
+
+msgid "Message line limit"
+msgstr "Viestin rivirajoitus"
+
+msgid "Message menu"
+msgstr "Viestivalikko"
+
+msgid "Message notifications"
+msgstr "Viesti-ilmoitukset"
+
+msgid "Message text copied"
+msgstr "Viestin teksti kopioitu"
+
+msgid "Message text size"
+msgstr "Viestien tekstikoko"
+
+msgid "Message translation"
+msgstr "Viestien kääntäminen"
+
+msgid "Message translation is available in native Linux builds."
+msgstr "Viestien kääntäminen on käytettävissä natiiveissa Linux-versioissa."
+
+msgid "Messages already in the chat are affected, not only new ones. Everyone in the group sees the change."
+msgstr "Muutos koskee myös keskustelussa jo olevia viestejä, ei vain uusia. Kaikki ryhmän jäsenet näkevät muutoksen."
+
+msgid "Messages already in the chat, and new ones, are deleted for everyone after this time."
+msgstr "Keskustelussa jo olevat ja uudet viestit poistetaan kaikilta tämän ajan jälkeen."
+
+msgid "Messages aren't arriving"
+msgstr "Viestit eivät saavu perille"
+
+msgid "Messages stay on your device. Downloads about 2.5 GB on first translation. Enabling accepts the Gemma terms and prohibited use policy."
+msgstr "Viestit pysyvät laitteellasi. Ensimmäisellä käännöskerralla ladataan noin 2,5 Gt. Ottamalla käyttöön hyväksyt Gemman käyttöehdot ja kiellettyjen käyttötapojen käytännön."
+
+msgid "Messaging"
+msgstr "Viestintä"
+
+msgid "Metalness"
+msgstr "Metallisuus"
+
+msgid "Micro"
+msgstr "Mikro"
+
+msgid "Model inspector"
+msgstr "Mallin tarkastin"
+
+msgid "Monday"
+msgstr "Maanantai"
+
+msgid "Money"
+msgstr "Raha"
+
+msgid "Monitor"
+msgstr "Monitori"
+
+msgid "More results"
+msgstr "Lisää tuloksia"
+
+msgid "More than"
+msgstr "Enemmän kuin"
+
+msgid "Move to folder"
+msgstr "Siirrä kansioon"
+
+msgid "Multi-device isn't built yet. Each device that signs in with this key keeps its own separate chats. Groups and messages from your other devices won't appear here, and new invites reach only one of your devices."
+msgstr "Usean laitteen tukea ei ole vielä tehty. Jokainen tällä avaimella kirjautuva laite pitää omat erilliset keskustelunsa. Muiden laitteidesi ryhmät ja viestit eivät näy täällä, ja uudet kutsut saapuvat vain yhteen laitteistasi."
+
+msgid "Multilingual. Detects your language automatically."
+msgstr "Monikielinen. Tunnistaa kielesi automaattisesti."
+
+msgid "Multiple choice"
+msgstr "Monivalinta"
+
+msgid "Music"
+msgstr "Musiikki"
+
+msgid "Mute"
+msgstr "Mykistä"
+
+msgid "NES game"
+msgstr "NES-peli"
+
+msgid "NEW PASSWORD"
+msgstr "UUSI SALASANA"
+
+msgid "NEXT"
+msgstr "SEURAAVAKSI"
+
+msgid "NOSTR EVENT"
+msgstr "NOSTR-TAPAHTUMA"
+
+msgid "NOTE"
+msgstr "MUISTIINPANO"
+
+msgid "NOW"
+msgstr "NYT"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Name includes"
+msgstr "Nimi sisältää"
+
+msgid "Name the shortcode. Type it in messages as :name:."
+msgstr "Nimeä lyhytkoodi. Kirjoita se viesteihin muodossa :nimi:."
+
+msgid "Nature"
+msgstr "Luonto"
+
+msgid "Navigate"
+msgstr "Siirry"
+
+msgid "Network & relays"
+msgstr "Verkko ja releet"
+
+msgid "Never"
+msgstr "Ei koskaan"
+
+msgid "Never share it. It is your identity."
+msgstr "Älä koskaan jaa sitä. Se on identiteettisi."
+
+msgid "New chat"
+msgstr "Uusi keskustelu"
+
+msgid "New folder"
+msgstr "Uusi kansio"
+
+msgid "New group"
+msgstr "Uusi ryhmä"
+
+msgid "New message"
+msgstr "Uusi viesti"
+
+msgid "New name"
+msgstr "Uusi nimi"
+
+msgid "New tab"
+msgstr "Uusi välilehti"
+
+msgid "New terminal"
+msgstr "Uusi pääte"
+
+msgid "News"
+msgstr "Uutiset"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "Next accent color"
+msgstr "Seuraava korostusväri"
+
+msgid "Next chat"
+msgstr "Seuraava keskustelu"
+
+msgid "Next theme"
+msgstr "Seuraava teema"
+
+msgid "Nickname"
+msgstr "Lempinimi"
+
+#, c-format
+msgid "Nickname for %s"
+msgstr "Lempinimi käyttäjälle %s"
+
+msgid "No GIFs found. Try another search."
+msgstr "GIFejä ei löytynyt. Kokeile toista hakua."
+
+msgid "No Whip projects"
+msgstr "Ei Whip-projekteja"
+
+msgid "No archived chats"
+msgstr "Ei arkistoituja keskusteluja"
+
+msgid "No audit log files."
+msgstr "Ei audit-lokitiedostoja."
+
+msgid "No backup made from this device yet."
+msgstr "Tältä laitteelta ei ole vielä tehty varmuuskopiota."
+
+msgid "No chat is open. Select one and refresh."
+msgstr "Mikään keskustelu ei ole auki. Valitse keskustelu ja päivitä."
+
+msgid "No chats match your filter."
+msgstr "Mikään keskustelu ei vastaa suodatinta."
+
+msgid "No chats or terminals yet"
+msgstr "Ei vielä keskusteluja tai päätteitä"
+
+msgid "No chats to share with yet."
+msgstr "Ei vielä keskusteluja, joihin jakaa."
+
+msgid "No chats yet"
+msgstr "Ei vielä keskusteluja"
+
+msgid "No command matches."
+msgstr "Ei vastaavia komentoja."
+
+msgid "No contacts yet"
+msgstr "Ei vielä yhteystietoja"
+
+msgid "No description."
+msgstr "Ei kuvausta."
+
+msgid "No emoji match your search."
+msgstr "Mikään emoji ei vastaa hakuasi."
+
+msgid "No emoji selected"
+msgstr "Emojia ei valittu"
+
+msgid "No emoji sets found. Check your fetch relays and try again."
+msgstr "Emojisarjoja ei löytynyt. Tarkista hakureleesi ja yritä uudelleen."
+
+msgid "No emoji sets found. Refresh to try again, or check your event-fetch relays."
+msgstr "Emojisarjoja ei löytynyt. Päivitä ja yritä uudelleen, tai tarkista tapahtumien hakureleet."
+
+msgid "No emoji sets match your search."
+msgstr "Hakuasi vastaavia emojisarjoja ei ole."
+
+msgid "No files match these filters."
+msgstr "Mikään tiedosto ei vastaa näitä suodattimia."
+
+msgid "No files yet."
+msgstr "Ei vielä tiedostoja."
+
+msgid "No folders match your search."
+msgstr "Mikään kansio ei vastaa hakuasi."
+
+msgid "No groups in common."
+msgstr "Ei yhteisiä ryhmiä."
+
+msgid "No groups yet"
+msgstr "Ei vielä ryhmiä"
+
+msgid "No inbox relays."
+msgstr "Ei inbox-releitä."
+
+msgid "No key package on this device or its relays."
+msgstr "Tällä laitteella tai sen releillä ei ole key packagea."
+
+msgid "No key package on your relays, so a chat can't start yet."
+msgstr "Releilläsi ei ole key packagea, joten keskustelua ei voi vielä aloittaa."
+
+msgid "No key package published for that pubkey."
+msgstr "Tälle julkiselle avaimelle ei ole julkaistu key packagea."
+
+msgid "No key package yet. Publish one so people can invite you."
+msgstr "Ei vielä key packagea. Julkaise sellainen, jotta sinut voi kutsua."
+
+msgid "No matches"
+msgstr "Ei osumia"
+
+msgid "No matches."
+msgstr "Ei osumia."
+
+msgid "No matching chats"
+msgstr "Ei vastaavia keskusteluja"
+
+msgid "No matching contacts"
+msgstr "Ei vastaavia yhteystietoja"
+
+msgid "No matching messages"
+msgstr "Ei vastaavia viestejä"
+
+msgid "No matching settings."
+msgstr "Ei vastaavia asetuksia."
+
+msgid "No matching stickers."
+msgstr "Ei vastaavia tarroja."
+
+msgid "No mentions yet."
+msgstr "Ei vielä mainintoja."
+
+msgid "No messages yet"
+msgstr "Ei vielä viestejä"
+
+#, c-format
+msgid "No one in this chat matches @%s."
+msgstr "Kukaan tässä keskustelussa ei vastaa hakua @%s."
+
+msgid "No preview available"
+msgstr "Esikatselu ei ole saatavilla"
+
+msgid "No preview for this file type. Save it, or read the bytes."
+msgstr "Tälle tiedostotyypille ei ole esikatselua. Tallenna tiedosto tai lue sen tavut."
+
+#, c-format
+msgid "No record with id %s in this chat's window."
+msgstr "Tämän keskustelun ladatussa osassa ei ole tietuetta, jonka tunnus on %s."
+
+msgid "No relay list published."
+msgstr "Relelistaa ei ole julkaistu."
+
+msgid "No results. Try another search."
+msgstr "Ei tuloksia. Kokeile toista hakua."
+
+msgid "No rules"
+msgstr "Ei sääntöjä"
+
+msgid "No stickers here yet. Choose Manage to add stickers or sticker packs."
+msgstr "Täällä ei ole vielä tarroja. Lisää tarroja tai tarrapaketteja valitsemalla Hallitse."
+
+msgid "No trusted sites."
+msgstr "Ei luotettuja sivustoja."
+
+msgid "No unread chats"
+msgstr "Ei lukemattomia keskusteluja"
+
+msgid "Noir film treatment"
+msgstr "Noir-elokuvatyyli"
+
+msgid "None"
+msgstr "Ei mitään"
+
+msgid "Norwegian"
+msgstr "Norja"
+
+msgid "Not downloaded"
+msgstr "Ei ladattu"
+
+msgid "Not found"
+msgstr "Ei löytynyt"
+
+msgid "Not loaded yet. Click Decode own."
+msgstr "Ei vielä ladattu. Napsauta Pura omat."
+
+msgid "Not loaded yet. Click Refresh."
+msgstr "Ei vielä ladattu. Napsauta Päivitä."
+
+msgid "Not now"
+msgstr "Ei nyt"
+
+msgid "Not published yet"
+msgstr "Ei vielä julkaistu"
+
+msgid "Not sent to relays"
+msgstr "Ei lähetetty releille"
+
+msgid "Not set"
+msgstr "Ei asetettu"
+
+msgid "Notes name"
+msgstr "Muistiinpanojen nimi"
+
+msgid "Notes to self"
+msgstr "Muistiinpanot itselle"
+
+msgid "Nothing is read aloud"
+msgstr "Mitään ei lueta ääneen"
+
+msgid "Nothing is saved until you continue."
+msgstr "Mitään ei tallenneta ennen kuin jatkat."
+
+msgid "Nothing loads until you accept. You can change this in Settings > Advanced."
+msgstr "Mitään ei ladata ennen kuin hyväksyt. Voit muuttaa tätä kohdassa Asetukset > Lisäasetukset."
+
+msgid "Notifications"
+msgstr "Ilmoitukset"
+
+msgid "Notifications don't appear"
+msgstr "Ilmoitukset eivät näy"
+
+msgid "Nov"
+msgstr "marrask."
+
+msgid "Number"
+msgstr "Määrä"
+
+msgid "Numeric IP and port only: 127.0.0.1:9050 or [::1]:9050. No URLs or hostnames."
+msgstr "Vain numeerinen IP-osoite ja portti: 127.0.0.1:9050 tai [::1]:9050. Ei URL-osoitteita eikä isäntänimiä."
+
+msgid "OFFLINE"
+msgstr "EI YHTEYDESSÄ"
+
+msgid "ONLINE"
+msgstr "YHTEYDESSÄ"
+
+msgid "Oct"
+msgstr "Loka"
+
+msgid "Off"
+msgstr "Pois"
+
+msgid "Off shows only \"New message\" without the text."
+msgstr "Pois-tilassa näytetään vain ”Uusi viesti” ilman tekstiä."
+
+msgid "On"
+msgstr "Päällä"
+
+#, c-format
+msgid "On %d relay."
+msgstr "%d releellä."
+
+#, c-format
+msgid "On %d relays."
+msgstr "%d releellä."
+
+msgid "On accent"
+msgstr "Korostusvärin päällä"
+
+msgid "On relays."
+msgstr "Releillä."
+
+msgid "On sale"
+msgstr "Myynnissä"
+
+msgid "On this device"
+msgstr "Tällä laitteella"
+
+#, c-format
+msgid "On this device and on %d relay."
+msgstr "Tällä laitteella ja %d releellä."
+
+#, c-format
+msgid "On this device and on %d relays."
+msgstr "Tällä laitteella ja %d releellä."
+
+msgid "On this device and on relays."
+msgstr "Tällä laitteella ja releillä."
+
+msgid "Once the agent gives you its npub, use New chat to start a conversation with it. The connector documentation covers the rest."
+msgstr "Kun agentti antaa sinulle npubinsa, aloita keskustelu sen kanssa kohdasta Uusi keskustelu. Loput kerrotaan connector-ohjeissa."
+
+msgid "One-tap reactions"
+msgstr "Reaktiot yhdellä napautuksella"
+
+msgid "Only the folder is removed. Its chats stay in your chat list."
+msgstr "Vain kansio poistetaan. Sen keskustelut jäävät keskusteluluetteloosi."
+
+msgid "Only you see this name."
+msgstr "Vain sinä näet tämän nimen."
+
+msgid "Open"
+msgstr "Avaa"
+
+msgid "Open chat"
+msgstr "Avaa keskustelu"
+
+msgid "Open events in"
+msgstr "Avaa tapahtumat sovelluksella"
+
+msgid "Open folder"
+msgstr "Avaa kansio"
+
+msgid "Open git patches in"
+msgstr "Avaa git-patchit sovelluksella"
+
+msgid "Open in Apple Maps"
+msgstr "Avaa Apple Mapsissa"
+
+msgid "Open in Google Maps"
+msgstr "Avaa Google Mapsissa"
+
+msgid "Open in Kagi Maps"
+msgstr "Avaa Kagi Mapsissa"
+
+msgid "Open in OpenStreetMap"
+msgstr "Avaa OpenStreetMapissa"
+
+msgid "Open in browser"
+msgstr "Avaa selaimessa"
+
+msgid "Open in client"
+msgstr "Avaa asiakasohjelmassa"
+
+msgid "Open it again with › in the left column or the button below."
+msgstr "Avaa se uudelleen vasemman sarakkeen ›-painikkeella tai alla olevalla painikkeella."
+
+msgid "Open link"
+msgstr "Avaa linkki"
+
+msgid "Open locations in"
+msgstr "Avaa sijainnit sovelluksella"
+
+msgid "Open this link?"
+msgstr "Avataanko tämä linkki?"
+
+msgid "Open-source coding agent"
+msgstr "Avoimen lähdekoodin koodausagentti"
+
+msgid "OpenAI Codex CLI coding agent"
+msgstr "OpenAI:n Codex CLI -koodausagentti"
+
+msgid "Opening Whip…"
+msgstr "Whip avautuu…"
+
+msgid "Opening file picker…"
+msgstr "Avataan tiedostovalitsinta…"
+
+#, c-format
+msgid "Opening in %s"
+msgstr "Avataan sovelluksessa %s"
+
+msgid "Opening in your browser"
+msgstr "Avataan selaimessa"
+
+msgid "Opening your chat"
+msgstr "Avataan keskustelua"
+
+#, c-format
+msgid "Opens %s in your browser, outside White Noise."
+msgstr "Avaa kohteen %s selaimessa White Noisen ulkopuolella."
+
+#, c-format
+msgid "Opens %s, outside White Noise."
+msgstr "Avaa kohteen %s White Noisen ulkopuolella."
+
+msgid "Opens signal.link in your browser. You need the Signal app to join."
+msgstr "Avaa signal.link-sivun selaimessa. Liittyminen vaatii Signal-sovelluksen."
+
+msgid "Optional Nostr identifier (NIP-05), not your email address. This is public."
+msgstr "Valinnainen Nostr-tunniste (NIP-05), ei sähköpostiosoitteesi. Tämä on julkinen."
+
+msgid "Optional. You can set up a proxy before choosing an account, or later in Network & relays. This does not create an account."
+msgstr "Valinnainen. Voit määrittää välityspalvelimen ennen kuin valitset tilin tai myöhemmin kohdassa Verkko ja releet. Tämä ei luo tiliä."
+
+msgid "Orange"
+msgstr "Oranssi"
+
+msgid "Organize your conversations."
+msgstr "Järjestä keskustelusi."
+
+msgid "Organize your folders"
+msgstr "Järjestä kansiosi"
+
+msgid "Original"
+msgstr "Alkuperäinen"
+
+msgid "Original message unavailable"
+msgstr "Alkuperäinen viesti ei ole saatavilla"
+
+msgid "Other"
+msgstr "Muu"
+
+msgid "Other files"
+msgstr "Muut tiedostot"
+
+msgid "Out of stock"
+msgstr "Loppu varastosta"
+
+msgid "Outline surfaces"
+msgstr "Ääriviivalliset pinnat"
+
+msgid "Overlay"
+msgstr "Peittokerros"
+
+msgid "Overlay strong"
+msgstr "Peittokerros, vahva"
+
+msgid "Owner"
+msgstr "Omistaja"
+
+msgid "PASSWORD"
+msgstr "SALASANA"
+
+msgid "PATCH"
+msgstr "PATCH"
+
+msgid "PEOPLE"
+msgstr "IHMISET"
+
+msgid "PRODUCT"
+msgstr "TUOTE"
+
+msgid "PROFILE"
+msgstr "PROFIILI"
+
+msgid "PUBLIC PROFILE"
+msgstr "JULKINEN PROFIILI"
+
+msgid "PULL REQUEST"
+msgstr "PULL REQUEST"
+
+msgid "Pack link or address"
+msgstr "Paketin linkki tai osoite"
+
+msgid "Pack your settings, drafts, custom emoji, and themes into one encrypted file."
+msgstr "Pakkaa asetuksesi, luonnoksesi, omat emojisi ja teemasi yhteen salattuun tiedostoon."
+
+#, c-format
+msgid "Page %d of %d"
+msgstr "Sivu %d/%d"
+
+msgid "Pair with a remote signer"
+msgstr "Muodosta pari etäallekirjoittajan kanssa"
+
+msgid "Pair with your remote signer"
+msgstr "Muodosta pari etäallekirjoittajasi kanssa"
+
+msgid "Pairing link copied"
+msgstr "Parinmuodostuslinkki kopioitu"
+
+msgid "Panel"
+msgstr "Paneeli"
+
+msgid "Panel 2"
+msgstr "Paneeli 2"
+
+msgid "Panes are floating or docked to chats."
+msgstr "Paneelit kelluvat tai ovat kiinnitettyinä keskusteluihin."
+
+msgid "Password"
+msgstr "Salasana"
+
+msgid "Paste"
+msgstr "Liitä"
+
+msgid "Paste a pack link to preview its stickers before adding it."
+msgstr "Liitä paketin linkki, niin näet sen tarrat ennen lisäämistä."
+
+#, c-format
+msgid "Paste this into %s. Review the installation plan before approving changes."
+msgstr "Liitä tämä sovellukseen %s. Tarkista asennussuunnitelma ennen kuin hyväksyt muutokset."
+
+msgid "Path copied"
+msgstr "Polku kopioitu"
+
+msgid "Pause"
+msgstr "Tauko"
+
+msgid "Peers can't find you"
+msgstr "Muut eivät löydä sinua"
+
+msgid "People"
+msgstr "Henkilöt"
+
+msgid "People can't invite you"
+msgstr "Muut eivät voi kutsua sinua"
+
+msgid "People you follow show up here."
+msgstr "Seuraamasi ihmiset näkyvät tässä."
+
+msgid "People you follow show up here. To start a chat now, search for someone by name or paste their public key above."
+msgstr "Seuraamasi ihmiset näkyvät tässä. Aloita keskustelu heti hakemalla jotakuta nimellä tai liittämällä hänen julkinen avaimensa yllä."
+
+msgid "Perfect. Wake me up when it's spring."
+msgstr "Täydellistä. Herätä minut, kun on kevät."
+
+msgid "Persian"
+msgstr "Persia"
+
+msgid "Pets"
+msgstr "Lemmikit"
+
+msgid "Photos"
+msgstr "Kuvat"
+
+msgid "Pick a category"
+msgstr "Valitse luokka"
+
+msgid "Pick a chat to send it to. They choose whether to use it."
+msgstr "Valitse keskustelu, johon se lähetetään. Vastaanottajat päättävät, käyttävätkö sitä."
+
+msgid "Pick a new password first."
+msgstr "Valitse ensin uusi salasana."
+
+msgid "Pick a password first."
+msgstr "Valitse ensin salasana."
+
+msgid "Pick a password to encrypt the backup with. Without it the file cannot be opened again."
+msgstr "Valitse salasana, jolla varmuuskopio salataan. Ilman sitä tiedostoa ei voi enää avata."
+
+msgid "Pick a password to encrypt the key with. You will need it to import the key anywhere else."
+msgstr "Valitse salasana, jolla avain salataan. Tarvitset sitä, kun tuot avaimen muualle."
+
+msgid "Pick a task..."
+msgstr "Valitse tehtävä..."
+
+msgid "Pick the whole app's look."
+msgstr "Valitse koko sovelluksen ulkoasu."
+
+msgid "Pieces"
+msgstr "Nappulat"
+
+msgid "Pin to top"
+msgstr "Kiinnitä ylös"
+
+msgid "Pink"
+msgstr "Vaaleanpunainen"
+
+msgid "Pinned"
+msgstr "Kiinnitetty"
+
+msgid "Pixel metrics"
+msgstr "Pikselimitat"
+
+msgid "Placed by hand"
+msgstr "Sijoitettu käsin"
+
+msgid "Plate"
+msgstr "Levy"
+
+msgid "Play"
+msgstr "Toista"
+
+msgid "Play a sound"
+msgstr "Toista ääni"
+
+msgid "Play a sound for new messages"
+msgstr "Toista ääni uusista viesteistä"
+
+msgid "Play game"
+msgstr "Pelaa"
+
+msgid "Play interface sounds"
+msgstr "Toista käyttöliittymän äänet"
+
+msgid "Polish"
+msgstr "Puola"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugali (Brasilia)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portugali (Portugali)"
+
+msgid "Pre-order"
+msgstr "Ennakkotilaus"
+
+msgid "Preparing HTML export..."
+msgstr "Valmistellaan HTML-vientiä..."
+
+msgid "Preparing Markdown export..."
+msgstr "Valmistellaan Markdown-vientiä..."
+
+#, c-format
+msgid "Preparing attachments for %s…"
+msgstr "Valmistellaan liitteitä keskusteluun %s…"
+
+msgid "Preparing attachments…"
+msgstr "Valmistellaan liitteitä…"
+
+msgid "Preparing attachment…"
+msgstr "Valmistellaan liitettä…"
+
+msgid "Preparing dictation..."
+msgstr "Valmistellaan sanelua..."
+
+msgid "Preparing download..."
+msgstr "Valmistellaan latausta..."
+
+msgid "Preparing project photo…"
+msgstr "Valmistellaan projektin kuvaa…"
+
+msgid "Preparing speech..."
+msgstr "Valmistellaan puhetta..."
+
+msgid "Preparing the cropped picture…"
+msgstr "Valmistellaan rajattua kuvaa…"
+
+msgid "Preparing transcription..."
+msgstr "Valmistellaan litterointia..."
+
+msgid "Preparing translation model..."
+msgstr "Valmistellaan käännösmallia..."
+
+msgid "Preparing your pairing code"
+msgstr "Valmistellaan parinmuodostuskoodiasi"
+
+msgid "Press Ctrl P for the command palette."
+msgstr "Avaa komentopaletti painamalla Ctrl P."
+
+msgid "Press Enter to save; Escape returns to Network & relays."
+msgstr "Tallenna painamalla Enter. Esc palaa kohtaan Verkko ja releet."
+
+msgid "Press Enter to save; Escape returns to account options."
+msgstr "Tallenna painamalla Enter. Esc palaa tilivaihtoehtoihin."
+
+msgid "Press Enter to search."
+msgstr "Hae painamalla Enter."
+
+msgid "Preview"
+msgstr "Esikatselu"
+
+msgid "Preview pack"
+msgstr "Esikatsele pakettia"
+
+msgid "Previous"
+msgstr "Edellinen"
+
+msgid "Previous / next in the media viewer"
+msgstr "Edellinen / seuraava mediakatselimessa"
+
+msgid "Previous chat"
+msgstr "Edellinen keskustelu"
+
+msgid "Privacy"
+msgstr "Yksityisyys"
+
+msgid "Privacy, diagnostics, and developer tools."
+msgstr "Yksityisyys, diagnostiikka ja kehittäjätyökalut."
+
+msgid "Private"
+msgstr "Yksityinen"
+
+msgid "Private group chat over Nostr"
+msgstr "Yksityinen ryhmäkeskustelu Nostrin kautta"
+
+msgid "Profile"
+msgstr "Profiili"
+
+msgid "Progress is indeterminate."
+msgstr "Edistymistä ei voida arvioida."
+
+msgid "Project created."
+msgstr "Projekti luotu."
+
+msgid "Project name"
+msgstr "Projektin nimi"
+
+msgid "Projects"
+msgstr "Projektit"
+
+msgid "Promote"
+msgstr "Ylennä"
+
+msgid "Prompt copied. Paste it into your agent."
+msgstr "Kehote kopioitu. Liitä se agenttiisi."
+
+msgid "Protect this device"
+msgstr "Suojaa tämä laite"
+
+msgid "Protecting this device…"
+msgstr "Suojataan tätä laitetta…"
+
+msgid "Public key"
+msgstr "Julkinen avain"
+
+msgid "Public key (npub)"
+msgstr "Julkinen avain (npub)"
+
+msgid "Public key copied"
+msgstr "Julkinen avain kopioitu"
+
+msgid "Public key or verified address"
+msgstr "Julkinen avain tai vahvistettu osoite"
+
+msgid "Public key, safe to share."
+msgstr "Julkinen avain, turvallinen jakaa."
+
+msgid "Publish"
+msgstr "Julkaise"
+
+msgid "Publish a key package"
+msgstr "Julkaise key package"
+
+msgid "Publish changes"
+msgstr "Julkaise muutokset"
+
+msgid "Publish your key package"
+msgstr "Julkaise key packagesi"
+
+msgid "Published"
+msgstr "Julkaistu"
+
+msgid "Published inbox relays"
+msgstr "Julkaistut inbox-releet"
+
+msgid "Published outbox relays"
+msgstr "Julkaistut outbox-releet"
+
+msgid "Publishing your group profile"
+msgstr "Julkaistaan ryhmäsi profiilia"
+
+msgid "Publishing your key package"
+msgstr "Julkaistaan key packageasi"
+
+msgid "Publishing your profile"
+msgstr "Julkaistaan profiiliasi"
+
+msgid "Publishing your profile to the relays. This takes a few seconds."
+msgstr "Julkaistaan profiiliasi releille. Tämä kestää muutaman sekunnin."
+
+msgid "Publishing your relay lists"
+msgstr "Julkaistaan relelistojasi"
+
+msgid "Punjabi"
+msgstr "Pandžabi"
+
+msgid "Queued"
+msgstr "Jonossa"
+
+msgid "Quick reactions"
+msgstr "Pikareaktiot"
+
+msgid "Quit"
+msgstr "Lopeta"
+
+msgid "RAW EVENTS"
+msgstr "RAAKATAPAHTUMAT"
+
+msgid "RECENT"
+msgstr "VIIMEAIKAISET"
+
+msgid "RELAY"
+msgstr "RELE"
+
+msgid "RELAYS"
+msgstr "RELEET"
+
+msgid "RELAYS IN COMMON"
+msgstr "YHTEISET RELEET"
+
+msgid "RENDER"
+msgstr "RENDERÖINTI"
+
+msgid "RULES"
+msgstr "SÄÄNNÖT"
+
+msgid "Rail"
+msgstr "Sivupalkki"
+
+msgid "Raw event"
+msgstr "Raakatapahtuma"
+
+msgid "Raw events"
+msgstr "Raakatapahtumat"
+
+msgid "Re-broadcasts your outbox and inbox relay lists. Use this if peers can't find you."
+msgstr "Julkaisee outbox- ja inbox-relelistasi uudelleen. Käytä tätä, jos muut eivät löydä sinua."
+
+msgid "Re-encrypts this device's secrets under a new password. The media cache is cleared, since it was sealed with the old one."
+msgstr "Salaa tämän laitteen salaisuudet uudelleen uudella salasanalla. Mediavälimuisti tyhjennetään, koska se on sinetöity vanhalla salasanalla."
+
+msgid "Read aloud"
+msgstr "Lue ääneen"
+
+msgid "Read messages on your device in 31 languages. Downloads about 145 MB on first use."
+msgstr "Lue viestejä laitteellasi 31 kielellä. Ensimmäisellä käyttökerralla ladataan noin 145 Mt."
+
+msgid "Read more"
+msgstr "Lue lisää"
+
+msgid "Reading aloud..."
+msgstr "Luetaan ääneen..."
+
+msgid "Reading the model…"
+msgstr "Luetaan mallia…"
+
+msgid "Reading your contacts file and checking existing contacts..."
+msgstr "Luetaan yhteystietotiedostoasi ja tarkistetaan olemassa olevia yhteystietoja..."
+
+msgid "Recent"
+msgstr "Viimeisimmät"
+
+msgid "Recent sets from your event-fetch relays. Previews contact image hosts."
+msgstr "Viimeaikaiset sarjat tapahtumien hakureleiltäsi. Esikatselut ottavat yhteyttä kuvapalvelimiin."
+
+msgid "Recenter"
+msgstr "Keskitä"
+
+msgid "Reconnecting to your signer"
+msgstr "Yhdistetään uudelleen allekirjoittajaasi"
+
+#, c-format
+msgid "Record %d has an invalid npub. Correct it and import again."
+msgstr "Tietueessa %d on virheellinen npub. Korjaa se ja tuo uudelleen."
+
+msgid "Record audit logs"
+msgstr "Tallenna audit-lokit"
+
+msgid "Record group audit log files on this device. Identifiers are hashed."
+msgstr "Tallenna ryhmien audit-lokitiedostot tälle laitteelle. Tunnisteista tallennetaan vain tiivisteet."
+
+msgid "Recording"
+msgstr "Tallennus"
+
+msgid "Red"
+msgstr "Punainen"
+
+msgid "Reduce motion"
+msgstr "Vähennä liikettä"
+
+msgid "Refresh"
+msgstr "Päivitä"
+
+msgid "Regular"
+msgstr "Normaali"
+
+msgid "Relay lists republished."
+msgstr "Relelistat julkaistu uudelleen."
+
+msgid "Relay names are resolved by your proxy. Media host checks still use your local DNS."
+msgstr "Välityspalvelimesi selvittää releiden nimet. Mediapalvelimien tarkistukset käyttävät yhä paikallista DNS:ää."
+
+msgid "Relay status unavailable"
+msgstr "Releen tila ei ole saatavilla"
+
+msgid "Relays"
+msgstr "Releet"
+
+msgid "Relays carry your encrypted messages. The defaults are already configured."
+msgstr "Releet välittävät salatut viestisi. Oletusreleet on jo määritetty."
+
+msgid "Relays checked."
+msgstr "Releet tarkistettu."
+
+msgid "Relief edges"
+msgstr "Kohokuvioidut reunat"
+
+msgid "Reload previews"
+msgstr "Lataa esikatselut uudelleen"
+
+msgid "Remove"
+msgstr "Poista"
+
+msgid "Remove account"
+msgstr "Poista tili"
+
+msgid "Remove admin rights?"
+msgstr "Poistetaanko ylläpitäjän oikeudet?"
+
+msgid "Remove contact"
+msgstr "Poista yhteystieto"
+
+msgid "Remove option"
+msgstr "Poista vaihtoehto"
+
+msgid "Remove pack"
+msgstr "Poista paketti"
+
+msgid "Remove rule"
+msgstr "Poista sääntö"
+
+msgid "Remove saved GIF"
+msgstr "Poista tallennettu GIF"
+
+msgid "Remove sticker"
+msgstr "Poista tarra"
+
+msgid "Remove this account?"
+msgstr "Poistetaanko tämä tili?"
+
+msgid "Remove this contact?"
+msgstr "Poistetaanko tämä yhteystieto?"
+
+msgid "Remove this member?"
+msgstr "Poistetaanko tämä jäsen?"
+
+msgid "Remove this relay?"
+msgstr "Poistetaanko tämä rele?"
+
+msgid "Removing your account from this device"
+msgstr "Poistetaan tiliäsi tältä laitteelta"
+
+msgid "Removing…"
+msgstr "Poistetaan…"
+
+msgid "Rename"
+msgstr "Nimeä uudelleen"
+
+msgid "Renderer"
+msgstr "Renderöijä"
+
+msgid "Rendering toolpaths"
+msgstr "Renderöidään työkaluratoja"
+
+msgid "Replaces the settings, drafts, custom emoji, and themes on this device."
+msgstr "Korvaa tämän laitteen asetukset, luonnokset, omat emojit ja teemat."
+
+msgid "Reply"
+msgstr "Vastaa"
+
+msgid "Reply in thread"
+msgstr "Vastaa ketjussa"
+
+msgid "Reply in thread…"
+msgstr "Vastaa ketjussa…"
+
+msgid "Replying"
+msgstr "Vastataan"
+
+msgid "Republish"
+msgstr "Julkaise uudelleen"
+
+msgid "Republish relay lists"
+msgstr "Julkaise relelistat uudelleen"
+
+msgid "Republish your relay lists"
+msgstr "Julkaise relelistasi uudelleen"
+
+msgid "Requesting your location. Approve the permission prompt if shown."
+msgstr "Pyydetään sijaintiasi. Hyväksy lupapyyntö, jos se näytetään."
+
+msgid "Reset"
+msgstr "Nollaa"
+
+msgid "Reset zoom"
+msgstr "Palauta zoomaus"
+
+msgid "Resize terminal"
+msgstr "Muuta päätteen kokoa"
+
+msgid "Restart now"
+msgstr "Käynnistä uudelleen nyt"
+
+msgid "Restore"
+msgstr "Palauta"
+
+msgid "Restore last selected chat on launch"
+msgstr "Palauta viimeksi valittu keskustelu käynnistettäessä"
+
+msgid "Restore panes"
+msgstr "Palauta paneelit"
+
+msgid "Restore the default reactions"
+msgstr "Palauta oletusreaktiot"
+
+msgid "Restore the last chat on launch"
+msgstr "Palauta viimeisin keskustelu käynnistettäessä"
+
+msgid "Restoring terminal history…"
+msgstr "Palautetaan päätteen historiaa…"
+
+msgid "Retry"
+msgstr "Yritä uudelleen"
+
+msgid "Return to project"
+msgstr "Palaa projektiin"
+
+msgid "Reveal"
+msgstr "Näytä"
+
+msgid "Reveal hidden message"
+msgstr "Näytä piilotettu viesti"
+
+msgid "Reveal secret key (nsec)"
+msgstr "Näytä yksityinen avain (nsec)"
+
+msgid "Reveal your secret key"
+msgstr "Näytä yksityinen avaimesi"
+
+msgid "Review and approve"
+msgstr "Tarkista ja hyväksy"
+
+msgid "Review signer approval link"
+msgstr "Tarkista allekirjoittajan hyväksyntälinkki"
+
+msgid "Review signer permissions"
+msgstr "Tarkista allekirjoittajan käyttöoikeudet"
+
+msgid "Review starting over"
+msgstr "Tarkista alusta aloittaminen"
+
+msgid "Right click"
+msgstr "Oikea napsautus"
+
+msgid "Rocket"
+msgstr "Raketti"
+
+msgid "Romanian"
+msgstr "Romania"
+
+msgid "Root folder"
+msgstr "Juurikansio"
+
+msgid "Rotate"
+msgstr "Vaihda"
+
+msgid "Rotate key package now"
+msgstr "Vaihda key package nyt"
+
+msgid "Roughness"
+msgstr "Karheus"
+
+msgid "Rounded"
+msgstr "Pyöristetty"
+
+#, c-format
+msgid "Runtime failed: %s"
+msgstr "Ajoympäristö epäonnistui: %s"
+
+msgid "Runtime running"
+msgstr "Ajoympäristö käynnissä"
+
+msgid "Russian"
+msgstr "Venäjä"
+
+msgid "SEARCH"
+msgstr "HAKU"
+
+msgid "SEE ALSO"
+msgstr "KATSO MYÖS"
+
+msgid "SEEDS"
+msgstr "PERUSVÄRIT"
+
+msgid "SEND WITH EFFECT"
+msgstr "LÄHETÄ EFEKTILLÄ"
+
+msgid "SETTINGS"
+msgstr "ASETUKSET"
+
+msgid "SHARED THEME"
+msgstr "JAETTU TEEMA"
+
+msgid "SIGNER RELAY"
+msgstr "ALLEKIRJOITTAJAN RELE"
+
+msgid "SITE"
+msgstr "SIVUSTO"
+
+msgid "SKIN"
+msgstr "ULKOASU"
+
+msgid "SOCKS5 proxy"
+msgstr "SOCKS5-välityspalvelin"
+
+msgid "STATE SNAPSHOT"
+msgstr "TILAN VEDOS"
+
+msgid "STYLE"
+msgstr "TYYLI"
+
+msgid "SURFACES"
+msgstr "PINNAT"
+
+msgid "SYNCED"
+msgstr "SYNKRONOITU"
+
+msgid "SYNCING"
+msgstr "SYNKRONOIDAAN"
+
+msgid "Safe to share. This is how people find you."
+msgstr "Turvallinen jakaa. Tämän avulla ihmiset löytävät sinut."
+
+msgid "Saturation"
+msgstr "Kylläisyys"
+
+msgid "Saturday"
+msgstr "Lauantai"
+
+msgid "Save"
+msgstr "Tallenna"
+
+#, c-format
+msgid "Save %s"
+msgstr "Tallenna %s"
+
+msgid "Save GIF"
+msgstr "Tallenna GIF"
+
+msgid "Save GIFs with the star to find them here."
+msgstr "Tallenna GIFejä tähdellä, niin löydät ne täältä."
+
+msgid "Save a copy of this conversation to a file."
+msgstr "Tallenna kopio tästä keskustelusta tiedostoon."
+
+msgid "Save and use"
+msgstr "Tallenna ja käytä"
+
+msgid "Save attachment"
+msgstr "Tallenna liite"
+
+msgid "Save changes, then restart White Noise to apply them."
+msgstr "Tallenna muutokset ja ota ne käyttöön käynnistämällä White Noise uudelleen."
+
+msgid "Save file"
+msgstr "Tallenna tiedosto"
+
+msgid "Save sticker"
+msgstr "Tallenna tarra"
+
+msgid "Saved"
+msgstr "Tallennettu"
+
+#, c-format
+msgid "Saved %s."
+msgstr "%s tallennettu."
+
+msgid "Saved locally. Relay delivery pending."
+msgstr "Tallennettu paikallisesti. Toimitus releille odottaa."
+
+msgid "Saved. Restart White Noise to apply this connection setting."
+msgstr "Tallennettu. Ota tämä yhteysasetus käyttöön käynnistämällä White Noise uudelleen."
+
+msgid "Saving project photo…"
+msgstr "Tallennetaan projektin kuvaa…"
+
+msgid "Saving vote…"
+msgstr "Tallennetaan äänestysvalintaa…"
+
+msgid "Saving your proxy settings and encrypted credentials."
+msgstr "Tallennetaan välityspalvelimen asetuksia ja salattuja tunnistetietoja."
+
+msgid "Say GM (once a day)"
+msgstr "Sano GM (kerran päivässä)"
+
+msgid "Scan this pairing code in your signer, or copy the nostrconnect link."
+msgstr "Skannaa tämä parinmuodostuskoodi allekirjoittajassasi tai kopioi nostrconnect-linkki."
+
+msgid "Scan to add this person as a contact."
+msgstr "Skannaa, niin voit lisätä tämän henkilön yhteystiedoksi."
+
+msgid "Scan to add you as a contact."
+msgstr "Skannaamalla sinut voi lisätä yhteystiedoksi."
+
+msgid "Scanlines"
+msgstr "Pyyhkäisyjuovat"
+
+msgid "Science"
+msgstr "Tiede"
+
+msgid "Scroll speed"
+msgstr "Vieritysnopeus"
+
+msgid "Scroll to read the full address."
+msgstr "Vieritä nähdäksesi koko osoitteen."
+
+msgid "Search"
+msgstr "Hae"
+
+msgid "Search GIFs"
+msgstr "Hae GIFejä"
+
+msgid "Search GIFs with GifSnap"
+msgstr "Hae GIFejä GifSnapista"
+
+msgid "Search again"
+msgstr "Hae uudelleen"
+
+msgid "Search all chats"
+msgstr "Hae kaikista keskusteluista"
+
+msgid "Search archived chats..."
+msgstr "Hae arkistoiduista keskusteluista..."
+
+msgid "Search by name or Nostr address, or paste a public key..."
+msgstr "Hae nimellä tai Nostr-osoitteella tai liitä julkinen avain..."
+
+msgid "Search by name or paste public keys..."
+msgstr "Hae nimellä tai liitä julkisia avaimia..."
+
+msgid "Search contacts..."
+msgstr "Hae yhteystietoja..."
+
+msgid "Search emoji..."
+msgstr "Hae emojeja..."
+
+msgid "Search everywhere"
+msgstr "Hae kaikkialta"
+
+msgid "Search folders..."
+msgstr "Hae kansioita..."
+
+msgid "Search for someone or paste their public key to start a chat."
+msgstr "Aloita keskustelu hakemalla joku tai liittämällä hänen julkinen avaimensa."
+
+msgid "Search images"
+msgstr "Hae kuvia"
+
+msgid "Search messages"
+msgstr "Hae viestejä"
+
+msgid "Search messages..."
+msgstr "Hae viestejä..."
+
+msgid "Search openly licensed images"
+msgstr "Hae avoimesti lisensoituja kuvia"
+
+msgid "Search results"
+msgstr "Hakutulokset"
+
+msgid "Search set title, author, or shortcode"
+msgstr "Hae sarjan nimellä, tekijällä tai lyhytkoodilla"
+
+msgid "Search stickers"
+msgstr "Hae tarroja"
+
+msgid "Searches only history stored on this device. Older or unsynced messages may be missing."
+msgstr "Hakee vain tälle laitteelle tallennetusta historiasta. Vanhemmat tai synkronoimattomat viestit voivat puuttua."
+
+msgid "Searching local history…"
+msgstr "Haetaan paikallisesta historiasta…"
+
+msgid "Searching the network..."
+msgstr "Haetaan verkosta..."
+
+msgid "Searching…"
+msgstr "Haetaan…"
+
+msgid "Secret key copied"
+msgstr "Yksityinen avain kopioitu"
+
+msgid "Security"
+msgstr "Tietoturva"
+
+msgid "Security & privacy"
+msgstr "Tietoturva ja yksityisyys"
+
+msgid "Security actions"
+msgstr "Tietoturvatoiminnot"
+
+msgid "See and hear it with your current sound and preview settings."
+msgstr "Näe ja kuule se nykyisillä ääni- ja esikatseluasetuksillasi."
+
+msgid "See where your data is stored"
+msgstr "Katso, missä tietosi säilytetään"
+
+msgid "Select"
+msgstr "Valitse"
+
+msgid "Select a chat"
+msgstr "Valitse keskustelu"
+
+msgid "Select a contact from the list."
+msgstr "Valitse yhteystieto luettelosta."
+
+msgid "Select a model to download it for dictation and audio messages."
+msgstr "Valitse malli, niin se ladataan sanelua ja ääniviestejä varten."
+
+msgid "Select a project"
+msgstr "Valitse projekti"
+
+msgid "Self-hosted personal AI assistant"
+msgstr "Itse ylläpidettävä henkilökohtainen tekoälyavustaja"
+
+msgid "Send"
+msgstr "Lähetä"
+
+msgid "Send GM?"
+msgstr "Lähetetäänkö GM?"
+
+msgid "Send a message..."
+msgstr "Kirjoita viesti..."
+
+msgid "Send a test notification"
+msgstr "Lähetä testi-ilmoitus"
+
+#, c-format
+msgid "Send failed: %s"
+msgstr "Lähetys epäonnistui: %s"
+
+msgid "Send location"
+msgstr "Lähetä sijainti"
+
+msgid "Send test"
+msgstr "Lähetä testi"
+
+msgid "Send the first message to start the conversation."
+msgstr "Aloita keskustelu lähettämällä ensimmäinen viesti."
+
+msgid "Send the message"
+msgstr "Lähetä viesti"
+
+msgid "Send with an effect"
+msgstr "Lähetä efektillä"
+
+msgid "Send your daily GM to this chat?"
+msgstr "Lähetetäänkö päivittäinen GM tähän keskusteluun?"
+
+msgid "Sender name or public key"
+msgstr "Lähettäjän nimi tai julkinen avain"
+
+#, c-format
+msgid "Sender: %s"
+msgstr "Lähettäjä: %s"
+
+msgid "Sending a test notification..."
+msgstr "Lähetetään testi-ilmoitusta..."
+
+msgid "Sending..."
+msgstr "Lähetetään..."
+
+msgid "Sep"
+msgstr "Syys"
+
+msgid "Serbian"
+msgstr "Serbia"
+
+#, c-format
+msgid "Set up %s"
+msgstr "Ota käyttöön: %s"
+
+#, c-format
+msgid "Set: %s"
+msgstr "Sarja: %s"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Settings: about"
+msgstr "Asetukset: tietoja"
+
+msgid "Settings: advanced"
+msgstr "Asetukset: lisäasetukset"
+
+msgid "Settings: appearance"
+msgstr "Asetukset: ulkoasu"
+
+msgid "Settings: general"
+msgstr "Asetukset: yleiset"
+
+msgid "Settings: keys and identity"
+msgstr "Asetukset: avaimet ja identiteetti"
+
+msgid "Settings: network and relays"
+msgstr "Asetukset: verkko ja releet"
+
+msgid "Settings: notifications"
+msgstr "Asetukset: ilmoitukset"
+
+msgid "Settings: storage"
+msgstr "Asetukset: tallennustila"
+
+msgid "Setup prompts for connecting an AI agent to White Noise."
+msgstr "Käyttöönottokehotteet tekoälyagentin yhdistämiseen White Noiseen."
+
+msgid "Shadow card"
+msgstr "Varjo, kortti"
+
+msgid "Shadow offset"
+msgstr "Varjon siirtymä"
+
+msgid "Shadow popover"
+msgstr "Varjo, ponnahdusikkuna"
+
+msgid "Shadow soft"
+msgstr "Varjo, pehmeä"
+
+msgid "Share aggregate performance timings and relay diagnostics. Nothing is sent while this is off."
+msgstr "Jaa koostetut suorituskykymittaukset ja relediagnostiikka. Mitään ei lähetetä, kun tämä on pois päältä."
+
+msgid "Share theme with"
+msgstr "Jaa teema keskusteluun"
+
+msgid "Share this theme"
+msgstr "Jaa tämä teema"
+
+msgid "Share to chat"
+msgstr "Jaa keskusteluun"
+
+msgid "Share usage and diagnostics"
+msgstr "Jaa käyttö- ja diagnostiikkatiedot"
+
+msgid "Shared by all ten voices and 31 languages. Downloads once."
+msgstr "Kaikkien kymmenen äänen ja 31 kielen yhteinen. Ladataan kerran."
+
+msgid "Shared location"
+msgstr "Jaettu sijainti"
+
+msgid "Shared media"
+msgstr "Jaettu media"
+
+msgid "Sharing"
+msgstr "Jakaminen"
+
+msgid "Sharp modal backdrop"
+msgstr "Terävä tausta valintaikkunoiden takana"
+
+msgid "Shell"
+msgstr "Shell"
+
+msgid "Shopping"
+msgstr "Ostokset"
+
+msgid "Short tones when a message leaves, arrives, or fails to send."
+msgstr "Lyhyet äänet, kun viesti lähtee, saapuu tai sen lähetys epäonnistuu."
+
+msgid "Show"
+msgstr "Näytä"
+
+msgid "Show a map for each shared location. Map images load from tile.openstreetmap.org, which sees your IP address and the area you view. Place names load from nominatim.openstreetmap.org, which receives the location rounded to about 100 m. Map images are cached on this device, encrypted, up to 1 GB."
+msgstr "Näytä kartta jokaisesta jaetusta sijainnista. Karttakuvat ladataan osoitteesta tile.openstreetmap.org, joka näkee IP-osoitteesi ja katsomasi alueen. Paikkojen nimet ladataan osoitteesta nominatim.openstreetmap.org, joka saa sijainnin noin 100 metrin tarkkuuteen pyöristettynä. Karttakuvat tallennetaan välimuistiin tälle laitteelle salattuina, enintään 1 Gt."
+
+msgid "Show all chats"
+msgstr "Näytä kaikki keskustelut"
+
+msgid "Show contact list"
+msgstr "Näytä yhteystietoluettelo"
+
+msgid "Show dark or light themes."
+msgstr "Näytä tummat tai vaaleat teemat."
+
+msgid "Show fewer files"
+msgstr "Näytä vähemmän tiedostoja"
+
+msgid "Show group members"
+msgstr "Näytä ryhmän jäsenet"
+
+msgid "Show hint"
+msgstr "Näytä vihje"
+
+msgid "Show less"
+msgstr "Näytä vähemmän"
+
+msgid "Show maps from OpenStreetMap?"
+msgstr "Näytetäänkö kartat OpenStreetMapista?"
+
+msgid "Show message preview"
+msgstr "Näytä viestin esikatselu"
+
+msgid "Show or hide message previews"
+msgstr "Näytä tai piilota viestien esikatselut"
+
+msgid "Show original"
+msgstr "Näytä alkuperäinen"
+
+msgid "Show passwords"
+msgstr "Näytä salasanat"
+
+msgid "Show translation"
+msgstr "Näytä käännös"
+
+msgid "Shown on the message menu. Tap one to remove it. Up to 16."
+msgstr "Näkyvät viestivalikossa. Poista napauttamalla. Enintään 16."
+
+msgid "Shows diagnostics and MLS internals. Adds a Debug entry with account, key-packages, and group state."
+msgstr "Näyttää diagnostiikan ja MLS:n sisäiset tiedot. Lisää Debug-kohdan, jossa näkyy tilin, key packagejen ja ryhmien tila."
+
+#, c-format
+msgid "Sign events of these kinds: %s"
+msgstr "Allekirjoita näiden tyyppien tapahtumat: %s"
+
+msgid "Sign out"
+msgstr "Kirjaudu ulos"
+
+msgid "Sign out of this account?"
+msgstr "Kirjaudutaanko ulos tästä tilistä?"
+
+msgid "Signal call"
+msgstr "Signal-puhelu"
+
+msgid "Signer cancelled"
+msgstr "Allekirjoituspyyntö peruttu"
+
+msgid "Signer connected"
+msgstr "Allekirjoittaja yhdistetty"
+
+msgid "Signer disconnected"
+msgstr "Allekirjoittajan yhteys katkesi"
+
+msgid "Signer signed out"
+msgstr "Allekirjoittaja kirjautui ulos"
+
+msgid "Signer unavailable"
+msgstr "Allekirjoittaja ei ole käytettävissä"
+
+msgid "Signer unavailable. Reconnect from Add account."
+msgstr "Allekirjoittaja ei ole käytettävissä. Yhdistä uudelleen kohdasta Lisää tili."
+
+msgid "Signing out and removing your signer session"
+msgstr "Kirjaudutaan ulos ja poistetaan allekirjoittajan istunto"
+
+msgid "Signing you in"
+msgstr "Kirjaudutaan sisään"
+
+msgid "Single sided"
+msgstr "Yksipuolinen"
+
+msgid "Size"
+msgstr "Koko"
+
+#, c-format
+msgid "Size: %s"
+msgstr "Koko: %s"
+
+msgid "Slanted"
+msgstr "Vino"
+
+msgid "Slovak"
+msgstr "Slovakki"
+
+msgid "Slovenian"
+msgstr "Sloveeni"
+
+msgid "Small"
+msgstr "Pieni"
+
+msgid "Sold"
+msgstr "Myyty"
+
+msgid "Some network results may be missing."
+msgstr "Osa verkon tuloksista voi puuttua."
+
+msgid "Sort chats by recent activity"
+msgstr "Järjestä keskustelut viimeisimmän toiminnan mukaan"
+
+msgid "Sort: A-Z"
+msgstr "Järjestys: A-Z"
+
+msgid "Sort: Contacts first, then A-Z"
+msgstr "Järjestys: ensin yhteystiedot, sitten A-Z"
+
+msgid "Sounds don't play"
+msgstr "Äänet eivät kuulu"
+
+msgid "Source"
+msgstr "Lähde"
+
+msgid "Source language"
+msgstr "Lähdekieli"
+
+msgid "Spanish"
+msgstr "Espanja"
+
+msgid "Sparkle manages update checks and downloads."
+msgstr "Sparkle hoitaa päivitysten tarkistukset ja lataukset."
+
+msgid "Speech"
+msgstr "Puhe"
+
+msgid "Speech model"
+msgstr "Puhemalli"
+
+msgid "Speech to text"
+msgstr "Puheesta tekstiksi"
+
+msgid "Split down"
+msgstr "Jaa näkymä alas"
+
+msgid "Split right"
+msgstr "Jaa näkymä oikealle"
+
+msgid "Square"
+msgstr "Neliö"
+
+msgid "Start"
+msgstr "Aloita"
+
+msgid "Start a group and invite people."
+msgstr "Perusta ryhmä ja kutsu ihmisiä."
+
+msgid "Start chat"
+msgstr "Aloita keskustelu"
+
+msgid "Start day"
+msgstr "Aloituspäivä"
+
+msgid "Start group"
+msgstr "Aloita ryhmä"
+
+msgid "Start minimized to tray"
+msgstr "Käynnistä pienennettynä ilmoitusalueelle"
+
+msgid "Start your first chat"
+msgstr "Aloita ensimmäinen keskustelusi"
+
+#, c-format
+msgid "Started offline: %s"
+msgstr "Käynnistetty offline-tilassa: %s"
+
+msgid "Starting a chat does not add someone to People. You can also import a contacts CSV or JSON export."
+msgstr "Keskustelun aloittaminen ei lisää ketään Ihmiset-luetteloon. Voit myös tuoda yhteystietojen CSV- tai JSON-viennin."
+
+msgid "Starting microphone…"
+msgstr "Käynnistetään mikrofonia…"
+
+msgid "Starting over deletes the vault on this device and everything sealed with it: account keys stored here, remote signer sessions, unsent messages, saved stickers and GIFs, and cached media. This can't be undone. Signing in again later can give you your account back, but not what was deleted, and your chats may not return."
+msgstr "Alusta aloittaminen poistaa tämän laitteen holvin ja kaiken sillä sinetöidyn: tänne tallennetut tilin avaimet, etäallekirjoittajien istunnot, lähettämättömät viestit, tallennetut tarrat ja GIFit sekä välimuistissa olevan median. Tätä ei voi kumota. Kirjautumalla myöhemmin uudelleen voit saada tilisi takaisin, mutta et poistettuja tietoja, eivätkä keskustelusi välttämättä palaa."
+
+msgid "Starting the runtime"
+msgstr "Käynnistetään ajoympäristöä"
+
+msgid "Startup"
+msgstr "Käynnistys"
+
+msgid "State"
+msgstr "Tila"
+
+msgid "Status bar"
+msgstr "Tilarivi"
+
+msgid "Step down"
+msgstr "Luovu roolista"
+
+msgid "Step down as admin?"
+msgstr "Luovutaanko ylläpitäjän roolista?"
+
+msgid "Step one: find a warm rock. Step two: become one."
+msgstr "Vaihe yksi: etsi lämmin kivi. Vaihe kaksi: muutu sellaiseksi."
+
+msgid "Sticker"
+msgstr "Tarra"
+
+msgid "Sticker name"
+msgstr "Tarran nimi"
+
+msgid "Sticker pack"
+msgstr "Tarrapaketti"
+
+msgid "Sticker unavailable. Click to view options."
+msgstr "Tarra ei ole saatavilla. Näytä vaihtoehdot napsauttamalla."
+
+msgid "Stickers"
+msgstr "Tarrat"
+
+#, c-format
+msgid "Stickers: %d"
+msgstr "Tarrat: %d"
+
+#, c-format
+msgid "Stock: %s"
+msgstr "Varastossa: %s"
+
+msgid "Stop reading"
+msgstr "Lopeta lukeminen"
+
+msgid "Storage"
+msgstr "Tallennustila"
+
+msgid "Store it in a password manager. It is separate from your nsec, remote signer, and backup file passwords."
+msgstr "Säilytä se salasanojen hallintaohjelmassa. Se on eri kuin nsec-, etäallekirjoittaja- ja varmuuskopiotiedostojen salasanat."
+
+msgid "Store it somewhere safe and close this dialog. Anyone who imports it will need the password you just entered to decrypt it."
+msgstr "Säilytä se turvallisessa paikassa ja sulje tämä ikkuna. Jokainen, joka tuo sen, tarvitsee salauksen purkamiseen juuri antamasi salasanan."
+
+msgid "Stored on this device, not published to any relay yet."
+msgstr "Tallennettu tälle laitteelle, ei vielä julkaistu millekään releelle."
+
+msgid "Stripes"
+msgstr "Raidat"
+
+msgid "Strong enough"
+msgstr "Riittävän vahva"
+
+msgid "Study"
+msgstr "Opiskelu"
+
+msgid "Sunday"
+msgstr "Sunnuntai"
+
+msgid "Support"
+msgstr "Tuki"
+
+msgid "Swahili (Kenya)"
+msgstr "Swahili (Kenia)"
+
+msgid "Swahili (Tanzania)"
+msgstr "Swahili (Tansania)"
+
+msgid "Swedish"
+msgstr "Ruotsi"
+
+msgid "Switching your account"
+msgstr "Vaihdetaan tiliä"
+
+msgid "Synthwave"
+msgstr "Synthwave"
+
+msgid "System"
+msgstr "Järjestelmä"
+
+msgid "TEXT"
+msgstr "TEKSTI"
+
+msgid "THEM"
+msgstr "MUUT"
+
+msgid "THEME"
+msgstr "TEEMA"
+
+msgid "TIMINGS"
+msgstr "AJOITUKSET"
+
+msgid "TROUBLESHOOTERS"
+msgstr "VIANMÄÄRITYS"
+
+#, c-format
+msgid "Take %d"
+msgstr "Otto %d"
+
+msgid "Takes effect on the next launch."
+msgstr "Tulee voimaan seuraavalla käynnistyskerralla."
+
+msgid "Tamil"
+msgstr "Tamili"
+
+msgid "Tap again to download this model."
+msgstr "Lataa tämä malli napauttamalla uudelleen."
+
+msgid "Tap again to rotate"
+msgstr "Vaihda napauttamalla uudelleen"
+
+msgid "Tap one, then confirm, to remove it."
+msgstr "Poista napauttamalla ja vahvistamalla."
+
+msgid "Tasks"
+msgstr "Tehtävät"
+
+msgid "Teal"
+msgstr "Sinivihreä"
+
+msgid "Telugu"
+msgstr "Telugu"
+
+msgid "Terminal"
+msgstr "Pääte"
+
+msgid "Terminal agent by Nous Research"
+msgstr "Nous Researchin pääteagentti"
+
+#, c-format
+msgid "Terrain: %d/5"
+msgstr "Maasto: %d/5"
+
+msgid "Test notification"
+msgstr "Testi-ilmoitus"
+
+msgid "Test notification sent."
+msgstr "Testi-ilmoitus lähetetty."
+
+msgid "Text"
+msgstr "Teksti"
+
+msgid "Text is hard to read"
+msgstr "Tekstiä on vaikea lukea"
+
+msgid "Text low"
+msgstr "Teksti, himmeä"
+
+msgid "Text lowest"
+msgstr "Teksti, himmein"
+
+msgid "Text mid"
+msgstr "Teksti, keskitaso"
+
+msgid "Text uses the typeface this theme ships with."
+msgstr "Tekstissä käytetään teeman omaa kirjasinta."
+
+msgid "Textured strokes and sketched avatars. Shapes stay fixed."
+msgstr "Tekstuuriset vedot ja luonnosmaiset avatarit. Muodot pysyvät ennallaan."
+
+msgid "Thai"
+msgstr "Thai"
+
+msgid "That isn't a bunker link. Double-check it and try again."
+msgstr "Tämä ei ole bunker-linkki. Tarkista se ja yritä uudelleen."
+
+msgid "That isn't your current password. Double-check it and try again."
+msgstr "Tämä ei ole nykyinen salasanasi. Tarkista se ja yritä uudelleen."
+
+msgid "That key isn't an nsec. Double-check it and try again."
+msgstr "Avain ei ole nsec. Tarkista se ja yritä uudelleen."
+
+msgid "That path is not a folder. Choose an existing project folder."
+msgstr "Polku ei ole kansio. Valitse olemassa oleva projektikansio."
+
+msgid "The AppImage folder is not writable. Move it to a writable folder to enable updates."
+msgstr "AppImage-kansioon ei voi kirjoittaa. Ota päivitykset käyttöön siirtämällä se kansioon, johon voi kirjoittaa."
+
+msgid "The AppImage folder is shared or has unsafe permissions. Move it to a private folder to enable updates."
+msgstr "AppImage-kansio on jaettu tai sen käyttöoikeudet eivät ole turvalliset. Ota päivitykset käyttöön siirtämällä se yksityiseen kansioon."
+
+msgid "The call runs outside White Noise."
+msgstr "Puhelu käydään White Noisen ulkopuolella."
+
+msgid "The chat leaves your list. Joining later needs a new invite."
+msgstr "Keskustelu poistuu luettelostasi. Myöhempi liittyminen vaatii uuden kutsun."
+
+msgid "The colors and settings you changed in the editor are lost."
+msgstr "Editorissa muuttamasi värit ja asetukset menetetään."
+
+msgid "The group name was removed"
+msgstr "Ryhmän nimi poistettiin"
+
+#, c-format
+msgid "The group was renamed to %s"
+msgstr "Ryhmän uusi nimi on %s"
+
+msgid "The new password re-encrypts the vault on this device. White Noise still can't reset it. If you forget it, the only way forward is to delete this vault and start over."
+msgstr "Uusi salasana salaa tämän laitteen holvin uudelleen. White Noise ei vieläkään voi nollata sitä. Jos unohdat sen, ainoa vaihtoehto on poistaa tämä holvi ja aloittaa alusta."
+
+msgid "The ngit web client a patch card opens. That site receives the patch link."
+msgstr "ngit-verkkoasiakasohjelma, jonka patch-kortti avaa. Sivusto saa patchin linkin."
+
+msgid "The original message isn't loaded in this view."
+msgstr "Alkuperäistä viestiä ei ole ladattu tähän näkymään."
+
+msgid "The passwords don't match. Type them again."
+msgstr "Salasanat eivät täsmää. Kirjoita ne uudelleen."
+
+msgid "The relay in the middle stores and forwards. It never holds a key."
+msgstr "Välissä oleva rele tallentaa ja välittää. Sillä ei koskaan ole avainta."
+
+msgid "The signer request was cancelled."
+msgstr "Allekirjoituspyyntö peruttiin."
+
+msgid "The updated list is published to your relays."
+msgstr "Päivitetty luettelo julkaistaan releillesi."
+
+msgid "The vault on this device was deleted. Pick a new password to start over."
+msgstr "Tämän laitteen holvi poistettiin. Aloita alusta valitsemalla uusi salasana."
+
+#, c-format
+msgid "The web client an event card opens. For example %s. %s is replaced with the event id."
+msgstr "Verkkoasiakasohjelma, jonka tapahtumakortti avaa. Esimerkiksi %s. %s korvataan tapahtuman tunnisteella."
+
+msgid "Their messages stay hidden until you show them. Nothing is published, and you can unblock them here."
+msgstr "Estettyjen viestit pysyvät piilossa, kunnes näytät ne. Mitään ei julkaista, ja voit poistaa eston täällä."
+
+msgid "Theme"
+msgstr "Teema"
+
+msgid "Theme applied"
+msgstr "Teema otettu käyttöön"
+
+msgid "Theme deleted"
+msgstr "Teema poistettu"
+
+msgid "Theme font"
+msgstr "Teeman kirjasin"
+
+msgid "Theme from Sidecar by dmnyc."
+msgstr "Teema Sidecarista, tekijä dmnyc."
+
+msgid "Theme saved"
+msgstr "Teema tallennettu"
+
+#, c-format
+msgid "Theme shared with %s"
+msgstr "Teema jaettu keskusteluun %s"
+
+msgid "Themes, text size, and the look of your conversations."
+msgstr "Teemat, tekstin koko ja keskustelujen ulkoasu."
+
+msgid "These are installation prompts. Choose your agent, review its prompt, and paste it into that agent to connect it to White Noise. The prompt includes your public npub, never your private key, and asks the agent to explain the connector before requesting your approval to install it. Use only an agent you run and trust."
+msgstr "Nämä ovat asennuskehotteita. Valitse agenttisi, tarkista sen kehote ja liitä se agenttiin, niin se yhdistyy White Noiseen. Kehotteessa on julkinen npubisi, ei koskaan yksityistä avaintasi, ja se pyytää agenttia selittämään connectorin ennen kuin se pyytää lupaasi asentaa sen. Käytä vain agenttia, jota itse ajat ja johon luotat."
+
+msgid "These settings and messages are only yours."
+msgstr "Nämä asetukset ja viestit ovat vain sinun."
+
+msgid "They can be added to a chat."
+msgstr "Hänet voi lisätä keskusteluun."
+
+msgid "They come off your published contact list. Groups you already share stay as they are."
+msgstr "Hänet poistetaan julkaistusta yhteystietoluettelostasi. Yhteiset ryhmänne pysyvät ennallaan."
+
+msgid "They haven't published a relay list."
+msgstr "Hän ei ole julkaissut relelistaa."
+
+msgid "They lose access to new messages in this group."
+msgstr "Hän menettää pääsyn tämän ryhmän uusiin viesteihin."
+
+msgid "They stay in the group as a regular member."
+msgstr "Hän pysyy ryhmässä tavallisena jäsenenä."
+
+msgid "This changes White Noise project metadata, not running shells."
+msgstr "Tämä muuttaa White Noisen projektin metatietoja, ei käynnissä olevia shellejä."
+
+msgid "This chat is archived. Restore it from Archive to send messages."
+msgstr "Tämä keskustelu on arkistoitu. Palauta se arkistosta, jotta voit lähettää viestejä."
+
+msgid "This has no visible text, so the GM button sends GM."
+msgstr "Tässä ei ole näkyvää tekstiä, joten GM-painike lähettää GM."
+
+msgid "This is a common password"
+msgstr "Tämä on yleinen salasana"
+
+#, c-format
+msgid "This is an installation prompt for connecting this Claude Code setup to White Noise through Marmot. Read the authoritative Claude Code harness guide at https://github.com/marmot-protocol/mdk/blob/master/integrations/claude/marmot/README.md and the evergreen connector guide at https://github.com/marmot-protocol/mdk/blob/master/crates/agent-connector/README.md. Explain to me how the connector works and what the installation will change. Confirm prerequisites: Claude Code CLI is installed, authenticated, and available on PATH, and this machine uses the same public relay set as my current account in the White Noise app. Then propose the installation steps for my public npub: %s, and ask for my approval before making any changes. Once I approve, use the checksum-verified install-claude-marmot.sh release flow, bootstrap wn-agent for that npub with the allowed welcomer, and verify wn-claude --version. Then reply with your agent npub and ask me to invite it from White Noise and send a test message from this allowed npub over the configured relays. Do not report setup complete until wn-claude returns a reply through White Noise; if that round trip cannot be verified automatically, clearly mark device verification required."
+msgstr "Tämä on asennuskehote, jolla tämä Claude Code -asennus yhdistetään White Noiseen Marmotin kautta. Lue ensisijainen Claude Code -integraatio-opas osoitteessa https://github.com/marmot-protocol/mdk/blob/master/integrations/claude/marmot/README.md ja aina ajantasainen connector-opas osoitteessa https://github.com/marmot-protocol/mdk/blob/master/crates/agent-connector/README.md. Selitä minulle, miten connector toimii ja mitä asennus muuttaa. Varmista esivaatimukset: Claude Code CLI on asennettu, todennettu ja käytettävissä PATHissa, ja tämä kone käyttää samaa julkista relejoukkoa kuin nykyinen tilini White Noise -sovelluksessa. Ehdota sitten asennusvaiheet julkiselle npubilleni: %s, ja pyydä hyväksyntääni ennen kuin teet muutoksia. Kun hyväksyn, käytä tarkistussummalla varmennettua install-claude-marmot.sh-julkaisuprosessia, alusta wn-agent kyseiselle npubille sallitun welcomerin kanssa ja varmista wn-claude --version. Vastaa sitten agenttisi npubilla ja pyydä minua kutsumaan se White Noisesta ja lähettämään testiviesti tästä sallitusta npubista määritettyjen releiden kautta. Älä ilmoita käyttöönottoa valmiiksi ennen kuin wn-claude vastaa White Noisen kautta; jos tätä edestakaista viestiä ei voida varmistaa automaattisesti, merkitse selvästi, että vaaditaan varmistus laitteella."
+
+#, c-format
+msgid "This is an installation prompt for connecting this Codex setup to White Noise through Marmot. Read the authoritative Codex harness guide at https://github.com/marmot-protocol/mdk/blob/master/integrations/codex/marmot/README.md and the evergreen connector guide at https://github.com/marmot-protocol/mdk/blob/master/crates/agent-connector/README.md. Explain to me how the connector works and what the installation will change. Confirm prerequisites: Codex CLI is installed, authenticated, and available on PATH, and this machine uses the same public relay set as my current account in the White Noise app. Then propose the installation steps for my public npub: %s, and ask for my approval before making any changes. Once I approve, use the checksum-verified install-codex-marmot.sh release flow, bootstrap wn-agent for that npub with the allowed welcomer, and verify wn-codex --version. Then reply with your agent npub and ask me to invite it from White Noise and send a test message from this allowed npub over the configured relays. Do not report setup complete until wn-codex returns a reply through White Noise; if that round trip cannot be verified automatically, clearly mark device verification required."
+msgstr "Tämä on asennuskehote, jolla tämä Codex-asennus yhdistetään White Noiseen Marmotin kautta. Lue ensisijainen Codex-integraatio-opas osoitteessa https://github.com/marmot-protocol/mdk/blob/master/integrations/codex/marmot/README.md ja aina ajantasainen connector-opas osoitteessa https://github.com/marmot-protocol/mdk/blob/master/crates/agent-connector/README.md. Selitä minulle, miten connector toimii ja mitä asennus muuttaa. Varmista esivaatimukset: Codex CLI on asennettu, todennettu ja käytettävissä PATHissa, ja tämä kone käyttää samaa julkista relejoukkoa kuin nykyinen tilini White Noise -sovelluksessa. Ehdota sitten asennusvaiheet julkiselle npubilleni: %s, ja pyydä hyväksyntääni ennen kuin teet muutoksia. Kun hyväksyn, käytä tarkistussummalla varmennettua install-codex-marmot.sh-julkaisuprosessia, alusta wn-agent kyseiselle npubille sallitun welcomerin kanssa ja varmista wn-codex --version. Vastaa sitten agenttisi npubilla ja pyydä minua kutsumaan se White Noisesta ja lähettämään testiviesti tästä sallitusta npubista määritettyjen releiden kautta. Älä ilmoita käyttöönottoa valmiiksi ennen kuin wn-codex vastaa White Noisen kautta; jos tätä edestakaista viestiä ei voida varmistaa automaattisesti, merkitse selvästi, että vaaditaan varmistus laitteella."
+
+#, c-format
+msgid "This is an installation prompt for connecting this Hermes installation to White Noise through Marmot. Read the latest connector guide at https://github.com/marmot-protocol/mdk/blob/master/integrations/hermes/marmot/README.md / https://github.com/marmot-protocol/mdk/blob/master/crates/agent-connector/README.md. Explain to me how the connector works and what the installation will change. Then propose the installation steps for my public npub: %s, and ask for my approval before making any changes. Once I approve, install and verify the connector, then reply with your agent npub. Before proposing changes, confirm the intended Hermes profile, Hermes home, Marmot home/socket, agent account and service, and gateway instance; do not assume the default profile or overwrite another installation. Use the checksum-verified Hermes installer flow. Distinguish invite authorization from message-sender authorization. Guide me through the invitation from my current account in the White Noise app and a test message, and verify that the selected profile replies in White Noise before calling pairing complete."
+msgstr "Tämä on asennuskehote, jolla tämä Hermes-asennus yhdistetään White Noiseen Marmotin kautta. Lue uusin connector-opas osoitteessa https://github.com/marmot-protocol/mdk/blob/master/integrations/hermes/marmot/README.md / https://github.com/marmot-protocol/mdk/blob/master/crates/agent-connector/README.md. Selitä minulle, miten connector toimii ja mitä asennus muuttaa. Ehdota sitten asennusvaiheet julkiselle npubilleni: %s, ja pyydä hyväksyntääni ennen kuin teet muutoksia. Kun hyväksyn, asenna ja varmista connector ja vastaa sitten agenttisi npubilla. Ennen kuin ehdotat muutoksia, varmista aiottu Hermes-profiili, Hermes home, Marmot home/socket, agentin tili ja palvelu sekä gateway-instanssi; älä oleta oletusprofiilia äläkä korvaa toista asennusta. Käytä tarkistussummalla varmennettua Hermes-asennusprosessia. Erota kutsujen valtuutus viestien lähettäjien valtuutuksesta. Opasta minut kutsumaan agentti nykyiseltä tililtäni White Noise -sovelluksessa ja lähettämään testiviesti, ja varmista, että valittu profiili vastaa White Noisessa, ennen kuin ilmoitat parinmuodostuksen valmiiksi."
+
+#, c-format
+msgid "This is an installation prompt for connecting this OpenClaw instance to White Noise through Marmot. Read the latest connector guide at https://github.com/marmot-protocol/mdk/blob/master/crates/agent-connector/README.md. Explain to me how the connector works and what the installation will change. Then propose the installation steps for my public npub: %s, and ask for my approval before making any changes. Once I approve, install and verify the connector, then reply with your agent npub."
+msgstr "Tämä on asennuskehote, jolla tämä OpenClaw-instanssi yhdistetään White Noiseen Marmotin kautta. Lue uusin connector-opas osoitteessa https://github.com/marmot-protocol/mdk/blob/master/crates/agent-connector/README.md. Selitä minulle, miten connector toimii ja mitä asennus muuttaa. Ehdota sitten asennusvaiheet julkiselle npubilleni: %s, ja pyydä hyväksyntääni ennen kuin teet muutoksia. Kun hyväksyn, asenna connector ja varmista sen toiminta, ja vastaa sitten agenttisi npubilla."
+
+#, c-format
+msgid "This is an installation prompt for connecting this OpenCode setup to White Noise through Marmot. Read the latest connector guide at https://github.com/marmot-protocol/mdk/blob/master/crates/agent-connector/README.md. Explain to me how the connector works and what the installation will change. Then propose the installation steps for my public npub: %s, and ask for my approval before making any changes. Once I approve, install and verify the connector, then reply with your agent npub."
+msgstr "Tämä on asennuskehote, jolla tämä OpenCode-ympäristö yhdistetään White Noiseen Marmotin kautta. Lue uusin connector-opas osoitteessa https://github.com/marmot-protocol/mdk/blob/master/crates/agent-connector/README.md. Selitä minulle, miten connector toimii ja mitä asennus muuttaa. Ehdota sitten asennusvaiheet julkiselle npubilleni: %s, ja pyydä hyväksyntääni ennen kuin teet muutoksia. Kun hyväksyn, asenna connector ja varmista sen toiminta, ja vastaa sitten agenttisi npubilla."
+
+msgid "This is what a message alert looks like."
+msgstr "Tältä viesti-ilmoitus näyttää."
+
+msgid "This is your secret key, encrypted with the password you entered. Whoever holds this string and that password controls your identity."
+msgstr "Tämä on yksityinen avaimesi salattuna antamallasi salasanalla. Se, jolla on tämä merkkijono ja salasana, hallitsee identiteettiäsi."
+
+msgid "This key has a typo."
+msgstr "Tässä avaimessa on kirjoitusvirhe."
+
+msgid "This leaves White Noise and opens in your browser."
+msgstr "Siirryt pois White Noisesta, ja sivu avautuu selaimessasi."
+
+#, c-format
+msgid "This leaves White Noise and opens the call in %s."
+msgstr "Siirryt pois White Noisesta, ja puhelu avautuu sovelluksessa %s."
+
+msgid "This message was deleted"
+msgstr "Tämä viesti poistettiin"
+
+msgid "This name is public. You can change it later in your profile."
+msgstr "Tämä nimi on julkinen. Voit muuttaa sitä myöhemmin profiilissasi."
+
+msgid "This number increases when the group's encryption keys change."
+msgstr "Tämä luku kasvaa, kun ryhmän salausavaimet vaihtuvat."
+
+msgid "This pairing link is too long for a QR code. Use Copy pairing link."
+msgstr "Parinmuodostuslinkki on liian pitkä QR-koodiksi. Käytä Kopioi parinmuodostuslinkki -toimintoa."
+
+msgid "This password encrypts the vault on this device. It doesn't create an account, and White Noise can't reset it."
+msgstr "Tämä salasana salaa tämän laitteen holvin. Se ei luo tiliä, eikä White Noise voi nollata sitä."
+
+msgid "This password is easy to guess. Someone with this device could guess it and open the vault."
+msgstr "Tämä salasana on helppo arvata. Joku, jolla on tämä laite, voisi arvata sen ja avata holvin."
+
+msgid "This project is no longer available."
+msgstr "Tämä projekti ei ole enää saatavilla."
+
+msgid "This project is no longer available. Close this editor and reopen it from the current project."
+msgstr "Tämä projekti ei ole enää saatavilla. Sulje tämä editori ja avaa se uudelleen nykyisestä projektista."
+
+msgid "This relay is already in your list."
+msgstr "Tämä rele on jo luettelossasi."
+
+msgid "This session"
+msgstr "Tämä istunto"
+
+msgid "This sticker is not in the current pack."
+msgstr "Tämä tarra ei ole nykyisessä paketissa."
+
+msgid "Thread"
+msgstr "Ketju"
+
+msgid "Three things and you can send your first message."
+msgstr "Kolme asiaa, niin voit lähettää ensimmäisen viestisi."
+
+#, c-format
+msgid "Through: %s"
+msgstr "Asti: %s"
+
+msgid "Thursday"
+msgstr "Torstai"
+
+msgid "Time format"
+msgstr "Ajan muoto"
+
+msgid "Timeline subscription closed."
+msgstr "Aikajanan tilaus suljettiin."
+
+msgid "Timings"
+msgstr "Ajoitukset"
+
+msgid "Title font"
+msgstr "Otsikon kirjasin"
+
+msgid "Title wash"
+msgstr "Otsikon liukuväri"
+
+msgid "Today"
+msgstr "Tänään"
+
+msgid "Toggle developer mode"
+msgstr "Kehittäjätila päälle tai pois"
+
+msgid "Too easy to guess"
+msgstr "Liian helppo arvata"
+
+msgid "Toolbar button"
+msgstr "Työkalupalkin painike"
+
+msgid "Tools"
+msgstr "Työkalut"
+
+msgid "Tooltip"
+msgstr "Työkaluvihje"
+
+msgid "Top glint"
+msgstr "Yläreunan kiilto"
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Trackers"
+msgstr "Trackerit"
+
+msgid "Trackers only, no DHT or peer exchange."
+msgstr "Vain trackerit, ei DHT:tä eikä vertaisvaihtoa."
+
+msgid "Transcribe"
+msgstr "Litteroi"
+
+msgid "Transcribing..."
+msgstr "Litteroidaan..."
+
+msgid "Transcription model"
+msgstr "Litterointimalli"
+
+msgid "Transition ms"
+msgstr "Siirtymä (ms)"
+
+msgid "Translate"
+msgstr "Käännä"
+
+msgid "Translate into"
+msgstr "Käännä kielelle"
+
+msgid "Translate messages on your device"
+msgstr "Käännä viestit laitteellasi"
+
+msgid "Translate received messages automatically"
+msgstr "Käännä vastaanotetut viestit automaattisesti"
+
+msgid "Translates received messages as you read them. The first translation downloads the local model."
+msgstr "Kääntää vastaanotetut viestit, kun luet niitä. Ensimmäinen käännös lataa paikallisen mallin."
+
+msgid "Translating on your device..."
+msgstr "Käännetään laitteellasi..."
+
+msgid "Translations can be inaccurate. The original message is always available."
+msgstr "Käännökset voivat olla epätarkkoja. Alkuperäinen viesti on aina saatavilla."
+
+msgid "Travel"
+msgstr "Matkailu"
+
+msgid "Trophy"
+msgstr "Pokaali"
+
+msgid "Trusted link sites"
+msgstr "Luotetut linkkisivustot"
+
+msgid "Try OpenGL or CPU if the window draws incorrectly. CPU draws without the graphics card and uses more processor time. Restart White Noise to apply a change."
+msgstr "Kokeile OpenGL:ää tai CPU:ta, jos ikkuna piirtyy väärin. CPU piirtää ilman näytönohjainta ja käyttää enemmän suoritinaikaa. Muutos tulee voimaan, kun käynnistät White Noisen uudelleen."
+
+msgid "Try a different search."
+msgstr "Kokeile toista hakua."
+
+msgid "Try again"
+msgstr "Yritä uudelleen"
+
+msgid "Tuesday"
+msgstr "Tiistai"
+
+msgid "Turkish"
+msgstr "Turkki"
+
+msgid "Turn off animated transitions, flights and effects. State still changes, nothing moves."
+msgstr "Poista animoidut siirtymät, lennot ja tehosteet. Tila muuttuu edelleen, mutta mikään ei liiku."
+
+msgid "Turn on developer mode"
+msgstr "Ota kehittäjätila käyttöön"
+
+msgid "Type a command"
+msgstr "Kirjoita komento"
+
+msgid "Type to search all chats."
+msgstr "Hae kaikista keskusteluista kirjoittamalla."
+
+msgid "Type your new password again"
+msgstr "Kirjoita uusi salasanasi uudelleen"
+
+msgid "Type your password again"
+msgstr "Kirjoita salasanasi uudelleen"
+
+msgid "Type your password first."
+msgstr "Kirjoita ensin salasanasi."
+
+msgid "UPTIME"
+msgstr "KÄYNNISSÄOLOAIKA"
+
+msgid "UV checker"
+msgstr "UV-testikuvio"
+
+msgid "Ukrainian"
+msgstr "Ukraina"
+
+msgid "Unavailable conversation"
+msgstr "Keskustelu ei ole saatavilla"
+
+msgid "Unblock"
+msgstr "Poista esto"
+
+msgid "Unfiled"
+msgstr "Ei kansiota"
+
+msgid "Unlock"
+msgstr "Avaa lukitus"
+
+msgid "Unlocking…"
+msgstr "Avataan lukitusta…"
+
+msgid "Unmute"
+msgstr "Poista mykistys"
+
+msgid "Unnamed group"
+msgstr "Nimetön ryhmä"
+
+msgid "Unpin"
+msgstr "Poista kiinnitys"
+
+msgid "Unread"
+msgstr "Lukemattomat"
+
+msgid "Unsupported attachment format."
+msgstr "Liitteen muotoa ei tueta."
+
+msgid "Untitled emoji set"
+msgstr "Nimetön emojisarja"
+
+msgid "Untitled patch"
+msgstr "Nimetön patch"
+
+msgid "Updates"
+msgstr "Päivitykset"
+
+msgid "Updates are disabled while a SOCKS5 proxy is configured. Sparkle cannot safely use the app's explicit proxy. Disable the proxy and restart to update, or install an authenticated release manually."
+msgstr "Päivitykset ovat pois käytöstä, kun SOCKS5-välityspalvelin on määritetty. Sparkle ei voi turvallisesti käyttää sovellukseen erikseen määritettyä välityspalvelinta. Päivitä poistamalla välityspalvelin käytöstä ja käynnistämällä uudelleen, tai asenna todennettu julkaisu käsin."
+
+msgid "Updating your contacts"
+msgstr "Päivitetään yhteystietojasi"
+
+msgid "Upload custom emoji"
+msgstr "Lähetä omia emojeja"
+
+msgid "Uploaded emoji"
+msgstr "Lähetetyt emojit"
+
+msgid "Uploading picture"
+msgstr "Lähetetään kuvaa"
+
+msgid "Urdu"
+msgstr "Urdu"
+
+msgid "Use"
+msgstr "Käytä"
+
+msgid "Use New folder to create a folder, then drag a chat onto it."
+msgstr "Luo kansio kohdasta Uusi kansio ja vedä keskustelu sen päälle."
+
+msgid "Use New folder to create a folder. Your chats appear here once you have some."
+msgstr "Luo kansio kohdasta Uusi kansio. Keskustelusi näkyvät täällä, kun sinulla on niitä."
+
+msgid "Use a SOCKS5 proxy"
+msgstr "Käytä SOCKS5-välityspalvelinta"
+
+msgid "Use a separate group for each project and start with its location and context. Session controls vary by connector; check its guide before using resume or branch commands."
+msgstr "Käytä jokaiselle projektille omaa ryhmää ja aloita kertomalla sen sijainti ja konteksti. Istunnon hallinta vaihtelee connectorin mukaan; tarkista sen ohjeet ennen resume- tai branch-komentojen käyttöä."
+
+msgid "Use a shorter search."
+msgstr "Käytä lyhyempää hakua."
+
+msgid "Use crop circle"
+msgstr "Käytä viljaympyrää"
+
+msgid "Use current location"
+msgstr "Käytä nykyistä sijaintia"
+
+msgid "Use emoji image"
+msgstr "Käytä emojikuvaa"
+
+msgid "Use only an agent you run and trust. Your private key is never included."
+msgstr "Käytä vain agenttia, jota itse ajat ja johon luotat. Yksityistä avaintasi ei koskaan liitetä mukaan."
+
+msgid "Use original"
+msgstr "Käytä alkuperäistä"
+
+msgid "Use this password anyway"
+msgstr "Käytä tätä salasanaa silti"
+
+msgid "Use this photo?"
+msgstr "Käytetäänkö tätä kuvaa?"
+
+msgid "Use this theme"
+msgstr "Käytä tätä teemaa"
+
+msgid "Use unrelated words or a password-manager password."
+msgstr "Käytä toisiinsa liittymättömiä sanoja tai salasanojen hallintaohjelman luomaa salasanaa."
+
+msgid "Use username and password"
+msgstr "Käytä käyttäjänimeä ja salasanaa"
+
+msgid "Used for generated user and group avatars."
+msgstr "Käytetään luotuihin käyttäjien ja ryhmien avatareihin."
+
+msgid "Used for profile photos without a published shape."
+msgstr "Käytetään profiilikuviin, joille ei ole julkaistu muotoa."
+
+msgid "Username"
+msgstr "Käyttäjänimi"
+
+msgid "VERIFIED ADDRESS"
+msgstr "VAHVISTETTU OSOITE"
+
+msgid "Vault password changed."
+msgstr "Holvin salasana vaihdettu."
+
+msgid "Verified address"
+msgstr "Vahvistettu osoite"
+
+msgid "Verifying download..."
+msgstr "Tarkistetaan latausta..."
+
+msgid "Vertex normals"
+msgstr "Verteksinormaalit"
+
+msgid "Videos"
+msgstr "Videot"
+
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+msgid "View"
+msgstr "Näytä"
+
+msgid "View as hex"
+msgstr "Näytä hex-muodossa"
+
+msgid "View keyboard shortcuts"
+msgstr "Näytä pikanäppäimet"
+
+msgid "View profile"
+msgstr "Näytä profiili"
+
+msgid "View raw event"
+msgstr "Näytä raakatapahtuma"
+
+msgid "View sticker pack"
+msgstr "Näytä tarrapaketti"
+
+msgid "View transcription"
+msgstr "Näytä litterointi"
+
+msgid "Vignette"
+msgstr "Vinjetti"
+
+msgid "Violet"
+msgstr "Violetti"
+
+msgid "Visual fingerprint"
+msgstr "Visuaalinen sormenjälki"
+
+msgid "Voice message"
+msgstr "Ääniviesti"
+
+msgid "Voting has ended."
+msgstr "Äänestys on päättynyt."
+
+msgid "WIREFRAME"
+msgstr "RAUTALANKAMALLI"
+
+msgid "Waiting for signer approval"
+msgstr "Odotetaan allekirjoittajan hyväksyntää"
+
+msgid "Waiting for your signer"
+msgstr "Odotetaan allekirjoittajaasi"
+
+msgid "Waiting to translate..."
+msgstr "Odotetaan käännöstä..."
+
+msgid "Warning"
+msgstr "Varoitus"
+
+msgid "Wave hi"
+msgstr "Vilkuta"
+
+msgid "Waves"
+msgstr "Aallot"
+
+msgid "Weak password"
+msgstr "Heikko salasana"
+
+msgid "Webxdc app"
+msgstr "Webxdc-sovellus"
+
+msgid "Webxdc apps are only supported on Linux."
+msgstr "Webxdc-sovelluksia tuetaan vain Linuxissa."
+
+msgid "Wednesday"
+msgstr "Keskiviikko"
+
+msgid "What is shared"
+msgstr "Mitä jaetaan"
+
+msgid "What it is"
+msgstr "Mikä se on"
+
+msgid "What should people call you?"
+msgstr "Millä nimellä muut voivat kutsua sinua?"
+
+msgid "What the GM button sends. You can use it once a day in each chat."
+msgstr "Mitä GM-painike lähettää. Voit käyttää sitä kerran päivässä kussakin keskustelussa."
+
+msgid "Whatever you send in this chat is encrypted on your device with MLS before it goes out. The relays that pass it along can't read it, and neither can anyone else."
+msgstr "Kaikki, mitä lähetät tässä keskustelussa, salataan laitteellasi MLS:llä ennen lähettämistä. Viestiä välittävät releet eivät voi lukea sitä, eikä kukaan muukaan."
+
+msgid "Where"
+msgstr "Missä"
+
+msgid "Where a message goes"
+msgstr "Mitä reittiä viesti kulkee"
+
+msgid "Where a shared location opens from its card. That site receives the location. Map images on the card always load from OpenStreetMap."
+msgstr "Missä jaettu sijainti avataan sen kortista. Sivusto saa sijainnin. Kortin karttakuvat ladataan aina OpenStreetMapista."
+
+msgid "Where linked Nostr events (nevent, note) are pulled from. Your chats never touch these."
+msgstr "Mistä linkitetyt Nostr-tapahtumat (nevent, note) haetaan. Keskustelusi eivät koskaan kulje näiden kautta."
+
+msgid "Where peers reach you."
+msgstr "Missä muut tavoittavat sinut."
+
+msgid "Where you publish."
+msgstr "Missä julkaiset."
+
+#, c-format
+msgid "White Noise %s is ready to install."
+msgstr "White Noise %s on valmis asennettavaksi."
+
+msgid "White Noise and this session."
+msgstr "White Noise ja tämä istunto."
+
+msgid "White Noise can't reset this password, and no one else has a copy. Without it, the vault on this device can't be opened."
+msgstr "White Noise ei voi nollata tätä salasanaa, eikä kenelläkään muulla ole siitä kopiota. Ilman sitä tämän laitteen holvia ei voi avata."
+
+msgid "White Noise doesn't open at login"
+msgstr "White Noise ei avaudu kirjautuessa"
+
+msgid "White Noise is not affiliated with GifSnap. There is no reason to expect GifSnap to misuse this data, but it is a third party outside White Noise's control."
+msgstr "White Noise ei ole sidoksissa GifSnapiin. Ei ole syytä olettaa, että GifSnap käyttäisi näitä tietoja väärin, mutta se on kolmas osapuoli, johon White Noise ei voi vaikuttaa."
+
+msgid "White Noise will ask your signer for these permissions. Your signer may ask you to confirm them too."
+msgstr "White Noise pyytää allekirjoittajaltasi nämä käyttöoikeudet. Allekirjoittajasi voi myös pyytää sinua vahvistamaan ne."
+
+#, c-format
+msgid "White Noise · %d unread"
+msgstr "White Noise · %d lukematonta"
+
+msgid "Who put a sun lounger outside the burrow?"
+msgstr "Kuka toi aurinkotuolin pesäkolon eteen?"
+
+msgid "Wireframe"
+msgstr "Rautalankamalli"
+
+msgid "With a keyboard connected"
+msgstr "Kun näppäimistö on liitetty"
+
+msgid "Word"
+msgstr "Sana"
+
+msgid "Work"
+msgstr "Työ"
+
+msgid "World"
+msgstr "Maailma"
+
+msgid "YOU"
+msgstr "SINÄ"
+
+msgid "YOUR KEY PACKAGES"
+msgstr "OMAT KEY PACKAGESI"
+
+msgid "YOUR PACKS"
+msgstr "OMAT PAKETTISI"
+
+msgid "YOUR STICKERS"
+msgstr "OMAT TARRASI"
+
+msgid "Yellow"
+msgstr "Keltainen"
+
+msgid "Yesterday"
+msgstr "Eilen"
+
+msgid "You"
+msgstr "Sinä"
+
+msgid "You are signed out, but your signer record could not be removed from the encrypted vault."
+msgstr "Olet kirjautunut ulos, mutta allekirjoittajasi tietoja ei voitu poistaa salatusta holvista."
+
+msgid "You can find it in Archived and restore it to your chat list there."
+msgstr "Löydät sen arkistosta ja voit palauttaa sen sieltä keskusteluluetteloosi."
+
+msgid "You can't send messages to someone you blocked."
+msgstr "Et voi lähettää viestejä estämällesi henkilölle."
+
+msgid "You follow"
+msgstr "Seuraat"
+
+msgid "You have no chats to share this with."
+msgstr "Sinulla ei ole keskusteluja, joihin tämän voisi jakaa."
+
+msgid "You have no folders yet. Create one with New folder."
+msgstr "Sinulla ei ole vielä kansioita. Luo kansio kohdasta Uusi kansio."
+
+msgid "You have no groups to add this person to."
+msgstr "Sinulla ei ole ryhmiä, joihin tämän henkilön voisi lisätä."
+
+msgid "You have no other chats to forward this to."
+msgstr "Sinulla ei ole muita keskusteluja, joihin tämän voisi välittää."
+
+msgid "You have read every chat."
+msgstr "Olet lukenut kaikki keskustelut."
+
+msgid "You have the latest version."
+msgstr "Sinulla on uusin versio."
+
+msgid "You have unsaved changes."
+msgstr "Sinulla on tallentamattomia muutoksia."
+
+msgid "You said GM here today"
+msgstr "Sanoit jo tänään GM täällä"
+
+msgid "You said GM here today."
+msgstr "Sanoit jo tänään GM täällä."
+
+msgid "You stay in the group, but another admin has to grant the rights back."
+msgstr "Pysyt ryhmässä, mutta toisen ylläpitäjän on palautettava oikeutesi."
+
+msgid "You stay in the group, but no other admin can grant your rights back."
+msgstr "Pysyt ryhmässä, mutta kukaan muu ylläpitäjä ei voi palauttaa oikeuksiasi."
+
+msgid "You stop receiving its messages. Rejoining needs a new invite."
+msgstr "Et enää saa sen viestejä. Uudelleen liittyminen vaatii uuden kutsun."
+
+msgid "You were invited to this chat."
+msgstr "Sinut kutsuttiin tähän keskusteluun."
+
+msgid "You were invited to this group."
+msgstr "Sinut kutsuttiin tähän ryhmään."
+
+msgid "You will stop receiving its messages."
+msgstr "Et enää saa sen viestejä."
+
+#, c-format
+msgid "You: %s"
+msgstr "Sinä: %s"
+
+msgid "Your GM"
+msgstr "Oma GM"
+
+msgid "Your account has a pending action. Complete it before reconnecting your signer."
+msgstr "Tililläsi on kesken oleva toiminto. Suorita se loppuun ennen kuin yhdistät allekirjoittajan uudelleen."
+
+msgid "Your account is removed, but its signer record couldn't be removed from the encrypted vault."
+msgstr "Tilisi on poistettu, mutta sen allekirjoittajan tietoja ei voitu poistaa salatusta holvista."
+
+msgid "Your chats appear here once you have some."
+msgstr "Keskustelusi näkyvät täällä, kun sinulla on niitä."
+
+msgid "Your current password"
+msgstr "Nykyinen salasanasi"
+
+msgid "Your device asks for permission. Nothing is sent to the chat until you choose Send location."
+msgstr "Laitteesi pyytää lupaa. Keskusteluun ei lähetetä mitään, ennen kuin valitset Lähetä sijainti."
+
+msgid "Your disk is filling up"
+msgstr "Levytila on loppumassa"
+
+msgid "Your existing and new notes are deleted after this time."
+msgstr "Nykyiset ja uudet muistiinpanosi poistetaan tämän ajan kuluttua."
+
+msgid "Your identity and the secrets on this device."
+msgstr "Identiteettisi ja tämän laitteen salaisuudet."
+
+msgid "Your identity, key packages, and device security."
+msgstr "Identiteettisi, key packagesi ja laitteen suojaus."
+
+msgid "Your key stays on this device"
+msgstr "Avaimesi pysyy tällä laitteella"
+
+msgid "Your new password"
+msgstr "Uusi salasanasi"
+
+msgid "Your nsec or remote signer can let you use your account again, but it can't open this vault, and your chats on this device may not return. A backup file has its own password and holds only settings, drafts, custom emoji, and themes."
+msgstr "nsec-avaimesi tai etäallekirjoittajasi voi palauttaa pääsyn tiliisi, mutta se ei voi avata tätä holvia, eivätkä tämän laitteen keskustelusi välttämättä palaa. Varmuuskopiotiedostolla on oma salasanansa, ja se sisältää vain asetukset, luonnokset, omat emojit ja teemat."
+
+msgid "Your own notepad"
+msgstr "Oma muistilehtiö"
+
+msgid "Your password"
+msgstr "Salasanasi"
+
+msgid "Your previous account action is still running."
+msgstr "Edellinen tilitoimintosi on yhä käynnissä."
+
+msgid "Your previous account action is still waiting. Check your signer for approval."
+msgstr "Edellinen tilitoimintosi odottaa yhä. Tarkista hyväksyntä allekirjoittajastasi."
+
+msgid "Your profile"
+msgstr "Profiilisi"
+
+msgid "Your proxy credentials are stored in your encrypted vault."
+msgstr "Välityspalvelimen tunnistetiedot on tallennettu salattuun holviisi."
+
+msgid "Your public key"
+msgstr "Julkinen avaimesi"
+
+msgid "Your public key is unavailable. Choose another account and try again."
+msgstr "Julkinen avaimesi ei ole saatavilla. Valitse toinen tili ja yritä uudelleen."
+
+msgid "Your public key. Safe to share."
+msgstr "Julkinen avaimesi. Turvallinen jakaa."
+
+msgid "Your secret key stays in your remote signer, so this device can't reveal or export it. Back it up and recover it through your signer. A White Noise backup file doesn't include it."
+msgstr "Salainen avaimesi pysyy etäallekirjoittajassasi, joten tämä laite ei voi näyttää tai viedä sitä. Varmuuskopioi ja palauta se allekirjoittajasi kautta. White Noisen varmuuskopiotiedosto ei sisällä sitä."
+
+msgid "Your secret key stays in your signer, and this device only asks it to sign. Approve the connection and each signature there, so keep your signer open. This device can't reveal or export the key, so back it up and recover it through your signer."
+msgstr "Salainen avaimesi pysyy allekirjoittajassasi, ja tämä laite vain pyytää sitä allekirjoittamaan. Hyväksy siellä yhteys ja jokainen allekirjoitus, joten pidä allekirjoittajasi auki. Tämä laite ei voi näyttää tai viedä avainta, joten varmuuskopioi ja palauta se allekirjoittajasi kautta."
+
+msgid "Your secret key stays on this device or in your connected signer. Never share it."
+msgstr "Yksityinen avaimesi pysyy tällä laitteella tai yhdistetyssä allekirjoittajassasi. Älä koskaan jaa sitä."
+
+msgid "Your signer is connected, but its old record could not be removed from the encrypted vault."
+msgstr "Allekirjoittajasi on yhdistetty, mutta sen vanhoja tietoja ei voitu poistaa salatusta holvista."
+
+msgid "Your signer is disconnected."
+msgstr "Allekirjoittajasi yhteys on katkennut."
+
+msgid "Your signer is unavailable."
+msgstr "Allekirjoitussovelluksesi ei ole käytettävissä."
+
+msgid "Your signer rejected the request."
+msgstr "Allekirjoittajasi hylkäsi pyynnön."
+
+msgid "Your signer session has ended."
+msgstr "Allekirjoittajan istunto on päättynyt."
+
+msgid "Your stickers"
+msgstr "Omat tarrat"
+
+msgid "Your themes"
+msgstr "Omat teemat"
+
+msgid "Your unpublished profile changes are lost."
+msgstr "Julkaisemattomat profiilimuutoksesi menetetään."
+
+msgid "Zoom in"
+msgstr "Lähennä"
+
+msgid "Zoom out"
+msgstr "Loitonna"
+
+msgid "Zoom the interface"
+msgstr "Zoomaa käyttöliittymää"
+
+msgid "Zulu"
+msgstr "Zulu"
+
+#, c-format
+msgid "aka %s"
+msgstr "alias %s"
+
+#, c-format
+msgid "and %d more blocks"
+msgstr "ja %d lohkoa lisää"
+
+#, c-format
+msgid "and %d more files"
+msgstr "ja %d tiedostoa lisää"
+
+#, c-format
+msgid "and %d more lines"
+msgstr "ja %d riviä lisää"
+
+#, c-format
+msgid "and %s more"
+msgstr "ja %s muuta"
+
+msgid "carries the blob"
+msgstr "kuljettaa blobin"
+
+msgid "e.g. ~/Work/project"
+msgstr "esim. ~/Work/project"
+
+msgid "edited"
+msgstr "muokattu"
+
+msgid "failed · tap to retry"
+msgstr "epäonnistui · yritä uudelleen napauttamalla"
+
+#, c-format
+msgid "in %d day"
+msgstr "%d päivän kuluttua"
+
+#, c-format
+msgid "in %d days"
+msgstr "%d päivän kuluttua"
+
+#, c-format
+msgid "in %d hour"
+msgstr "%d tunnin kuluttua"
+
+#, c-format
+msgid "in %d hours"
+msgstr "%d tunnin kuluttua"
+
+#, c-format
+msgid "in %d minute"
+msgstr "%d minuutin kuluttua"
+
+#, c-format
+msgid "in %d minutes"
+msgstr "%d minuutin kuluttua"
+
+#, c-format
+msgid "in %d month"
+msgstr "%d kuukauden kuluttua"
+
+#, c-format
+msgid "in %d months"
+msgstr "%d kuukauden kuluttua"
+
+#, c-format
+msgid "in %d second"
+msgstr "%d sekunnin kuluttua"
+
+#, c-format
+msgid "in %d seconds"
+msgstr "%d sekunnin kuluttua"
+
+#, c-format
+msgid "in %d year"
+msgstr "%d vuoden kuluttua"
+
+#, c-format
+msgid "in %d years"
+msgstr "%d vuoden kuluttua"
+
+msgid "inbox"
+msgstr "inbox"
+
+msgid "local + relay"
+msgstr "paikallinen + rele"
+
+msgid "local only"
+msgstr "vain paikallinen"
+
+msgid "marmot exposes publish metadata only. Ciphersuite, capabilities, and credential decoding are not available in this build."
+msgstr "marmot näyttää vain julkaisun metatiedot. Ciphersuiten, ominaisuuksien ja tunnistetietojen purku ei ole käytettävissä tässä versiossa."
+
+msgid "npub copied"
+msgstr "npub kopioitu"
+
+msgid "npub or hex pubkey"
+msgstr "npub tai hex-muotoinen julkinen avain"
+
+msgid "opened there"
+msgstr "avattu siellä"
+
+msgid "or pick a page"
+msgstr "tai valitse sivu"
+
+msgid "people"
+msgstr "ihmiset"
+
+msgid "plaintext"
+msgstr "selväteksti"
+
+msgid "relay"
+msgstr "rele"
+
+msgid "sealed here"
+msgstr "sinetöity täällä"
+
+msgid "© OpenStreetMap contributors"
+msgstr "© OpenStreetMapin tekijät"
+
+msgid "• CHAT REQUEST •"
+msgstr "• KESKUSTELUPYYNTÖ •"
+
+msgid "• NEW MESSAGES •"
+msgstr "• UUDET VIESTIT •"
+
+msgid "• THREAD •"
+msgstr "• KETJU •"
+
+msgid "↑↓ move   ⏎ run   esc close"
+msgstr "↑↓ siirry   ⏎ suorita   esc sulje"

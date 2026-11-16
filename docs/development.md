@@ -57,7 +57,7 @@ Use `tr("text")` for UI strings and `tr("%d item", "%d items", count)` for count
 
 | Language | Singular and plural |
 | --- | --- |
-| English, Italian, German | Distinct entries |
+| English, Italian, German, Finnish | Distinct entries |
 | Japanese, Korean | Same translation for both |
 
 `tr()` does not interpret gettext `Plural-Forms` expressions. Adding a language with other count rules requires extending `tr()`.
@@ -179,7 +179,7 @@ It reads flat by intent. The layout is immediate-mode: every frame rebuilds the 
 | `app/password.odin` | The allocation-free password-strength heuristic and input cache |
 | `tests/smoke/` | Standalone liveness check for the bindings against a fresh home dir |
 | `themes/` | The theme packs, `#load`ed at build time |
-| `lang/` | gettext catalogs (`en` source, plus `it`, `de`, `ja`, `ko`), `#load`ed at build time |
+| `lang/` | gettext catalogs (`en` source, plus `it`, `de`, `ja`, `ko`, `fi`), `#load`ed at build time |
 | `assets/` | Logo, fonts, and the SVG starter-avatar set |
 
 ## Design choices to know before you dig in
